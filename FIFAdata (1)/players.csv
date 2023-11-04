@@ -1,0 +1,681 @@
+ID,first name,last name,birth_date,shirt number,role,team_name
+P-73712,Marcos,Acuña,1991-10-28,8,&midfielder&defender&&,Argentina
+P-56659,Thiago,Almada,2001-04-26,16,&midfielder&&&,Argentina
+P-92353,Ángel,Correa,1995-03-09,15,forward&&&&,Argentina
+P-37314,Rodrigo,De Paul,1994-05-24,7,&midfielder&&&,Argentina
+P-42113,Ángel,Di María,1988-02-14,11,forward&midfielder&&&,Argentina
+P-28151,Paulo,Dybala,1993-11-15,21,forward&&&&,Argentina
+P-10739,Enzo,Fernández,2001-01-17,24,&midfielder&&&,Argentina
+P-00652,Juan,Foyth,1998-01-12,2,&&defender&&,Argentina
+P-10231,Papu,Gómez,1988-02-15,17,&midfielder&&&,Argentina
+P-71343,Alexis,Mac Allister,1998-12-24,20,&midfielder&&&,Argentina
+P-13162,Emiliano,Martínez,1992-09-02,23,&&&goalkeeper&,Argentina
+P-81505,Lautaro,Martínez,1997-08-22,22,forward&&&&,Argentina
+P-23070,Lisandro,Martínez,1998-01-18,25,&&defender&&,Argentina
+P-14758,Lionel,Messi,1987-06-24,10,forward&&&&,Argentina
+P-84430,Nahuel,Molina,1998-04-06,26,&&defender&&,Argentina
+P-91431,Gonzalo,Montiel,1997-01-01,4,&&defender&&,Argentina
+P-49114,Nicolás,Otamendi,1988-02-12,19,&&defender&&,Argentina
+P-40147,Exequiel,Palacios,1998-10-05,14,&midfielder&&&,Argentina
+P-27582,Leandro,Paredes,1994-06-29,5,&midfielder&&&,Argentina
+P-29298,Germán,Pezzella,1991-06-27,6,&&defender&&,Argentina
+P-03265,Guido,Rodríguez,1994-04-12,18,&midfielder&&&,Argentina
+P-79650,Cristian,Romero,1998-04-27,13,&&defender&&,Argentina
+P-35173,Nicolás,Tagliafico,1992-08-31,3,&&defender&&,Argentina
+P-19776,Julián,Álvarez,2000-01-31,9,forward&&&&,Argentina
+P-09062,Nathaniel,Atkinson,1999-06-13,3,&&defender&&,Australia
+P-27035,Keanu,Baccus,1998-06-07,26,&midfielder&&&,Australia
+P-51118,Aziz,Behich,1990-12-16,16,&&defender&&,Australia
+P-67089,Jason,Cummings,1995-08-01,25,forward&&&&,Australia
+P-59727,Miloš,Degenek,1994-04-28,2,&&defender&&,Australia
+P-91029,Mitchell,Duke,1991-01-18,15,forward&&&&,Australia
+P-82010,Craig,Goodwin,1991-12-16,23,forward&&&&,Australia
+P-82945,Ajdin,Hrustic,1996-07-05,10,&midfielder&&&,Australia
+P-34822,Jackson,Irvine,1993-03-07,22,&midfielder&&&,Australia
+P-24134,Fran,Karacic,1996-05-12,5,&&defender&&,Australia
+P-05864,Garang,Kuol,2004-09-15,21,forward&&&&,Australia
+P-35837,Mathew,Leckie,1991-02-04,7,forward&&&&,Australia
+P-61979,Awer,Mabil,1995-09-15,11,forward&&&&,Australia
+P-20087,Jamie,Maclaren,1993-07-29,9,forward&&&&,Australia
+P-51406,Riley,McGree,1998-11-02,14,&midfielder&&&,Australia
+P-95847,Aaron,Mooy,1990-09-15,13,&midfielder&&&,Australia
+P-88273,Kye,Rowles,1998-06-24,4,&&defender&&,Australia
+P-10244,Mathew,Ryan,1992-04-08,1,&&&goalkeeper&,Australia
+P-89217,Harry,Souttar,1998-10-22,19,&&defender&&,Australia
+P-97422,Bailey,Wright,1992-07-28,8,&&defender&&,Australia
+P-70547,Toby,Alderweireld,1989-03-02,2,&&defender&&,Belgium
+P-13975,Michy,Batshuayi,1993-10-02,23,forward&&&&,Belgium
+P-06338,Yannick,Carrasco,1993-09-04,11,forward&midfielder&&&,Belgium
+P-56069,Timothy,Castagne,1995-12-05,21,&midfielder&&&,Belgium
+P-09658,Thibaut,Courtois,1992-05-11,1,&&&goalkeeper&,Belgium
+P-48955,Kevin,De Bruyne,1991-06-28,7,&midfielder&&&,Belgium
+P-61810,Charles,De Ketelaere,2001-03-10,22,forward&&&&,Belgium
+P-73834,Leander,Dendoncker,1995-04-15,19,&&defender&&,Belgium
+P-29578,Jérémy,Doku,2002-05-27,25,forward&&&&,Belgium
+P-72011,Eden,Hazard,1991-01-07,10,forward&midfielder&&&,Belgium
+P-74337,Thorgan,Hazard,1993-03-29,16,&midfielder&&&,Belgium
+P-72637,Romelu,Lukaku,1993-05-13,9,forward&&&&,Belgium
+P-84852,Dries,Mertens,1987-05-06,14,forward&&&&,Belgium
+P-22930,Thomas,Meunier,1991-09-12,15,&midfielder&defender&&,Belgium
+P-21652,Amadou,Onana,2001-08-16,18,&midfielder&&&,Belgium
+P-70691,Loïs,Openda,2000-02-16,24,forward&&&&,Belgium
+P-47906,Youri,Tielemans,1997-05-07,8,&midfielder&&&,Belgium
+P-95312,Leandro,Trossard,1994-12-04,17,forward&&&&,Belgium
+P-64049,Jan,Vertonghen,1987-04-24,5,&&defender&&,Belgium
+P-53048,Axel,Witsel,1989-01-12,6,&midfielder&&&,Belgium
+P-21531,not applicable,Alisson,1992-10-02,1,&&&goalkeeper&,Brazil
+P-09441,Dani,Alves,1983-05-06,13,&&defender&&,Brazil
+P-37860,not applicable,Antony,2000-02-24,19,forward&&&&,Brazil
+P-14060,not applicable,Bremer,1997-03-18,24,&&defender&&,Brazil
+P-02305,not applicable,Casemiro,1992-02-23,5,&midfielder&&&,Brazil
+P-40137,not applicable,Danilo,1991-07-15,2,&&defender&&,Brazil
+P-89248,not applicable,Ederson,1993-08-17,23,&&&goalkeeper&,Brazil
+P-77071,not applicable,Fabinho,1993-10-23,15,&midfielder&&&,Brazil
+P-74941,not applicable,Fred,1993-03-05,8,&midfielder&&&,Brazil
+P-74688,Bruno,Guimarães,1997-11-16,17,&midfielder&&&,Brazil
+P-92004,Gabriel,Jesus,1997-04-03,18,forward&&&&,Brazil
+P-92812,Vinícius,Júnior,2000-07-12,20,forward&&&&,Brazil
+P-76060,not applicable,Marquinhos,1994-05-14,4,&&defender&&,Brazil
+P-70483,Gabriel,Martinelli,2001-06-18,26,forward&&&&,Brazil
+P-55590,Éder,Militão,1998-01-18,14,&&defender&&,Brazil
+P-87008,not applicable,Neymar,1992-02-05,10,forward&&&&,Brazil
+P-05164,Lucas,Paquetá,1997-08-27,7,&midfielder&&&,Brazil
+P-15197,not applicable,Pedro,1997-06-20,25,forward&&&&,Brazil
+P-83169,not applicable,Raphinha,1996-12-14,11,forward&&&&,Brazil
+P-42740,Éverton,Ribeiro,1989-04-10,22,&midfielder&&&,Brazil
+P-68016,not applicable,Richarlison,1997-05-10,9,forward&&&&,Brazil
+P-06446,not applicable,Rodrygo,2001-01-09,21,forward&&&&,Brazil
+P-97698,Alex,Sandro,1991-01-26,6,&&defender&&,Brazil
+P-32798,Thiago,Silva,1984-09-22,3,&&defender&&,Brazil
+P-26953,Alex,Telles,1992-12-15,16,&&defender&&,Brazil
+P-66020,not applicable,Weverton,1987-12-13,12,&&&goalkeeper&,Brazil
+P-53452,Vincent,Aboubakar,1992-01-22,10,forward&&&&,Cameroon
+P-51549,Christian,Bassogog,1995-10-18,11,forward&&&&,Cameroon
+P-59303,Jean-Charles,Castelletto,1995-01-26,21,&&defender&&,Cameroon
+P-06117,Eric Maxim,Choupo-Moting,1989-03-23,13,forward&&&&,Cameroon
+P-02759,Enzo,Ebosse,1999-03-11,24,&&defender&&,Cameroon
+P-70357,Devis,Epassy,1993-02-02,16,&&&goalkeeper&,Cameroon
+P-47677,Collins,Fai,1992-08-13,19,&&defender&&,Cameroon
+P-63923,Samuel,Gouet,1997-12-14,14,&midfielder&&&,Cameroon
+P-34633,Martin,Hongla,1998-03-16,18,&midfielder&&&,Cameroon
+P-29115,Pierre,Kunde,1995-07-26,15,&midfielder&&&,Cameroon
+P-39394,Bryan,Mbeumo,1999-08-07,20,forward&&&&,Cameroon
+P-27913,Moumi,Ngamaleu,1994-07-09,6,forward&&&&,Cameroon
+P-32773,Jerome,Ngom Mbekeli,1998-09-30,2,&&defender&&,Cameroon
+P-68058,Georges-Kévin,Nkoudou,1995-02-13,7,&midfielder&&&,Cameroon
+P-93209,Nicolas,Nkoulou,1990-03-27,3,&&defender&&,Cameroon
+P-62618,Olivier,Ntcham,1996-02-09,22,&midfielder&&&,Cameroon
+P-67127,André,Onana,1996-04-02,23,&&&goalkeeper&,Cameroon
+P-36707,Gaël,Ondoua,1995-11-04,5,&midfielder&&&,Cameroon
+P-20259,Karl,Toko Ekambi,1992-09-14,12,forward&&&&,Cameroon
+P-55367,Nouhou,Tolo,1997-06-23,25,&&defender&&,Cameroon
+P-74894,Christopher,Wooh,2001-09-18,4,&&defender&&,Cameroon
+P-38355,André-Frank,Zambo Anguissa,1995-11-16,8,&midfielder&&&,Cameroon
+P-55821,Sam,Adekugbe,1995-01-16,3,&&defender&&,Canada
+P-46263,Milan,Borjan,1987-10-23,18,&&&goalkeeper&,Canada
+P-96259,Tajon,Buchanan,1999-02-08,11,forward&&&&,Canada
+P-58061,Lucas,Cavallini,1992-12-28,9,forward&&&&,Canada
+P-48340,Jonathan,David,2000-01-14,20,forward&&&&,Canada
+P-46358,Alphonso,Davies,2000-11-02,19,forward&&&&,Canada
+P-28794,Stephen,Eustáquio,1996-12-21,7,&midfielder&&&,Canada
+P-35706,Junior,Hoilett,1990-06-05,10,&midfielder&&&,Canada
+P-03472,Atiba,Hutchinson,1983-02-08,13,&midfielder&&&,Canada
+P-12635,Alistair,Johnston,1998-10-08,2,&&defender&&,Canada
+P-72399,Mark-Anthony,Kaye,1994-12-02,14,&midfielder&&&,Canada
+P-85670,Ismaël,Koné,2002-06-16,15,&midfielder&&&,Canada
+P-01925,Cyle,Larin,1995-04-17,17,forward&&&&,Canada
+P-42390,Richie,Laryea,1995-01-07,22,&&defender&&,Canada
+P-00809,Liam,Millar,1999-09-27,23,&midfielder&&&,Canada
+P-31806,Kamal,Miller,1997-05-16,4,&&defender&&,Canada
+P-27541,Jonathan,Osorio,1992-06-12,21,&midfielder&&&,Canada
+P-89710,Steven,Vitória,1987-01-11,5,&&defender&&,Canada
+P-49915,David,Wotherspoon,1990-01-16,24,&midfielder&&&,Canada
+P-44957,Brandon,Aguilera,2003-06-28,20,&midfielder&&&,Costa Rica
+P-09889,Jewison,Bennette,2004-06-15,9,&midfielder&&&,Costa Rica
+P-11767,Celso,Borges,1988-05-27,5,&midfielder&&&,Costa Rica
+P-71100,Francisco,Calvo,1992-07-08,15,&&defender&&,Costa Rica
+P-70812,Joel,Campbell,1992-06-26,12,forward&&&&,Costa Rica
+P-57150,Daniel,Chacón,2001-04-11,2,&midfielder&&&,Costa Rica
+P-02556,Anthony,Contreras,2000-01-29,7,forward&&&&,Costa Rica
+P-97912,Óscar,Duarte,1989-06-03,6,&&defender&&,Costa Rica
+P-80986,Keysher,Fuller,1994-07-12,4,&&defender&&,Costa Rica
+P-39281,Carlos,Martínez,1999-03-30,16,&&defender&&,Costa Rica
+P-37189,Rónald,Matarrita,1994-07-09,22,&&defender&&,Costa Rica
+P-81392,Keylor,Navas,1986-12-15,1,&&&goalkeeper&,Costa Rica
+P-10740,Bryan,Oviedo,1990-02-18,8,&&defender&&,Costa Rica
+P-99590,Bryan,Ruiz,1985-08-18,10,forward&midfielder&&&,Costa Rica
+P-32622,Youstin,Salas,1996-06-17,14,&midfielder&&&,Costa Rica
+P-24978,Yeltsin,Tejeda,1992-03-17,17,&midfielder&&&,Costa Rica
+P-12179,Gerson,Torres,1997-08-28,13,&midfielder&&&,Costa Rica
+P-65777,Juan Pablo,Vargas,1995-06-06,3,&&defender&&,Costa Rica
+P-58669,Johan,Venegas,1988-11-27,11,forward&&&&,Costa Rica
+P-37984,Kendall,Waston,1988-01-01,19,&&defender&&,Costa Rica
+P-23993,Roan,Wilson,2002-05-01,24,&midfielder&&&,Costa Rica
+P-22631,Álvaro,Zamora,2002-03-09,26,&midfielder&&&,Costa Rica
+P-95766,Borna,Barišic,1992-11-10,3,&&defender&&,Croatia
+P-79215,Marcelo,Brozovic,1992-11-16,11,&midfielder&&&,Croatia
+P-99461,Ante,Budimir,1991-07-22,17,forward&&&&,Croatia
+P-58420,Joško,Gvardiol,2002-01-23,20,&&defender&&,Croatia
+P-86466,Kristijan,Jakic,1997-05-14,26,&midfielder&&&,Croatia
+P-16484,Josip,Juranovic,1995-08-16,22,&&defender&&,Croatia
+P-07670,Mateo,Kovacic,1994-05-06,8,&midfielder&&&,Croatia
+P-65182,Andrej,Kramaric,1991-06-19,9,forward&&&&,Croatia
+P-31643,Marko,Livaja,1993-08-26,14,forward&&&&,Croatia
+P-99988,Dominik,Livakovic,1995-01-09,1,&&&goalkeeper&,Croatia
+P-56297,Dejan,Lovren,1989-07-05,6,&&defender&&,Croatia
+P-64353,Lovro,Majer,1998-01-17,7,&midfielder&&&,Croatia
+P-29491,Luka,Modric,1985-09-09,10,&midfielder&&&,Croatia
+P-26942,Mislav,Oršic,1992-12-29,18,forward&&&&,Croatia
+P-89948,Mario,Pašalic,1995-02-09,15,&midfielder&&&,Croatia
+P-93884,Ivan,Perišic,1989-02-02,4,forward&midfielder&&&,Croatia
+P-46461,Bruno,Petkovic,1994-09-16,16,forward&&&&,Croatia
+P-84190,Borna,Sosa,1998-01-21,19,&&defender&&,Croatia
+P-91350,Josip,Stanišic,2000-04-02,2,&&defender&&,Croatia
+P-22160,Nikola,Vlašic,1997-10-04,13,&midfielder&&&,Croatia
+P-57417,Josip,Šutalo,2000-02-28,24,&&defender&&,Croatia
+P-43705,Joachim,Andersen,1996-05-31,2,&&defender&&,Denmark
+P-92135,Alexander,Bah,1997-12-09,26,&&defender&&,Denmark
+P-85579,Martin,Braithwaite,1991-06-05,9,forward&&&&,Denmark
+P-18923,Andreas,Christensen,1996-04-10,6,&&defender&&,Denmark
+P-29053,Andreas,Cornelius,1993-03-16,21,forward&&&&,Denmark
+P-57782,Mikkel,Damsgaard,2000-07-03,14,&midfielder&&&,Denmark
+P-57615,Thomas,Delaney,1991-09-03,8,&midfielder&&&,Denmark
+P-72592,Kasper,Dolberg,1997-10-06,12,forward&&&&,Denmark
+P-50104,Christian,Eriksen,1992-02-14,10,&midfielder&&&,Denmark
+P-98199,Pierre-Emile,Højbjerg,1995-08-05,23,&midfielder&&&,Denmark
+P-26593,Mathias,Jensen,1996-01-01,7,&midfielder&&&,Denmark
+P-14988,Simon,Kjær,1989-03-26,4,&&defender&&,Denmark
+P-82877,Rasmus,Kristensen,1997-07-11,13,&&defender&&,Denmark
+P-70516,Jesper,Lindstrøm,2000-02-29,25,&midfielder&&&,Denmark
+P-39995,Joakim,Mæhle,1997-05-20,5,&&defender&&,Denmark
+P-49454,Victor,Nelsson,1998-10-14,3,&&defender&&,Denmark
+P-56182,Christian,Nørgaard,1994-03-10,15,&midfielder&&&,Denmark
+P-82313,Andreas Skov,Olsen,1999-12-29,11,&midfielder&&&,Denmark
+P-58755,Kasper,Schmeichel,1986-11-05,1,&&&goalkeeper&,Denmark
+P-76468,Robert,Skov,1996-05-20,24,&midfielder&&&,Denmark
+P-82216,Moisés,Caicedo,2001-11-02,23,&midfielder&&&,Ecuador
+P-75628,José,Cifuentes,1999-03-12,5,&midfielder&&&,Ecuador
+P-44851,Michael,Estrada,1996-04-07,11,forward&&&&,Ecuador
+P-52697,Pervis,Estupiñán,1998-01-21,7,&&defender&&,Ecuador
+P-28364,Alan,Franco,1998-08-21,21,&midfielder&&&,Ecuador
+P-56347,Hernán,Galíndez,1987-03-30,1,&&&goalkeeper&,Ecuador
+P-13321,Carlos,Gruezo,1995-04-19,8,&midfielder&&&,Ecuador
+P-29713,Piero,Hincapié,2002-01-09,3,&&defender&&,Ecuador
+P-34543,Romario,Ibarra,1994-09-24,10,&midfielder&&&,Ecuador
+P-56839,Sebas,Méndez,1997-04-26,20,&midfielder&&&,Ecuador
+P-13973,Gonzalo,Plata,2000-11-01,19,&midfielder&&&,Ecuador
+P-73694,Jackson,Porozo,2000-08-04,25,&&defender&&,Ecuador
+P-62543,Ángelo,Preciado,1998-02-18,17,&&defender&&,Ecuador
+P-69217,Djorkaeff,Reasco,1999-01-18,24,forward&&&&,Ecuador
+P-02839,Kevin,Rodríguez,2000-03-04,26,forward&&&&,Ecuador
+P-78091,Jeremy,Sarmiento,2002-06-16,16,&midfielder&&&,Ecuador
+P-96347,Félix,Torres,1997-01-11,2,&&defender&&,Ecuador
+P-75912,Enner,Valencia,1989-11-04,13,forward&&&&,Ecuador
+P-05318,Trent,Alexander-Arnold,1998-10-07,18,&&defender&&,England
+P-15674,Jude,Bellingham,2003-06-29,22,&midfielder&&&,England
+P-31219,Eric,Dier,1994-01-15,15,&midfielder&defender&&,England
+P-10501,Phil,Foden,2000-05-28,20,&midfielder&&&,England
+P-21153,Jack,Grealish,1995-09-10,7,forward&&&&,England
+P-08169,Jordan,Henderson,1990-06-17,8,&midfielder&&&,England
+P-58924,Harry,Kane,1993-07-28,9,forward&&&&,England
+P-02465,Harry,Maguire,1993-03-05,6,&&defender&&,England
+P-90012,Mason,Mount,1999-01-10,19,&midfielder&&&,England
+P-43567,Kalvin,Phillips,1995-12-02,14,&midfielder&&&,England
+P-70618,Jordan,Pickford,1994-03-07,1,&&&goalkeeper&,England
+P-59837,Marcus,Rashford,1997-10-31,11,forward&&&&,England
+P-84787,Declan,Rice,1999-01-14,4,&midfielder&&&,England
+P-76842,Bukayo,Saka,2001-09-05,17,forward&&&&,England
+P-36400,Luke,Shaw,1995-07-12,3,&&defender&&,England
+P-21553,Raheem,Sterling,1994-12-08,10,forward&midfielder&&&,England
+P-92628,John,Stones,1994-05-28,5,&&defender&&,England
+P-25937,Kieran,Trippier,1990-09-19,12,&&defender&&,England
+P-74071,Kyle,Walker,1990-05-28,2,&&defender&&,England
+P-22844,Callum,Wilson,1992-02-27,24,forward&&&&,England
+P-80996,Eduardo,Camavinga,2002-11-10,25,&midfielder&&&,France
+P-06614,Kingsley,Coman,1996-06-13,20,forward&&&&,France
+P-97778,Ousmane,Dembélé,1997-05-15,11,forward&&&&,France
+P-91324,Axel,Disasi,1998-03-11,3,&&defender&&,France
+P-23304,Youssouf,Fofana,1999-01-10,13,&midfielder&&&,France
+P-89750,Olivier,Giroud,1986-09-30,9,forward&&&&,France
+P-90908,Antoine,Griezmann,1991-03-21,7,forward&&&&,France
+P-32431,Matteo,Guendouzi,1999-04-14,6,&midfielder&&&,France
+P-84424,Lucas,Hernandez,1996-02-14,21,&&defender&&,France
+P-09867,Théo,Hernandez,1997-10-06,22,&&defender&&,France
+P-92987,Randal,Kolo Muani,1998-12-05,12,forward&&&&,France
+P-86920,Ibrahima,Konaté,1999-05-25,24,&&defender&&,France
+P-78484,Jules,Koundé,1998-11-12,5,&&defender&&,France
+P-30711,Hugo,Lloris,1986-12-26,1,&&&goalkeeper&,France
+P-69594,Steve,Mandanda,1985-03-28,16,&&&goalkeeper&,France
+P-64077,Kylian,Mbappé,1998-12-20,10,forward&&&&,France
+P-60652,Benjamin,Pavard,1996-03-28,2,&&defender&&,France
+P-57401,Adrien,Rabiot,1995-04-03,14,&midfielder&&&,France
+P-07089,William,Saliba,2001-03-24,17,&&defender&&,France
+P-54517,Aurélien,Tchouaméni,2000-01-27,8,&midfielder&&&,France
+P-13613,Marcus,Thuram,1997-08-06,26,forward&&&&,France
+P-03945,Dayot,Upamecano,1998-10-27,18,&&defender&&,France
+P-42326,Raphaël,Varane,1993-04-25,4,&&defender&&,France
+P-00465,Jordan,Veretout,1993-03-01,15,&midfielder&&&,France
+P-46246,Niclas,Füllkrug,1993-02-09,9,forward&&&&,Germany
+P-36126,Matthias,Ginter,1994-01-19,4,&&defender&&,Germany
+P-75989,Serge,Gnabry,1995-07-14,10,forward&&&&,Germany
+P-79409,Leon,Goretzka,1995-02-06,8,&midfielder&&&,Germany
+P-63673,Mario,Götze,1992-06-03,11,&midfielder&&&,Germany
+P-08896,Ilkay,Gündogan,1990-10-24,21,&midfielder&&&,Germany
+P-77743,Kai,Havertz,1999-06-11,7,forward&&&&,Germany
+P-18188,Jonas,Hofmann,1992-07-14,18,&midfielder&&&,Germany
+P-11933,Thilo,Kehrer,1996-09-21,5,&&defender&&,Germany
+P-30316,Joshua,Kimmich,1995-02-08,6,&midfielder&defender&&,Germany
+P-89863,Lukas,Klostermann,1996-06-03,16,&&defender&&,Germany
+P-04137,Youssoufa,Moukoko,2004-11-20,26,forward&&&&,Germany
+P-47182,Jamal,Musiala,2003-02-26,14,&midfielder&&&,Germany
+P-28154,Thomas,Müller,1989-09-13,13,forward&midfielder&&&,Germany
+P-19408,Manuel,Neuer,1986-03-27,1,&&&goalkeeper&,Germany
+P-20804,David,Raum,1998-04-22,3,&&defender&&,Germany
+P-51201,Antonio,Rüdiger,1993-03-03,2,&&defender&&,Germany
+P-39464,Leroy,Sané,1996-01-11,19,&midfielder&&&,Germany
+P-71859,Nico,Schlotterbeck,1999-12-01,23,&&defender&&,Germany
+P-48737,Niklas,Süle,1995-09-03,15,&&defender&&,Germany
+P-21820,Salis,Abdul Samed,2000-03-26,21,&midfielder&&&,Ghana
+P-82956,Daniel,Amartey,1994-12-21,18,&&defender&&,Ghana
+P-51990,Lawrence,Ati-Zigi,1996-11-29,1,&&&goalkeeper&,Ghana
+P-01945,André,Ayew,1989-12-17,10,forward&midfielder&&&,Ghana
+P-31765,Jordan,Ayew,1991-09-11,9,forward&&&&,Ghana
+P-72363,Osman,Bukari,1998-12-13,11,&midfielder&&&,Ghana
+P-59808,Alexander,Djiku,1994-08-09,23,&&defender&&,Ghana
+P-62854,Abdul Fatawu,Issahaku,2004-03-08,7,&midfielder&&&,Ghana
+P-23821,Mohammed,Kudus,2000-08-02,20,&midfielder&&&,Ghana
+P-92252,Daniel-Kofi,Kyereh,1996-03-08,8,&midfielder&&&,Ghana
+P-12913,Tariq,Lamptey,2000-09-30,2,&&defender&&,Ghana
+P-28517,Gideon,Mensah,1998-07-18,14,&&defender&&,Ghana
+P-08359,Denis,Odoi,1988-05-27,3,&&defender&&,Ghana
+P-07875,Thomas,Partey,1993-06-13,5,&midfielder&&&,Ghana
+P-94579,Baba,Rahman,1994-07-02,17,&&defender&&,Ghana
+P-50142,Mohammed,Salisu,1999-04-17,4,&&defender&&,Ghana
+P-36105,Alidu,Seidu,2000-06-04,26,&&defender&&,Ghana
+P-14179,Antoine,Semenyo,2000-01-07,25,forward&&&&,Ghana
+P-33325,Kamaldeen,Sulemana,2002-02-15,22,&midfielder&&&,Ghana
+P-53967,Iñaki,Williams,1994-06-15,19,forward&&&&,Ghana
+P-53957,Karim,Ansarifard,1990-04-03,10,forward&&&&,Iran
+P-09113,Sardar,Azmoun,1995-01-01,20,forward&&&&,Iran
+P-20998,Alireza,Beiranvand,1992-09-21,1,&&&goalkeeper&,Iran
+P-98747,Rouzbeh,Cheshmi,1993-07-24,15,&&defender&&,Iran
+P-95374,Saeid,Ezatolahi,1996-10-01,6,&midfielder&&&,Iran
+P-87786,Saman,Ghoddos,1993-09-06,14,forward&midfielder&&&,Iran
+P-45653,Ali,Gholizadeh,1996-03-10,17,&midfielder&&&,Iran
+P-75785,Ehsan,Hajsafi,1990-02-25,3,&midfielder&defender&&,Iran
+P-28492,Hossein,Hosseini,1992-06-30,24,&&&goalkeeper&,Iran
+P-15905,Majid,Hosseini,1996-06-20,19,&&defender&&,Iran
+P-98775,Alireza,Jahanbakhsh,1993-08-11,7,forward&midfielder&&&,Iran
+P-62858,Abolfazl,Jalali,1998-06-26,25,&&defender&&,Iran
+P-74612,Hossein,Kanaanizadegan,1994-03-23,13,&&defender&&,Iran
+P-68842,Ali,Karimi,1994-02-11,18,&midfielder&&&,Iran
+P-74098,Milad,Mohammadi,1993-09-29,5,&&defender&&,Iran
+P-84382,Sadegh,Moharrami,1996-03-01,2,&&defender&&,Iran
+P-42215,Ahmad,Nourollahi,1993-02-01,21,&midfielder&&&,Iran
+P-29864,Morteza,Pouraliganji,1992-04-19,8,&&defender&&,Iran
+P-47137,Ramin,Rezaeian,1990-03-21,23,&&defender&&,Iran
+P-85860,Mehdi,Taremi,1992-07-18,9,forward&&&&,Iran
+P-04541,Mehdi,Torabi,1994-09-10,16,&midfielder&&&,Iran
+P-46913,Takuma,Asano,1994-11-10,18,forward&&&&,Japan
+P-58907,Ritsu,Doan,1998-06-16,8,&midfielder&&&,Japan
+P-53282,Wataru,Endo,1993-02-09,6,&midfielder&defender&&,Japan
+P-66906,Shuichi,Gonda,1989-03-03,12,&&&goalkeeper&,Japan
+P-35225,Ko,Itakura,1997-01-27,4,&&defender&&,Japan
+P-41902,Hiroki,Ito,1999-05-12,26,&&defender&&,Japan
+P-86909,Junya,Ito,1993-03-09,14,&midfielder&&&,Japan
+P-62952,Daichi,Kamada,1996-08-05,15,&midfielder&&&,Japan
+P-39942,Takefusa,Kubo,2001-06-04,11,&midfielder&&&,Japan
+P-30206,Daizen,Maeda,1997-10-20,25,forward&&&&,Japan
+P-05559,Takumi,Minamino,1995-01-16,10,&midfielder&&&,Japan
+P-22633,Kaoru,Mitoma,1997-05-20,9,&midfielder&&&,Japan
+P-75751,Hidemasa,Morita,1995-05-10,13,&midfielder&&&,Japan
+P-26303,Yuto,Nagatomo,1986-09-12,5,&&defender&&,Japan
+P-56398,Hiroki,Sakai,1990-04-12,19,&&defender&&,Japan
+P-64056,Yuki,Soma,1997-02-25,24,&midfielder&&&,Japan
+P-82447,Ao,Tanaka,1998-09-10,17,&midfielder&&&,Japan
+P-77382,Shogo,Taniguchi,1991-07-15,3,&&defender&&,Japan
+P-68429,Takehiro,Tomiyasu,1998-11-05,16,&&defender&&,Japan
+P-57586,Ayase,Ueda,1998-08-28,21,forward&&&&,Japan
+P-45981,Miki,Yamane,1993-12-22,2,&&defender&&,Japan
+P-89321,Maya,Yoshida,1988-08-24,22,&&defender&&,Japan
+P-73491,Roberto,Alvarado,1998-09-07,25,forward&&&&,Mexico
+P-81433,Uriel,Antuna,1997-08-21,21,forward&&&&,Mexico
+P-38529,Néstor,Araujo,1991-08-29,2,&&defender&&,Mexico
+P-49806,Luis,Chávez,1996-01-15,24,&midfielder&&&,Mexico
+P-51689,Rogelio,Funes Mori,1991-03-05,11,forward&&&&,Mexico
+P-80088,Jesús,Gallardo,1994-08-15,23,&midfielder&defender&&,Mexico
+P-40312,Andrés,Guardado,1986-09-28,18,&midfielder&&&,Mexico
+P-64299,Érick,Gutiérrez,1995-06-15,14,&midfielder&&&,Mexico
+P-42911,Héctor,Herrera,1990-04-19,16,&midfielder&defender&&,Mexico
+P-57865,Raúl,Jiménez,1991-05-05,9,forward&&&&,Mexico
+P-24705,Hirving,Lozano,1995-07-30,22,forward&&&&,Mexico
+P-49482,Henry,Martín,1992-11-18,20,forward&&&&,Mexico
+P-36212,César,Montes,1997-02-24,3,&&defender&&,Mexico
+P-21208,Héctor,Moreno,1988-01-17,15,&&defender&&,Mexico
+P-80826,Guillermo,Ochoa,1985-07-13,13,&&&goalkeeper&,Mexico
+P-95198,Orbelín,Pineda,1996-03-24,17,forward&&&&,Mexico
+P-19618,Carlos,Rodríguez,1997-01-03,8,&midfielder&&&,Mexico
+P-24062,Jorge,Sánchez,1997-12-10,19,&&defender&&,Mexico
+P-64182,Alexis,Vega,1997-11-25,10,forward&&&&,Mexico
+P-26546,Edson,Álvarez,1997-10-24,4,&&defender&&,Mexico
+P-09058,Kevin,Álvarez,1999-01-15,26,&&defender&&,Mexico
+P-48295,Zakaria,Aboukhlal,2000-02-18,14,&midfielder&&&,Morocco
+P-47490,Nayef,Aguerd,1996-03-30,5,&&defender&&,Morocco
+P-23330,Selim,Amallah,1996-11-15,15,&midfielder&&&,Morocco
+P-71023,Sofyan,Amrabat,1996-08-21,4,&midfielder&&&,Morocco
+P-91543,Yahia,Attiyat Allah,1995-03-02,25,&&defender&&,Morocco
+P-00597,Badr,Benoun,1993-09-30,24,&&defender&&,Morocco
+P-59033,Sofiane,Boufal,1993-09-17,17,&midfielder&&&,Morocco
+P-50688,Yassine,Bounou,1991-04-05,1,&&&goalkeeper&,Morocco
+P-87409,Ilias,Chair,1997-10-30,13,&midfielder&&&,Morocco
+P-05216,Walid,Cheddira,1998-01-22,21,forward&&&&,Morocco
+P-52013,Achraf,Dari,1999-05-06,20,&&defender&&,Morocco
+P-80656,Bilal,El Khannous,2004-05-10,23,&midfielder&&&,Morocco
+P-14026,Jawad,El Yamiq,1992-02-29,18,&&defender&&,Morocco
+P-42517,Youssef,En-Nesyri,1997-06-01,19,forward&&&&,Morocco
+P-21052,Abde,Ezzalzouli,2001-12-17,16,forward&&&&,Morocco
+P-45288,Achraf,Hakimi,1998-11-04,2,&&defender&&,Morocco
+P-90423,Abderrazak,Hamdallah,1990-12-17,9,forward&&&&,Morocco
+P-86644,Yahya,Jabrane,1991-06-18,26,&midfielder&&&,Morocco
+P-09614,Noussair,Mazraoui,1997-11-14,3,&&defender&&,Morocco
+P-15566,Munir,Mohamedi,1989-05-10,12,&&&goalkeeper&,Morocco
+P-40619,Azzedine,Ounahi,2000-04-19,8,&midfielder&&&,Morocco
+P-05265,Abdelhamid,Sabiri,1996-11-28,11,forward&&&&,Morocco
+P-26068,Romain,Saïss,1990-03-26,6,&&defender&&,Morocco
+P-94093,Anass,Zaroury,2000-11-07,10,&midfielder&&&,Morocco
+P-70715,Hakim,Ziyech,1993-03-19,7,&midfielder&&&,Morocco
+P-64438,Nathan,Aké,1995-02-18,5,&&defender&&,Netherlands
+P-10326,Steven,Berghuis,1991-12-19,11,&midfielder&&&,Netherlands
+P-44799,Steven,Bergwijn,1997-10-08,7,forward&&&&,Netherlands
+P-39861,Daley,Blind,1990-03-09,17,&&defender&&,Netherlands
+P-27540,Memphis,Depay,1994-02-13,10,forward&&&&,Netherlands
+P-97615,Denzel,Dumfries,1996-04-18,22,&&defender&&,Netherlands
+P-28911,Cody,Gakpo,1999-05-07,8,forward&&&&,Netherlands
+P-57087,Vincent,Janssen,1994-06-15,18,forward&&&&,Netherlands
+P-42078,Davy,Klaassen,1993-02-21,14,&midfielder&&&,Netherlands
+P-35705,Teun,Koopmeiners,1998-02-28,20,&midfielder&&&,Netherlands
+P-57903,Noa,Lang,1999-06-17,12,forward&&&&,Netherlands
+P-82000,Andries,Noppert,1994-04-07,23,&&&goalkeeper&,Netherlands
+P-34458,Xavi,Simons,2003-04-21,25,&midfielder&&&,Netherlands
+P-95763,Kenneth,Taylor,2002-05-16,24,&midfielder&&&,Netherlands
+P-74111,Jurriën,Timber,2001-06-17,2,&&defender&&,Netherlands
+P-95036,Wout,Weghorst,1992-08-07,19,forward&&&&,Netherlands
+P-17688,Frenkie,de Jong,1997-05-12,21,&midfielder&&&,Netherlands
+P-64551,Luuk,de Jong,1990-08-27,9,forward&&&&,Netherlands
+P-73572,Matthijs,de Ligt,1999-08-12,3,&&defender&&,Netherlands
+P-55965,Marten,de Roon,1991-03-29,15,&midfielder&&&,Netherlands
+P-56029,Virgil,van Dijk,1991-07-08,4,&&defender&&,Netherlands
+P-10172,Jan,Bednarek,1996-04-12,5,&&defender&&,Poland
+P-42160,Bartosz,Bereszynski,1992-07-12,18,&&defender&&,Poland
+P-14593,Krystian,Bielik,1998-01-04,6,&midfielder&&&,Poland
+P-17099,Matty,Cash,1997-08-07,2,&&defender&&,Poland
+P-23437,Przemyslaw,Frankowski,1995-04-12,24,&midfielder&&&,Poland
+P-29046,Kamil,Glik,1988-02-03,15,&&defender&&,Poland
+P-64261,Kamil,Grosicki,1988-06-08,11,&midfielder&&&,Poland
+P-61813,Artur,Jedrzejczyk,1987-11-04,3,&&defender&&,Poland
+P-83610,Jakub,Kaminski,2002-06-05,13,&midfielder&&&,Poland
+P-44780,Jakub,Kiwior,2000-02-15,14,&&defender&&,Poland
+P-45449,Grzegorz,Krychowiak,1990-01-29,10,&midfielder&&&,Poland
+P-00549,Robert,Lewandowski,1988-08-21,9,forward&&&&,Poland
+P-12381,Arkadiusz,Milik,1994-02-28,7,forward&&&&,Poland
+P-11013,Krzysztof,Piatek,1995-07-01,23,forward&&&&,Poland
+P-02071,Michal,Skóras,2000-02-15,26,&midfielder&&&,Poland
+P-31606,Wojciech,Szczesny,1990-04-18,1,&&&goalkeeper&,Poland
+P-44699,Damian,Szymanski,1995-06-16,8,&midfielder&&&,Poland
+P-65512,Sebastian,Szymanski,1999-05-10,19,&midfielder&&&,Poland
+P-40498,Nicola,Zalewski,2002-01-23,21,&midfielder&&&,Poland
+P-32165,Piotr,Zielinski,1994-05-20,20,&midfielder&&&,Poland
+P-85630,Karol,Swiderski,1997-01-23,16,forward&&&&,Poland
+P-16736,João,Cancelo,1994-05-27,20,&&defender&&,Portugal
+P-44689,William,Carvalho,1992-04-07,14,&midfielder&&&,Portugal
+P-54827,Diogo,Costa,1999-09-19,22,&&&goalkeeper&,Portugal
+P-41603,Diogo,Dalot,1999-03-18,2,&&defender&&,Portugal
+P-10712,Rúben,Dias,1997-05-14,4,&&defender&&,Portugal
+P-39584,Bruno,Fernandes,1994-09-08,8,&midfielder&&&,Portugal
+P-17931,João,Félix,1999-11-10,11,forward&&&&,Portugal
+P-67578,Raphaël,Guerreiro,1993-12-22,5,&&defender&&,Portugal
+P-05304,Ricardo,Horta,1994-09-15,21,forward&&&&,Portugal
+P-27349,Rafael,Leão,1999-06-10,15,forward&&&&,Portugal
+P-87003,Nuno,Mendes,2002-06-19,19,&&defender&&,Portugal
+P-31133,João,Mário,1993-01-19,17,&midfielder&&&,Portugal
+P-22983,Rúben,Neves,1997-03-13,18,&midfielder&&&,Portugal
+P-57759,Matheus,Nunes,1998-08-27,23,&midfielder&&&,Portugal
+P-78787,not applicable,Otávio,1995-02-09,25,&midfielder&&&,Portugal
+P-46583,João,Palhinha,1995-07-09,6,&midfielder&&&,Portugal
+P-81972,not applicable,Pepe,1983-02-26,3,&&defender&&,Portugal
+P-98929,Danilo,Pereira,1991-09-09,13,&&defender&&,Portugal
+P-41647,Gonçalo,Ramos,2001-06-20,26,forward&&&&,Portugal
+P-70442,Cristiano,Ronaldo,1985-02-05,7,forward&&&&,Portugal
+P-33280,André,Silva,1995-11-06,9,forward&&&&,Portugal
+P-05289,António,Silva,2003-10-30,24,&&defender&&,Portugal
+P-34205,Bernardo,Silva,1994-08-10,10,forward&midfielder&&&,Portugal
+P-89266,not applicable,Vitinha,2000-02-13,16,&midfielder&&&,Portugal
+P-47319,Akram,Afif,1996-11-18,11,forward&&&&,Qatar
+P-33804,Homam,Ahmed,1999-08-25,14,&&defender&&,Qatar
+P-38732,Hassan,Al-Haydos,1990-12-11,10,&midfielder&&&,Qatar
+P-15161,Bassam,Al-Rawi,1997-12-16,15,&&defender&&,Qatar
+P-70879,Saad,Al-Sheeb,1990-02-19,1,&&&goalkeeper&,Qatar
+P-57100,Ahmed,Alaaeldin,1993-01-31,7,forward&&&&,Qatar
+P-01930,Almoez,Ali,1996-08-19,19,forward&&&&,Qatar
+P-51678,Ali,Assadalla,1993-01-19,8,&midfielder&&&,Qatar
+P-28811,Meshaal,Barsham,1998-02-14,22,&&&goalkeeper&,Qatar
+P-95754,Karim,Boudiaf,1990-09-16,12,&midfielder&&&,Qatar
+P-01258,Abdelkarim,Hassan,1993-08-28,3,&midfielder&&&,Qatar
+P-97800,Abdulaziz,Hatem,1990-01-01,6,&midfielder&&&,Qatar
+P-32949,Musab,Kheder,1993-01-01,13,&&defender&&,Qatar
+P-12810,Boualem,Khoukhi,1990-07-09,16,&&defender&&,Qatar
+P-63532,Assim,Madibo,1996-10-22,23,&midfielder&&&,Qatar
+P-01077,Ismaeel,Mohammad,1990-04-05,17,&&defender&&,Qatar
+P-17048,Mohammed,Muntari,1993-12-20,9,forward&&&&,Qatar
+P-00052,not applicable,Ró-Ró,1990-08-06,2,&&defender&&,Qatar
+P-42663,Tarek,Salman,1997-12-05,5,&&defender&&,Qatar
+P-90689,Mohammed,Waad,1999-09-18,4,&&defender&&,Qatar
+P-08125,Saud,Abdulhamid,1999-07-18,12,&&defender&&,Saudi Arabia
+P-76864,Nawaf,Al-Abed,1990-01-26,18,&midfielder&&&,Saudi Arabia
+P-45581,Abdulrahman,Al-Aboud,1995-06-01,20,forward&&&&,Saudi Arabia
+P-12335,Abdulelah,Al-Amri,1997-01-15,4,&&defender&&,Saudi Arabia
+P-94422,Mohammed,Al-Breik,1992-09-15,6,&&defender&&,Saudi Arabia
+P-87284,Ali,Al-Bulaihi,1989-11-21,5,&&defender&&,Saudi Arabia
+P-89845,Firas,Al-Buraikan,2000-05-14,9,forward&&&&,Saudi Arabia
+P-10907,Nasser,Al-Dawsari,1998-12-19,24,&midfielder&&&,Saudi Arabia
+P-70583,Salem,Al-Dawsari,1991-08-19,10,forward&midfielder&&&,Saudi Arabia
+P-93688,Salman,Al-Faraj,1989-08-01,7,&midfielder&&&,Saudi Arabia
+P-06789,Sultan,Al-Ghannam,1994-05-06,2,&&defender&&,Saudi Arabia
+P-45413,Ali,Al-Hassan,1997-03-04,15,&midfielder&&&,Saudi Arabia
+P-20216,Abdulellah,Al-Malki,1994-10-11,8,&midfielder&&&,Saudi Arabia
+P-87569,Sami,Al-Najei,1997-02-07,16,&midfielder&&&,Saudi Arabia
+P-85438,Mohammed,Al-Owais,1991-10-10,21,&&&goalkeeper&,Saudi Arabia
+P-45457,Yasser,Al-Shahrani,1992-05-25,13,&&defender&&,Saudi Arabia
+P-37308,Saleh,Al-Shehri,1993-11-01,11,forward&&&&,Saudi Arabia
+P-93173,Hassan,Al-Tambakti,1999-02-09,17,&&defender&&,Saudi Arabia
+P-40487,Haitham,Asiri,2001-03-25,25,forward&&&&,Saudi Arabia
+P-84563,Hattan,Bahebri,1992-07-16,19,forward&midfielder&&&,Saudi Arabia
+P-91268,Mohamed,Kanno,1994-09-22,23,&midfielder&&&,Saudi Arabia
+P-20388,Abdullah,Madu,1993-07-15,3,&&defender&&,Saudi Arabia
+P-06750,Riyadh,Sharahili,1993-04-28,26,&midfielder&&&,Saudi Arabia
+P-86095,Fodé,Ballo-Touré,1997-01-03,12,&&defender&&,Senegal
+P-61416,Pathé,Ciss,1994-03-16,11,&midfielder&&&,Senegal
+P-90626,Pape Abou,Cissé,1995-09-14,4,&&defender&&,Senegal
+P-33622,Boulaye,Dia,1996-11-16,9,forward&&&&,Senegal
+P-77769,Abdou,Diallo,1996-05-04,22,&&defender&&,Senegal
+P-09292,Krépin,Diatta,1999-02-25,15,&midfielder&&&,Senegal
+P-88928,Bamba,Dieng,2000-03-23,20,forward&&&&,Senegal
+P-27280,Famara,Diédhiou,1992-12-15,19,forward&&&&,Senegal
+P-40621,Idrissa,Gueye,1989-09-26,5,&midfielder&&&,Senegal
+P-45280,Pape,Gueye,1999-01-24,26,&midfielder&&&,Senegal
+P-86937,Nicolas,Jackson,2001-06-20,7,forward&&&&,Senegal
+P-54506,Ismail,Jakobs,1999-08-17,14,&&defender&&,Senegal
+P-47321,Kalidou,Koulibaly,1991-06-20,3,&&defender&&,Senegal
+P-55140,Cheikhou,Kouyaté,1989-12-21,8,&midfielder&defender&&,Senegal
+P-96697,Nampalys,Mendy,1992-06-23,6,&midfielder&&&,Senegal
+P-45399,Édouard,Mendy,1992-03-01,16,&&&goalkeeper&,Senegal
+P-33958,Iliman,Ndiaye,2000-03-06,13,forward&&&&,Senegal
+P-55298,Youssouf,Sabaly,1993-03-05,21,&&defender&&,Senegal
+P-37935,Ismaïla,Sarr,1998-02-25,18,forward&&&&,Senegal
+P-76835,Pape Matar,Sarr,2002-09-14,17,&midfielder&&&,Senegal
+P-70515,Srdan,Babic,1996-04-22,15,&&defender&&,Serbia
+P-89573,Marko,Grujic,1996-04-13,26,&midfielder&&&,Serbia
+P-24610,Nemanja,Gudelj,1991-11-16,8,&midfielder&&&,Serbia
+P-67641,Ivan,Ilic,2001-03-17,24,&midfielder&&&,Serbia
+P-62033,Luka,Jovic,1997-12-23,11,forward&&&&,Serbia
+P-80738,Filip,Kostic,1992-11-01,17,&midfielder&&&,Serbia
+P-54211,Darko,Lazovic,1990-09-15,22,&midfielder&&&,Serbia
+P-78056,Saša,Lukic,1996-08-13,16,&midfielder&&&,Serbia
+P-89598,Nemanja,Maksimovic,1995-01-26,6,&midfielder&&&,Serbia
+P-57535,Nikola,Milenkovic,1997-10-12,4,&&defender&&,Serbia
+P-27744,Sergej,Milinkovic-Savic,1995-02-27,20,&midfielder&&&,Serbia
+P-24245,Vanja,Milinkovic-Savic,1997-02-20,23,&&&goalkeeper&,Serbia
+P-85696,Aleksandar,Mitrovic,1994-09-16,9,forward&&&&,Serbia
+P-19069,Stefan,Mitrovic,1990-05-22,13,&&defender&&,Serbia
+P-82143,Filip,Mladenovic,1991-08-15,25,&&defender&&,Serbia
+P-98435,Strahinja,Pavlovic,2001-05-24,2,&&defender&&,Serbia
+P-79900,Nemanja,Radonjic,1996-02-15,7,forward&&&&,Serbia
+P-33390,Dušan,Tadic,1988-11-20,10,forward&midfielder&&&,Serbia
+P-30283,Miloš,Veljkovic,1995-09-26,5,&&defender&&,Serbia
+P-63293,Dušan,Vlahovic,2000-01-28,18,forward&&&&,Serbia
+P-79754,Filip,Ðuricic,1992-01-30,21,forward&&&&,Serbia
+P-58363,Andrija,Živkovic,1996-07-11,14,&midfielder&&&,Serbia
+P-88360,Kwon,Chang-hoon,1994-06-30,22,&midfielder&&&,South Korea
+P-87169,Cho,Gue-sung,1998-01-25,9,forward&&&&,South Korea
+P-91889,Chul,Hong,1990-09-17,14,&&defender&&,South Korea
+P-58692,Hee-chan,Hwang,1996-01-26,11,forward&midfielder&&&,South Korea
+P-67516,Hwang,In-beom,1996-09-20,6,&midfielder&&&,South Korea
+P-82889,Kim,Jin-su,1992-06-13,3,&&defender&&,South Korea
+P-61172,Son,Jun-ho,1992-05-12,13,&midfielder&&&,South Korea
+P-64292,Woo-young,Jung,1989-12-14,5,&midfielder&&&,South Korea
+P-87514,Lee,Kang-in,2001-02-19,18,&midfielder&&&,South Korea
+P-42523,Seung-gyu,Kim,1990-09-30,1,&&&goalkeeper&,South Korea
+P-07259,Young-gwon,Kim,1990-02-27,19,&&defender&&,South Korea
+P-57511,Kwon,Kyung-won,1992-01-31,20,&&defender&&,South Korea
+P-93920,Jae-sung,Lee,1992-08-10,10,&midfielder&&&,South Korea
+P-14360,Kim,Min-jae,1996-11-15,4,&&defender&&,South Korea
+P-07233,Kim,Moon-hwan,1995-08-01,15,&&defender&&,South Korea
+P-10357,Na,Sang-ho,1996-08-12,17,&midfielder&&&,South Korea
+P-32599,Paik,Seung-ho,1997-03-17,8,&midfielder&&&,South Korea
+P-77335,Heung-min,Son,1992-07-08,7,forward&midfielder&&&,South Korea
+P-92710,Hwang,Ui-jo,1992-08-28,16,forward&&&&,South Korea
+P-94500,Jeong,Woo-yeong,1999-09-20,25,&midfielder&&&,South Korea
+P-05917,Cho,Yu-min,1996-11-17,24,&&defender&&,South Korea
+P-01416,Jordi,Alba,1989-03-21,18,&&defender&&,Spain
+P-09400,Marco,Asensio,1996-01-21,10,forward&midfielder&&&,Spain
+P-60716,César,Azpilicueta,1989-08-28,2,&&defender&&,Spain
+P-49008,Alejandro,Balde,2003-10-18,14,&&defender&&,Spain
+P-28010,Sergio,Busquets,1988-07-16,5,&midfielder&&&,Spain
+P-71071,Dani,Carvajal,1992-01-11,20,&&defender&&,Spain
+P-33854,Ansu,Fati,2002-10-31,25,forward&&&&,Spain
+P-88433,not applicable,Gavi,2004-08-05,9,&midfielder&&&,Spain
+P-37294,not applicable,Koke,1992-01-08,8,&midfielder&&&,Spain
+P-99025,Aymeric,Laporte,1994-05-27,24,&&defender&&,Spain
+P-86871,Marcos,Llorente,1995-01-30,6,&midfielder&&&,Spain
+P-29274,Álvaro,Morata,1992-10-23,7,forward&&&&,Spain
+P-40007,Dani,Olmo,1998-05-07,21,forward&&&&,Spain
+P-24897,not applicable,Pedri,2002-11-25,26,&midfielder&&&,Spain
+P-62341,not applicable,Rodri,1996-06-22,16,&midfielder&&&,Spain
+P-81427,Pablo,Sarabia,1992-05-11,22,forward&&&&,Spain
+P-94271,Unai,Simón,1997-06-11,23,&&&goalkeeper&,Spain
+P-30405,Carlos,Soler,1997-01-02,19,&midfielder&&&,Spain
+P-31301,Ferran,Torres,2000-02-29,11,forward&&&&,Spain
+P-16333,Pau,Torres,1997-01-16,4,&&defender&&,Spain
+P-68218,Nico,Williams,2002-07-12,12,forward&&&&,Spain
+P-32222,Michel,Aebischer,1997-01-06,14,&midfielder&&&,Switzerland
+P-23925,Manuel,Akanji,1995-07-19,5,&&defender&&,Switzerland
+P-56868,Eray,Cömert,1998-02-04,18,&&defender&&,Switzerland
+P-19193,Nico,Elvedi,1996-09-30,4,&&defender&&,Switzerland
+P-19075,Breel,Embolo,1997-02-14,7,forward&&&&,Switzerland
+P-71875,Christian,Fassnacht,1993-11-11,16,&midfielder&&&,Switzerland
+P-29932,Edimilson,Fernandes,1996-04-15,2,&&defender&&,Switzerland
+P-00244,Fabian,Frei,1989-01-08,20,&midfielder&&&,Switzerland
+P-68060,Remo,Freuler,1992-04-15,8,&midfielder&&&,Switzerland
+P-17496,Ardon,Jashari,2002-07-30,26,&midfielder&&&,Switzerland
+P-06076,Gregor,Kobel,1997-12-06,21,&&&goalkeeper&,Switzerland
+P-85577,Noah,Okafor,2000-05-24,19,forward&&&&,Switzerland
+P-25593,Fabian,Rieder,2002-02-16,25,&midfielder&&&,Switzerland
+P-43367,Ricardo,Rodríguez,1992-08-25,13,&&defender&&,Switzerland
+P-25131,Fabian,Schär,1991-12-20,22,&&defender&&,Switzerland
+P-07180,Haris,Seferovic,1992-02-22,9,forward&&&&,Switzerland
+P-39460,Xherdan,Shaqiri,1991-10-10,23,&midfielder&&&,Switzerland
+P-63312,Yann,Sommer,1988-12-17,1,&&&goalkeeper&,Switzerland
+P-11878,Djibril,Sow,1997-02-06,15,&midfielder&&&,Switzerland
+P-20482,Renato,Steffen,1991-11-03,11,&&defender&&,Switzerland
+P-85823,Ruben,Vargas,1998-08-05,17,forward&&&&,Switzerland
+P-38927,Silvan,Widmer,1993-03-05,3,&&defender&&,Switzerland
+P-77224,Granit,Xhaka,1992-09-27,10,&midfielder&&&,Switzerland
+P-83560,Denis,Zakaria,1996-11-20,6,&midfielder&&&,Switzerland
+P-64924,Ali,Abdi,1993-12-20,24,&&defender&&,Tunisia
+P-42575,Mohamed Ali,Ben Romdhane,1999-09-06,15,&midfielder&&&,Tunisia
+P-45680,Anis,Ben Slimane,2001-03-16,25,forward&&&&,Tunisia
+P-11879,Dylan,Bronn,1995-06-19,6,&&defender&&,Tunisia
+P-09569,Ghailene,Chaalali,1994-02-28,18,forward&midfielder&&&,Tunisia
+P-32803,Aymen,Dahmen,1997-01-28,16,&&&goalkeeper&,Tunisia
+P-49094,Mohamed,Dräger,1996-06-25,20,&&defender&&,Tunisia
+P-68161,Nader,Ghandri,1995-02-18,5,&midfielder&&&,Tunisia
+P-11346,Issam,Jebali,1991-12-25,9,forward&&&&,Tunisia
+P-27079,Wajdi,Kechrida,1995-11-05,21,&&defender&&,Tunisia
+P-42223,Wahbi,Khazri,1991-02-08,10,forward&&&&,Tunisia
+P-21865,Taha Yassine,Khenissi,1992-01-06,11,forward&&&&,Tunisia
+P-29063,Aïssa,Laïdouni,1996-12-13,14,&midfielder&&&,Tunisia
+P-38981,Ali,Maâloul,1990-01-01,12,&&defender&&,Tunisia
+P-48887,Hannibal,Mejbri,2003-01-21,8,&midfielder&&&,Tunisia
+P-81706,Yassine,Meriah,1993-07-02,4,&&defender&&,Tunisia
+P-25741,Youssef,Msakni,1990-10-28,7,forward&&&&,Tunisia
+P-90867,Ferjani,Sassi,1992-03-18,13,&midfielder&&&,Tunisia
+P-47815,Ellyes,Skhiri,1995-05-10,17,&midfielder&&&,Tunisia
+P-69793,Naïm,Sliti,1992-07-27,23,forward&&&&,Tunisia
+P-73455,Montassar,Talbi,1998-05-26,3,&&defender&&,Tunisia
+P-03484,Brenden,Aaronson,2000-10-22,11,forward&&&&,United States
+P-86410,Kellyn,Acosta,1995-07-24,23,&midfielder&&&,United States
+P-14151,Tyler,Adams,1999-02-14,4,&midfielder&&&,United States
+P-25925,Cameron,Carter-Vickers,1997-12-31,20,&&defender&&,United States
+P-89452,Sergiño,Dest,2000-11-03,2,&&defender&&,United States
+P-34132,Jesús,Ferreira,2000-12-24,9,forward&&&&,United States
+P-68952,Weston,McKennie,1998-08-28,8,&midfielder&&&,United States
+P-48265,Shaq,Moore,1996-11-02,18,&&defender&&,United States
+P-77402,Jordan,Morris,1994-10-26,16,forward&&&&,United States
+P-59571,Yunus,Musah,2002-11-29,6,&midfielder&&&,United States
+P-11737,Christian,Pulisic,1998-09-18,10,forward&&&&,United States
+P-26367,Tim,Ream,1987-10-05,13,&&defender&&,United States
+P-85878,Giovanni,Reyna,2002-11-13,7,forward&&&&,United States
+P-70867,Antonee,Robinson,1997-08-08,5,&&defender&&,United States
+P-94647,Josh,Sargent,2000-02-20,24,forward&&&&,United States
+P-48903,Matt,Turner,1994-06-24,1,&&&goalkeeper&,United States
+P-30252,Timothy,Weah,2000-02-22,21,forward&&&&,United States
+P-68131,Haji,Wright,1998-03-27,19,forward&&&&,United States
+P-95273,DeAndre,Yedlin,1993-07-09,22,&&defender&&,United States
+P-57029,Walker,Zimmerman,1993-05-19,3,&&defender&&,United States
+P-58791,Rodrigo,Bentancur,1997-06-25,6,&midfielder&&&,Uruguay
+P-24667,Agustín,Canobbio,1998-10-01,24,&midfielder&&&,Uruguay
+P-59138,Edinson,Cavani,1987-02-14,21,forward&&&&,Uruguay
+P-20051,Sebastián,Coates,1990-10-07,19,&&defender&&,Uruguay
+P-74058,Martín,Cáceres,1987-04-07,22,&&defender&&,Uruguay
+P-62594,Giorgian,De Arrascaeta,1994-06-01,10,forward&midfielder&&&,Uruguay
+P-65659,José,Giménez,1995-01-20,2,&&defender&&,Uruguay
+P-78440,Diego,Godín,1986-02-16,3,&&defender&&,Uruguay
+P-70671,Maxi,Gómez,1996-08-14,18,forward&&&&,Uruguay
+P-18885,Darwin,Núñez,1999-06-24,11,forward&&&&,Uruguay
+P-90796,Mathías,Olivera,1997-10-31,16,&&defender&&,Uruguay
+P-95062,Facundo,Pellistri,2001-12-20,8,forward&&&&,Uruguay
+P-00232,Sergio,Rochet,1993-03-23,23,&&&goalkeeper&,Uruguay
+P-30486,Luis,Suárez,1987-01-24,9,forward&&&&,Uruguay
+P-05174,Federico,Valverde,1998-07-22,15,&midfielder&&&,Uruguay
+P-78932,Guillermo,Varela,1993-03-24,13,&&defender&&,Uruguay
+P-46785,Matías,Vecino,1991-08-24,5,&midfielder&&&,Uruguay
+P-18564,Matías,Viña,1997-11-09,17,&&defender&&,Uruguay
+P-86878,Nicolás,de la Cruz,1997-06-01,7,&midfielder&&&,Uruguay
+P-92761,Joe,Allen,1990-03-14,7,&midfielder&&&,Wales
+P-50398,Ethan,Ampadu,2000-09-14,15,&&defender&&,Wales
+P-63927,Gareth,Bale,1989-07-16,11,forward&&&&,Wales
+P-07137,Rubin,Colwill,2002-04-27,25,&midfielder&&&,Wales
+P-41198,Ben,Davies,1993-04-24,4,&&defender&&,Wales
+P-46457,Wayne,Hennessey,1987-01-24,1,&&&goalkeeper&,Wales
+P-74707,Daniel,James,1997-11-10,20,forward&&&&,Wales
+P-57098,Brennan,Johnson,2001-05-23,9,forward&&&&,Wales
+P-74888,Chris,Mepham,1997-11-05,5,&&defender&&,Wales
+P-10657,Kieffer,Moore,1992-08-08,13,forward&&&&,Wales
+P-69082,Joe,Morrell,1997-01-03,16,&midfielder&&&,Wales
+P-86951,Aaron,Ramsey,1990-12-26,10,&midfielder&&&,Wales
+P-56503,Connor,Roberts,1995-09-23,14,&&defender&&,Wales
+P-38105,Joe,Rodon,1997-10-22,6,&&defender&&,Wales
+P-20564,Sorba,Thomas,1999-01-25,22,&midfielder&&&,Wales
+P-31718,Danny,Ward,1993-06-22,12,&&&goalkeeper&,Wales
+P-87190,Neco,Williams,2001-04-13,3,&&defender&&,Wales
+P-94779,Harry,Wilson,1997-03-22,8,&midfielder&&&,Wales

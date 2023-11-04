@@ -1,0 +1,1175 @@
+match_id,ID,first name,last name,team_name,minute_label,going_off,coming_on
+M-2022-01,P-34543,Romario,Ibarra,Ecuador,68',1,0
+M-2022-01,P-78091,Jeremy,Sarmiento,Ecuador,68',0,1
+M-2022-01,P-75912,Enner,Valencia,Ecuador,77',1,0
+M-2022-01,P-75628,José,Cifuentes,Ecuador,77',0,1
+M-2022-01,P-82216,Moisés,Caicedo,Ecuador,90',1,0
+M-2022-01,P-44851,Michael,Estrada,Ecuador,90',1,0
+M-2022-01,P-28364,Alan,Franco,Ecuador,90',0,1
+M-2022-01,P-02839,Kevin,Rodríguez,Ecuador,90',0,1
+M-2022-01,P-38732,Hassan,Al-Haydos,Qatar,72',1,0
+M-2022-01,P-01930,Almoez,Ali,Qatar,72',1,0
+M-2022-01,P-17048,Mohammed,Muntari,Qatar,72',0,1
+M-2022-01,P-90689,Mohammed,Waad,Qatar,72',0,1
+M-2022-02,P-02465,Harry,Maguire,England,70',1,0
+M-2022-02,P-90012,Mason,Mount,England,70',1,0
+M-2022-02,P-76842,Bukayo,Saka,England,70',1,0
+M-2022-02,P-21553,Raheem,Sterling,England,70',1,0
+M-2022-02,P-31219,Eric,Dier,England,70',0,1
+M-2022-02,P-10501,Phil,Foden,England,70',0,1
+M-2022-02,P-21153,Jack,Grealish,England,70',0,1
+M-2022-02,P-59837,Marcus,Rashford,England,70',0,1
+M-2022-02,P-58924,Harry,Kane,England,75',1,0
+M-2022-02,P-22844,Callum,Wilson,England,75',0,1
+M-2022-02,P-20998,Alireza,Beiranvand,Iran,20',1,0
+M-2022-02,P-28492,Hossein,Hosseini,Iran,20',0,1
+M-2022-02,P-98747,Rouzbeh,Cheshmi,Iran,46',1,0
+M-2022-02,P-98775,Alireza,Jahanbakhsh,Iran,46',1,0
+M-2022-02,P-68842,Ali,Karimi,Iran,46',1,0
+M-2022-02,P-95374,Saeid,Ezatolahi,Iran,46',0,1
+M-2022-02,P-45653,Ali,Gholizadeh,Iran,46',0,1
+M-2022-02,P-74612,Hossein,Kanaanizadegan,Iran,46',0,1
+M-2022-02,P-74098,Milad,Mohammadi,Iran,63',1,0
+M-2022-02,P-04541,Mehdi,Torabi,Iran,63',0,1
+M-2022-02,P-42215,Ahmad,Nourollahi,Iran,77',1,0
+M-2022-02,P-09113,Sardar,Azmoun,Iran,77',0,1
+M-2022-03,P-57087,Vincent,Janssen,Netherlands,62',1,0
+M-2022-03,P-27540,Memphis,Depay,Netherlands,62',0,1
+M-2022-03,P-10326,Steven,Berghuis,Netherlands,79',1,0
+M-2022-03,P-44799,Steven,Bergwijn,Netherlands,79',1,0
+M-2022-03,P-42078,Davy,Klaassen,Netherlands,79',0,1
+M-2022-03,P-35705,Teun,Koopmeiners,Netherlands,79',0,1
+M-2022-03,P-28911,Cody,Gakpo,Netherlands,90'+4',1,0
+M-2022-03,P-55965,Marten,de Roon,Netherlands,90'+4',0,1
+M-2022-03,P-77769,Abdou,Diallo,Senegal,62',1,0
+M-2022-03,P-54506,Ismail,Jakobs,Senegal,62',0,1
+M-2022-03,P-33622,Boulaye,Dia,Senegal,69',1,0
+M-2022-03,P-88928,Bamba,Dieng,Senegal,69',0,1
+M-2022-03,P-09292,Krépin,Diatta,Senegal,73',1,0
+M-2022-03,P-55140,Cheikhou,Kouyaté,Senegal,73',1,0
+M-2022-03,P-45280,Pape,Gueye,Senegal,73',0,1
+M-2022-03,P-86937,Nicolas,Jackson,Senegal,73',0,1
+M-2022-04,P-68952,Weston,McKennie,United States,66',1,0
+M-2022-04,P-03484,Brenden,Aaronson,United States,66',0,1
+M-2022-04,P-89452,Sergiño,Dest,United States,74',1,0
+M-2022-04,P-59571,Yunus,Musah,United States,74',1,0
+M-2022-04,P-94647,Josh,Sargent,United States,74',1,0
+M-2022-04,P-86410,Kellyn,Acosta,United States,74',0,1
+M-2022-04,P-68131,Haji,Wright,United States,74',0,1
+M-2022-04,P-95273,DeAndre,Yedlin,United States,74',0,1
+M-2022-04,P-30252,Timothy,Weah,United States,88',1,0
+M-2022-04,P-77402,Jordan,Morris,United States,88',0,1
+M-2022-04,P-74707,Daniel,James,Wales,46',1,0
+M-2022-04,P-10657,Kieffer,Moore,Wales,46',0,1
+M-2022-04,P-87190,Neco,Williams,Wales,79',1,0
+M-2022-04,P-57098,Brennan,Johnson,Wales,79',0,1
+M-2022-04,P-94779,Harry,Wilson,Wales,90'+3',1,0
+M-2022-04,P-20564,Sorba,Thomas,Wales,90'+3',0,1
+M-2022-04,P-50398,Ethan,Ampadu,Wales,90'+5',1,0
+M-2022-04,P-69082,Joe,Morrell,Wales,90'+5',0,1
+M-2022-05,P-10231,Papu,Gómez,Argentina,59',1,0
+M-2022-05,P-27582,Leandro,Paredes,Argentina,59',1,0
+M-2022-05,P-79650,Cristian,Romero,Argentina,59',1,0
+M-2022-05,P-10739,Enzo,Fernández,Argentina,59',0,1
+M-2022-05,P-23070,Lisandro,Martínez,Argentina,59',0,1
+M-2022-05,P-19776,Julián,Álvarez,Argentina,59',0,1
+M-2022-05,P-35173,Nicolás,Tagliafico,Argentina,71',1,0
+M-2022-05,P-73712,Marcos,Acuña,Argentina,71',0,1
+M-2022-05,P-93688,Salman,Al-Faraj,Saudi Arabia,45'+4',1,0
+M-2022-05,P-76864,Nawaf,Al-Abed,Saudi Arabia,45'+4',0,1
+M-2022-05,P-37308,Saleh,Al-Shehri,Saudi Arabia,78',1,0
+M-2022-05,P-06789,Sultan,Al-Ghannam,Saudi Arabia,78',0,1
+M-2022-05,P-76864,Nawaf,Al-Abed,Saudi Arabia,89',1,0
+M-2022-05,P-89845,Firas,Al-Buraikan,Saudi Arabia,89',1,0
+M-2022-05,P-12335,Abdulelah,Al-Amri,Saudi Arabia,89',0,1
+M-2022-05,P-40487,Haitham,Asiri,Saudi Arabia,89',0,1
+M-2022-05,P-45457,Yasser,Al-Shahrani,Saudi Arabia,90'+9',1,0
+M-2022-05,P-94422,Mohammed,Al-Breik,Saudi Arabia,90'+9',0,1
+M-2022-06,P-57615,Thomas,Delaney,Denmark,45'+1',1,0
+M-2022-06,P-57782,Mikkel,Damsgaard,Denmark,45'+1',0,1
+M-2022-06,P-72592,Kasper,Dolberg,Denmark,65',1,0
+M-2022-06,P-14988,Simon,Kjær,Denmark,65',1,0
+M-2022-06,P-82313,Andreas Skov,Olsen,Denmark,65',1,0
+M-2022-06,P-29053,Andreas,Cornelius,Denmark,65',0,1
+M-2022-06,P-26593,Mathias,Jensen,Denmark,65',0,1
+M-2022-06,P-70516,Jesper,Lindstrøm,Denmark,65',0,1
+M-2022-06,P-45680,Anis,Ben Slimane,Tunisia,67',1,0
+M-2022-06,P-69793,Naïm,Sliti,Tunisia,67',0,1
+M-2022-06,P-11346,Issam,Jebali,Tunisia,80',1,0
+M-2022-06,P-25741,Youssef,Msakni,Tunisia,80',1,0
+M-2022-06,P-21865,Taha Yassine,Khenissi,Tunisia,80',0,1
+M-2022-06,P-48887,Hannibal,Mejbri,Tunisia,80',0,1
+M-2022-06,P-49094,Mohamed,Dräger,Tunisia,88',1,0
+M-2022-06,P-29063,Aïssa,Laïdouni,Tunisia,88',1,0
+M-2022-06,P-27079,Wajdi,Kechrida,Tunisia,88',0,1
+M-2022-06,P-90867,Ferjani,Sassi,Tunisia,88',0,1
+M-2022-07,P-42911,Héctor,Herrera,Mexico,71',1,0
+M-2022-07,P-49482,Henry,Martín,Mexico,71',1,0
+M-2022-07,P-57865,Raúl,Jiménez,Mexico,71',0,1
+M-2022-07,P-19618,Carlos,Rodríguez,Mexico,71',0,1
+M-2022-07,P-64182,Alexis,Vega,Mexico,84',1,0
+M-2022-07,P-81433,Uriel,Antuna,Mexico,84',0,1
+M-2022-07,P-40498,Nicola,Zalewski,Poland,46',1,0
+M-2022-07,P-14593,Krystian,Bielik,Poland,46',0,1
+M-2022-07,P-65512,Sebastian,Szymanski,Poland,71',1,0
+M-2022-07,P-23437,Przemyslaw,Frankowski,Poland,71',0,1
+M-2022-07,P-32165,Piotr,Zielinski,Poland,87',1,0
+M-2022-07,P-12381,Arkadiusz,Milik,Poland,87',0,1
+M-2022-08,P-91029,Mitchell,Duke,Australia,56',1,0
+M-2022-08,P-67089,Jason,Cummings,Australia,56',0,1
+M-2022-08,P-82010,Craig,Goodwin,Australia,73',1,0
+M-2022-08,P-51406,Riley,McGree,Australia,73',1,0
+M-2022-08,P-05864,Garang,Kuol,Australia,73',0,1
+M-2022-08,P-61979,Awer,Mabil,Australia,73',0,1
+M-2022-08,P-09062,Nathaniel,Atkinson,Australia,85',1,0
+M-2022-08,P-34822,Jackson,Irvine,Australia,85',1,0
+M-2022-08,P-27035,Keanu,Baccus,Australia,85',0,1
+M-2022-08,P-59727,Miloš,Degenek,Australia,85',0,1
+M-2022-08,P-84424,Lucas,Hernandez,France,13',1,0
+M-2022-08,P-09867,Théo,Hernandez,France,13',0,1
+M-2022-08,P-97778,Ousmane,Dembélé,France,77',1,0
+M-2022-08,P-54517,Aurélien,Tchouaméni,France,77',1,0
+M-2022-08,P-06614,Kingsley,Coman,France,77',0,1
+M-2022-08,P-23304,Youssouf,Fofana,France,77',0,1
+M-2022-08,P-89750,Olivier,Giroud,France,89',1,0
+M-2022-08,P-60652,Benjamin,Pavard,France,89',1,0
+M-2022-08,P-78484,Jules,Koundé,France,89',0,1
+M-2022-08,P-13613,Marcus,Thuram,France,89',0,1
+M-2022-09,P-22160,Nikola,Vlašic,Croatia,46',1,0
+M-2022-09,P-89948,Mario,Pašalic,Croatia,46',0,1
+M-2022-09,P-65182,Andrej,Kramaric,Croatia,71',1,0
+M-2022-09,P-31643,Marko,Livaja,Croatia,71',0,1
+M-2022-09,P-07670,Mateo,Kovacic,Croatia,79',1,0
+M-2022-09,P-64353,Lovro,Majer,Croatia,79',0,1
+M-2022-09,P-93884,Ivan,Perišic,Croatia,90',1,0
+M-2022-09,P-26942,Mislav,Oršic,Croatia,90',0,1
+M-2022-09,P-09614,Noussair,Mazraoui,Morocco,60',1,0
+M-2022-09,P-91543,Yahia,Attiyat Allah,Morocco,60',0,1
+M-2022-09,P-59033,Sofiane,Boufal,Morocco,65',1,0
+M-2022-09,P-21052,Abde,Ezzalzouli,Morocco,65',0,1
+M-2022-09,P-42517,Youssef,En-Nesyri,Morocco,81',1,0
+M-2022-09,P-40619,Azzedine,Ounahi,Morocco,81',1,0
+M-2022-09,P-90423,Abderrazak,Hamdallah,Morocco,81',0,1
+M-2022-09,P-05265,Abdelhamid,Sabiri,Morocco,81',0,1
+M-2022-10,P-08896,Ilkay,Gündogan,Germany,67',1,0
+M-2022-10,P-28154,Thomas,Müller,Germany,67',1,0
+M-2022-10,P-79409,Leon,Goretzka,Germany,67',0,1
+M-2022-10,P-18188,Jonas,Hofmann,Germany,67',0,1
+M-2022-10,P-77743,Kai,Havertz,Germany,79',1,0
+M-2022-10,P-47182,Jamal,Musiala,Germany,79',1,0
+M-2022-10,P-46246,Niclas,Füllkrug,Germany,79',0,1
+M-2022-10,P-63673,Mario,Götze,Germany,79',0,1
+M-2022-10,P-75989,Serge,Gnabry,Germany,90',1,0
+M-2022-10,P-04137,Youssoufa,Moukoko,Germany,90',0,1
+M-2022-10,P-39942,Takefusa,Kubo,Japan,46',1,0
+M-2022-10,P-68429,Takehiro,Tomiyasu,Japan,46',0,1
+M-2022-10,P-30206,Daizen,Maeda,Japan,57',1,0
+M-2022-10,P-26303,Yuto,Nagatomo,Japan,57',1,0
+M-2022-10,P-46913,Takuma,Asano,Japan,57',0,1
+M-2022-10,P-22633,Kaoru,Mitoma,Japan,57',0,1
+M-2022-10,P-82447,Ao,Tanaka,Japan,71',1,0
+M-2022-10,P-58907,Ritsu,Doan,Japan,71',0,1
+M-2022-10,P-56398,Hiroki,Sakai,Japan,75',1,0
+M-2022-10,P-05559,Takumi,Minamino,Japan,75',0,1
+M-2022-11,P-39281,Carlos,Martínez,Costa Rica,46',1,0
+M-2022-11,P-37984,Kendall,Waston,Costa Rica,46',0,1
+M-2022-11,P-09889,Jewison,Bennette,Costa Rica,61',1,0
+M-2022-11,P-02556,Anthony,Contreras,Costa Rica,61',1,0
+M-2022-11,P-99590,Bryan,Ruiz,Costa Rica,61',0,1
+M-2022-11,P-22631,Álvaro,Zamora,Costa Rica,61',0,1
+M-2022-11,P-11767,Celso,Borges,Costa Rica,72',1,0
+M-2022-11,P-44957,Brandon,Aguilera,Costa Rica,72',0,1
+M-2022-11,P-10740,Bryan,Oviedo,Costa Rica,82',1,0
+M-2022-11,P-37189,Rónald,Matarrita,Costa Rica,82',0,1
+M-2022-11,P-24897,not applicable,Pedri,Spain,57',1,0
+M-2022-11,P-31301,Ferran,Torres,Spain,57',1,0
+M-2022-11,P-29274,Álvaro,Morata,Spain,57',0,1
+M-2022-11,P-30405,Carlos,Soler,Spain,57',0,1
+M-2022-11,P-01416,Jordi,Alba,Spain,64',1,0
+M-2022-11,P-28010,Sergio,Busquets,Spain,64',1,0
+M-2022-11,P-49008,Alejandro,Balde,Spain,64',0,1
+M-2022-11,P-37294,not applicable,Koke,Spain,64',0,1
+M-2022-11,P-09400,Marco,Asensio,Spain,69',1,0
+M-2022-11,P-68218,Nico,Williams,Spain,69',0,1
+M-2022-12,P-06338,Yannick,Carrasco,Belgium,46',1,0
+M-2022-12,P-47906,Youri,Tielemans,Belgium,46',1,0
+M-2022-12,P-22930,Thomas,Meunier,Belgium,46',0,1
+M-2022-12,P-21652,Amadou,Onana,Belgium,46',0,1
+M-2022-12,P-72011,Eden,Hazard,Belgium,62',1,0
+M-2022-12,P-95312,Leandro,Trossard,Belgium,62',0,1
+M-2022-12,P-13975,Michy,Batshuayi,Belgium,78',1,0
+M-2022-12,P-70691,Loïs,Openda,Belgium,78',0,1
+M-2022-12,P-35706,Junior,Hoilett,Canada,58',1,0
+M-2022-12,P-03472,Atiba,Hutchinson,Canada,58',1,0
+M-2022-12,P-85670,Ismaël,Koné,Canada,58',0,1
+M-2022-12,P-01925,Cyle,Larin,Canada,58',0,1
+M-2022-12,P-42390,Richie,Laryea,Canada,74',1,0
+M-2022-12,P-55821,Sam,Adekugbe,Canada,74',0,1
+M-2022-12,P-96259,Tajon,Buchanan,Canada,81',1,0
+M-2022-12,P-28794,Stephen,Eustáquio,Canada,81',1,0
+M-2022-12,P-00809,Liam,Millar,Canada,81',0,1
+M-2022-12,P-27541,Jonathan,Osorio,Canada,81',0,1
+M-2022-13,P-34633,Martin,Hongla,Cameroon,68',1,0
+M-2022-13,P-36707,Gaël,Ondoua,Cameroon,68',0,1
+M-2022-13,P-06117,Eric Maxim,Choupo-Moting,Cameroon,74',1,0
+M-2022-13,P-20259,Karl,Toko Ekambi,Cameroon,74',1,0
+M-2022-13,P-53452,Vincent,Aboubakar,Cameroon,74',0,1
+M-2022-13,P-68058,Georges-Kévin,Nkoudou,Cameroon,74',0,1
+M-2022-13,P-39394,Bryan,Mbeumo,Cameroon,81',1,0
+M-2022-13,P-27913,Moumi,Ngamaleu,Cameroon,81',0,1
+M-2022-13,P-19075,Breel,Embolo,Switzerland,72',1,0
+M-2022-13,P-39460,Xherdan,Shaqiri,Switzerland,72',1,0
+M-2022-13,P-11878,Djibril,Sow,Switzerland,72',1,0
+M-2022-13,P-00244,Fabian,Frei,Switzerland,72',0,1
+M-2022-13,P-85577,Noah,Okafor,Switzerland,72',0,1
+M-2022-13,P-07180,Haris,Seferovic,Switzerland,72',0,1
+M-2022-13,P-85823,Ruben,Vargas,Switzerland,81',1,0
+M-2022-13,P-25593,Fabian,Rieder,Switzerland,81',0,1
+M-2022-13,P-43367,Ricardo,Rodríguez,Switzerland,90',1,0
+M-2022-13,P-56868,Eray,Cömert,Switzerland,90',0,1
+M-2022-14,P-93920,Jae-sung,Lee,South Korea,74',1,0
+M-2022-14,P-10357,Na,Sang-ho,South Korea,74',1,0
+M-2022-14,P-92710,Hwang,Ui-jo,South Korea,74',1,0
+M-2022-14,P-87169,Cho,Gue-sung,South Korea,74',0,1
+M-2022-14,P-61172,Son,Jun-ho,South Korea,74',0,1
+M-2022-14,P-87514,Lee,Kang-in,South Korea,74',0,1
+M-2022-14,P-30486,Luis,Suárez,Uruguay,64',1,0
+M-2022-14,P-59138,Edinson,Cavani,Uruguay,64',0,1
+M-2022-14,P-90796,Mathías,Olivera,Uruguay,79',1,0
+M-2022-14,P-46785,Matías,Vecino,Uruguay,79',1,0
+M-2022-14,P-18564,Matías,Viña,Uruguay,79',0,1
+M-2022-14,P-86878,Nicolás,de la Cruz,Uruguay,79',0,1
+M-2022-14,P-95062,Facundo,Pellistri,Uruguay,88',1,0
+M-2022-14,P-78932,Guillermo,Varela,Uruguay,88',0,1
+M-2022-15,P-36105,Alidu,Seidu,Ghana,66',1,0
+M-2022-15,P-12913,Tariq,Lamptey,Ghana,66',0,1
+M-2022-15,P-01945,André,Ayew,Ghana,77',1,0
+M-2022-15,P-23821,Mohammed,Kudus,Ghana,77',1,0
+M-2022-15,P-31765,Jordan,Ayew,Ghana,77',0,1
+M-2022-15,P-72363,Osman,Bukari,Ghana,77',0,1
+M-2022-15,P-21820,Salis,Abdul Samed,Ghana,90'+2',1,0
+M-2022-15,P-59808,Alexander,Djiku,Ghana,90'+2',1,0
+M-2022-15,P-92252,Daniel-Kofi,Kyereh,Ghana,90'+2',0,1
+M-2022-15,P-14179,Antoine,Semenyo,Ghana,90'+2',0,1
+M-2022-15,P-78787,not applicable,Otávio,Portugal,56',1,0
+M-2022-15,P-44689,William,Carvalho,Portugal,56',0,1
+M-2022-15,P-22983,Rúben,Neves,Portugal,77',1,0
+M-2022-15,P-27349,Rafael,Leão,Portugal,77',0,1
+M-2022-15,P-17931,João,Félix,Portugal,88',1,0
+M-2022-15,P-70442,Cristiano,Ronaldo,Portugal,88',1,0
+M-2022-15,P-34205,Bernardo,Silva,Portugal,88',1,0
+M-2022-15,P-31133,João,Mário,Portugal,88',0,1
+M-2022-15,P-46583,João,Palhinha,Portugal,88',0,1
+M-2022-15,P-41647,Gonçalo,Ramos,Portugal,88',0,1
+M-2022-16,P-92812,Vinícius,Júnior,Brazil,75',1,0
+M-2022-16,P-05164,Lucas,Paquetá,Brazil,75',1,0
+M-2022-16,P-74941,not applicable,Fred,Brazil,75',0,1
+M-2022-16,P-06446,not applicable,Rodrygo,Brazil,75',0,1
+M-2022-16,P-87008,not applicable,Neymar,Brazil,79',1,0
+M-2022-16,P-68016,not applicable,Richarlison,Brazil,79',1,0
+M-2022-16,P-37860,not applicable,Antony,Brazil,79',0,1
+M-2022-16,P-92004,Gabriel,Jesus,Brazil,79',0,1
+M-2022-16,P-83169,not applicable,Raphinha,Brazil,87',1,0
+M-2022-16,P-70483,Gabriel,Martinelli,Brazil,87',0,1
+M-2022-16,P-24610,Nemanja,Gudelj,Serbia,57',1,0
+M-2022-16,P-58363,Andrija,Živkovic,Serbia,57',1,0
+M-2022-16,P-67641,Ivan,Ilic,Serbia,57',0,1
+M-2022-16,P-79900,Nemanja,Radonjic,Serbia,57',0,1
+M-2022-16,P-78056,Saša,Lukic,Serbia,66',1,0
+M-2022-16,P-82143,Filip,Mladenovic,Serbia,66',1,0
+M-2022-16,P-54211,Darko,Lazovic,Serbia,66',0,1
+M-2022-16,P-63293,Dušan,Vlahovic,Serbia,66',0,1
+M-2022-16,P-85696,Aleksandar,Mitrovic,Serbia,83',1,0
+M-2022-16,P-89598,Nemanja,Maksimovic,Serbia,83',0,1
+M-2022-17,P-09113,Sardar,Azmoun,Iran,68',1,0
+M-2022-17,P-53957,Karim,Ansarifard,Iran,68',0,1
+M-2022-17,P-45653,Ali,Gholizadeh,Iran,77',1,0
+M-2022-17,P-75785,Ehsan,Hajsafi,Iran,77',1,0
+M-2022-17,P-42215,Ahmad,Nourollahi,Iran,77',1,0
+M-2022-17,P-98747,Rouzbeh,Cheshmi,Iran,77',0,1
+M-2022-17,P-98775,Alireza,Jahanbakhsh,Iran,77',0,1
+M-2022-17,P-04541,Mehdi,Torabi,Iran,77',0,1
+M-2022-17,P-95374,Saeid,Ezatolahi,Iran,83',1,0
+M-2022-17,P-68842,Ali,Karimi,Iran,83',0,1
+M-2022-17,P-56503,Connor,Roberts,Wales,57',1,0
+M-2022-17,P-94779,Harry,Wilson,Wales,57',1,0
+M-2022-17,P-74707,Daniel,James,Wales,57',0,1
+M-2022-17,P-57098,Brennan,Johnson,Wales,57',0,1
+M-2022-17,P-50398,Ethan,Ampadu,Wales,77',1,0
+M-2022-17,P-92761,Joe,Allen,Wales,77',0,1
+M-2022-17,P-86951,Aaron,Ramsey,Wales,87',1,0
+M-2022-17,P-31718,Danny,Ward,Wales,87',0,1
+M-2022-18,P-95754,Karim,Boudiaf,Qatar,69',1,0
+M-2022-18,P-97800,Abdulaziz,Hatem,Qatar,69',0,1
+M-2022-18,P-38732,Hassan,Al-Haydos,Qatar,74',1,0
+M-2022-18,P-17048,Mohammed,Muntari,Qatar,74',0,1
+M-2022-18,P-33804,Homam,Ahmed,Qatar,83',1,0
+M-2022-18,P-00052,not applicable,Ró-Ró,Qatar,83',1,0
+M-2022-18,P-42663,Tarek,Salman,Qatar,83',0,1
+M-2022-18,P-90689,Mohammed,Waad,Qatar,83',0,1
+M-2022-18,P-09292,Krépin,Diatta,Senegal,64',1,0
+M-2022-18,P-61416,Pathé,Ciss,Senegal,64',0,1
+M-2022-18,P-27280,Famara,Diédhiou,Senegal,74',1,0
+M-2022-18,P-37935,Ismaïla,Sarr,Senegal,74',1,0
+M-2022-18,P-88928,Bamba,Dieng,Senegal,74',0,1
+M-2022-18,P-33958,Iliman,Ndiaye,Senegal,74',0,1
+M-2022-18,P-54506,Ismail,Jakobs,Senegal,78',1,0
+M-2022-18,P-96697,Nampalys,Mendy,Senegal,78',1,0
+M-2022-18,P-90626,Pape Abou,Cissé,Senegal,78',0,1
+M-2022-18,P-76835,Pape Matar,Sarr,Senegal,78',0,1
+M-2022-19,P-44851,Michael,Estrada,Ecuador,74',1,0
+M-2022-19,P-78091,Jeremy,Sarmiento,Ecuador,74',0,1
+M-2022-19,P-13973,Gonzalo,Plata,Ecuador,90',1,0
+M-2022-19,P-75912,Enner,Valencia,Ecuador,90',1,0
+M-2022-19,P-34543,Romario,Ibarra,Ecuador,90',0,1
+M-2022-19,P-02839,Kevin,Rodríguez,Ecuador,90',0,1
+M-2022-19,P-44799,Steven,Bergwijn,Netherlands,46',1,0
+M-2022-19,P-27540,Memphis,Depay,Netherlands,46',0,1
+M-2022-19,P-42078,Davy,Klaassen,Netherlands,69',1,0
+M-2022-19,P-10326,Steven,Berghuis,Netherlands,69',0,1
+M-2022-19,P-28911,Cody,Gakpo,Netherlands,79',1,0
+M-2022-19,P-35705,Teun,Koopmeiners,Netherlands,79',1,0
+M-2022-19,P-95036,Wout,Weghorst,Netherlands,79',0,1
+M-2022-19,P-55965,Marten,de Roon,Netherlands,79',0,1
+M-2022-20,P-15674,Jude,Bellingham,England,68',1,0
+M-2022-20,P-21553,Raheem,Sterling,England,68',1,0
+M-2022-20,P-21153,Jack,Grealish,England,68',0,1
+M-2022-20,P-08169,Jordan,Henderson,England,68',0,1
+M-2022-20,P-76842,Bukayo,Saka,England,77',1,0
+M-2022-20,P-59837,Marcus,Rashford,England,77',0,1
+M-2022-20,P-89452,Sergiño,Dest,United States,77',1,0
+M-2022-20,P-68952,Weston,McKennie,United States,77',1,0
+M-2022-20,P-03484,Brenden,Aaronson,United States,77',0,1
+M-2022-20,P-48265,Shaq,Moore,United States,77',0,1
+M-2022-20,P-30252,Timothy,Weah,United States,83',1,0
+M-2022-20,P-68131,Haji,Wright,United States,83',1,0
+M-2022-20,P-85878,Giovanni,Reyna,United States,83',0,1
+M-2022-20,P-94647,Josh,Sargent,United States,83',0,1
+M-2022-21,P-91029,Mitchell,Duke,Australia,64',1,0
+M-2022-21,P-51406,Riley,McGree,Australia,64',1,0
+M-2022-21,P-82945,Ajdin,Hrustic,Australia,64',0,1
+M-2022-21,P-20087,Jamie,Maclaren,Australia,64',0,1
+M-2022-21,P-24134,Fran,Karacic,Australia,75',1,0
+M-2022-21,P-59727,Miloš,Degenek,Australia,75',0,1
+M-2022-21,P-82010,Craig,Goodwin,Australia,85',1,0
+M-2022-21,P-35837,Mathew,Leckie,Australia,85',1,0
+M-2022-21,P-27035,Keanu,Baccus,Australia,85',0,1
+M-2022-21,P-61979,Awer,Mabil,Australia,85',0,1
+M-2022-21,P-49094,Mohamed,Dräger,Tunisia,46',1,0
+M-2022-21,P-90867,Ferjani,Sassi,Tunisia,46',0,1
+M-2022-21,P-29063,Aïssa,Laïdouni,Tunisia,67',1,0
+M-2022-21,P-42223,Wahbi,Khazri,Tunisia,67',0,1
+M-2022-21,P-11879,Dylan,Bronn,Tunisia,73',1,0
+M-2022-21,P-11346,Issam,Jebali,Tunisia,73',1,0
+M-2022-21,P-27079,Wajdi,Kechrida,Tunisia,73',0,1
+M-2022-21,P-21865,Taha Yassine,Khenissi,Tunisia,73',0,1
+M-2022-22,P-32165,Piotr,Zielinski,Poland,63',1,0
+M-2022-22,P-83610,Jakub,Kaminski,Poland,63',0,1
+M-2022-22,P-12381,Arkadiusz,Milik,Poland,71',1,0
+M-2022-22,P-11013,Krzysztof,Piatek,Poland,71',0,1
+M-2022-22,P-87569,Sami,Al-Najei,Saudi Arabia,46',1,0
+M-2022-22,P-76864,Nawaf,Al-Abed,Saudi Arabia,46',0,1
+M-2022-22,P-94422,Mohammed,Al-Breik,Saudi Arabia,65',1,0
+M-2022-22,P-06789,Sultan,Al-Ghannam,Saudi Arabia,65',0,1
+M-2022-22,P-20216,Abdulellah,Al-Malki,Saudi Arabia,85',1,0
+M-2022-22,P-37308,Saleh,Al-Shehri,Saudi Arabia,85',1,0
+M-2022-22,P-45581,Abdulrahman,Al-Aboud,Saudi Arabia,85',0,1
+M-2022-22,P-10907,Nasser,Al-Dawsari,Saudi Arabia,85',0,1
+M-2022-22,P-76864,Nawaf,Al-Abed,Saudi Arabia,90'+5',1,0
+M-2022-22,P-84563,Hattan,Bahebri,Saudi Arabia,90'+5',0,1
+M-2022-23,P-29053,Andreas,Cornelius,Denmark,46',1,0
+M-2022-23,P-85579,Martin,Braithwaite,Denmark,46',0,1
+M-2022-23,P-57782,Mikkel,Damsgaard,Denmark,73',1,0
+M-2022-23,P-72592,Kasper,Dolberg,Denmark,73',0,1
+M-2022-23,P-70516,Jesper,Lindstrøm,Denmark,85',1,0
+M-2022-23,P-56182,Christian,Nørgaard,Denmark,85',0,1
+M-2022-23,P-82877,Rasmus,Kristensen,Denmark,90'+2',1,0
+M-2022-23,P-92135,Alexander,Bah,Denmark,90'+2',0,1
+M-2022-23,P-89750,Olivier,Giroud,France,63',1,0
+M-2022-23,P-13613,Marcus,Thuram,France,63',0,1
+M-2022-23,P-97778,Ousmane,Dembélé,France,75',1,0
+M-2022-23,P-42326,Raphaël,Varane,France,75',1,0
+M-2022-23,P-06614,Kingsley,Coman,France,75',0,1
+M-2022-23,P-86920,Ibrahima,Konaté,France,75',0,1
+M-2022-23,P-90908,Antoine,Griezmann,France,90'+3',1,0
+M-2022-23,P-23304,Youssouf,Fofana,France,90'+3',0,1
+M-2022-24,P-03265,Guido,Rodríguez,Argentina,57',1,0
+M-2022-24,P-10739,Enzo,Fernández,Argentina,57',0,1
+M-2022-24,P-81505,Lautaro,Martínez,Argentina,63',1,0
+M-2022-24,P-91431,Gonzalo,Montiel,Argentina,63',1,0
+M-2022-24,P-84430,Nahuel,Molina,Argentina,63',0,1
+M-2022-24,P-19776,Julián,Álvarez,Argentina,63',0,1
+M-2022-24,P-42113,Ángel,Di María,Argentina,69',1,0
+M-2022-24,P-71343,Alexis,Mac Allister,Argentina,69',1,0
+M-2022-24,P-40147,Exequiel,Palacios,Argentina,69',0,1
+M-2022-24,P-79650,Cristian,Romero,Argentina,69',0,1
+M-2022-24,P-40312,Andrés,Guardado,Mexico,42',1,0
+M-2022-24,P-64299,Érick,Gutiérrez,Mexico,42',0,1
+M-2022-24,P-64182,Alexis,Vega,Mexico,66',1,0
+M-2022-24,P-09058,Kevin,Álvarez,Mexico,66',1,0
+M-2022-24,P-81433,Uriel,Antuna,Mexico,66',0,1
+M-2022-24,P-57865,Raúl,Jiménez,Mexico,66',0,1
+M-2022-24,P-24705,Hirving,Lozano,Mexico,73',1,0
+M-2022-24,P-73491,Roberto,Alvarado,Mexico,73',0,1
+M-2022-25,P-02556,Anthony,Contreras,Costa Rica,65',1,0
+M-2022-25,P-12179,Gerson,Torres,Costa Rica,65',1,0
+M-2022-25,P-44957,Brandon,Aguilera,Costa Rica,65',0,1
+M-2022-25,P-09889,Jewison,Bennette,Costa Rica,65',0,1
+M-2022-25,P-11767,Celso,Borges,Costa Rica,89',1,0
+M-2022-25,P-32622,Youstin,Salas,Costa Rica,89',0,1
+M-2022-25,P-70812,Joel,Campbell,Costa Rica,90'+5',1,0
+M-2022-25,P-57150,Daniel,Chacón,Costa Rica,90'+5',0,1
+M-2022-25,P-26303,Yuto,Nagatomo,Japan,46',1,0
+M-2022-25,P-57586,Ayase,Ueda,Japan,46',1,0
+M-2022-25,P-46913,Takuma,Asano,Japan,46',0,1
+M-2022-25,P-41902,Hiroki,Ito,Japan,46',0,1
+M-2022-25,P-45981,Miki,Yamane,Japan,62',1,0
+M-2022-25,P-22633,Kaoru,Mitoma,Japan,62',0,1
+M-2022-25,P-58907,Ritsu,Doan,Japan,67',1,0
+M-2022-25,P-86909,Junya,Ito,Japan,67',0,1
+M-2022-25,P-64056,Yuki,Soma,Japan,82',1,0
+M-2022-25,P-05559,Takumi,Minamino,Japan,82',0,1
+M-2022-26,P-72011,Eden,Hazard,Belgium,60',1,0
+M-2022-26,P-21652,Amadou,Onana,Belgium,60',1,0
+M-2022-26,P-84852,Dries,Mertens,Belgium,60',0,1
+M-2022-26,P-47906,Youri,Tielemans,Belgium,60',0,1
+M-2022-26,P-13975,Michy,Batshuayi,Belgium,75',1,0
+M-2022-26,P-74337,Thorgan,Hazard,Belgium,75',1,0
+M-2022-26,P-61810,Charles,De Ketelaere,Belgium,75',0,1
+M-2022-26,P-95312,Leandro,Trossard,Belgium,75',0,1
+M-2022-26,P-22930,Thomas,Meunier,Belgium,81',1,0
+M-2022-26,P-72637,Romelu,Lukaku,Belgium,81',0,1
+M-2022-26,P-23330,Selim,Amallah,Morocco,68',1,0
+M-2022-26,P-45288,Achraf,Hakimi,Morocco,68',1,0
+M-2022-26,P-91543,Yahia,Attiyat Allah,Morocco,68',0,1
+M-2022-26,P-05265,Abdelhamid,Sabiri,Morocco,68',0,1
+M-2022-26,P-59033,Sofiane,Boufal,Morocco,73',1,0
+M-2022-26,P-42517,Youssef,En-Nesyri,Morocco,73',1,0
+M-2022-26,P-48295,Zakaria,Aboukhlal,Morocco,73',0,1
+M-2022-26,P-90423,Abderrazak,Hamdallah,Morocco,73',0,1
+M-2022-26,P-40619,Azzedine,Ounahi,Morocco,78',1,0
+M-2022-26,P-14026,Jawad,El Yamiq,Morocco,78',0,1
+M-2022-27,P-28794,Stephen,Eustáquio,Canada,46',1,0
+M-2022-27,P-01925,Cyle,Larin,Canada,46',1,0
+M-2022-27,P-85670,Ismaël,Koné,Canada,46',0,1
+M-2022-27,P-27541,Jonathan,Osorio,Canada,46',0,1
+M-2022-27,P-42390,Richie,Laryea,Canada,62',1,0
+M-2022-27,P-35706,Junior,Hoilett,Canada,62',0,1
+M-2022-27,P-48340,Jonathan,David,Canada,72',1,0
+M-2022-27,P-03472,Atiba,Hutchinson,Canada,72',1,0
+M-2022-27,P-55821,Sam,Adekugbe,Canada,72',0,1
+M-2022-27,P-58061,Lucas,Cavallini,Canada,72',0,1
+M-2022-27,P-31643,Marko,Livaja,Croatia,60',1,0
+M-2022-27,P-46461,Bruno,Petkovic,Croatia,60',0,1
+M-2022-27,P-65182,Andrej,Kramaric,Croatia,72',1,0
+M-2022-27,P-22160,Nikola,Vlašic,Croatia,72',0,1
+M-2022-27,P-07670,Mateo,Kovacic,Croatia,86',1,0
+M-2022-27,P-29491,Luka,Modric,Croatia,86',1,0
+M-2022-27,P-93884,Ivan,Perišic,Croatia,86',1,0
+M-2022-27,P-64353,Lovro,Majer,Croatia,86',0,1
+M-2022-27,P-26942,Mislav,Oršic,Croatia,86',0,1
+M-2022-27,P-89948,Mario,Pašalic,Croatia,86',0,1
+M-2022-28,P-08896,Ilkay,Gündogan,Germany,70',1,0
+M-2022-28,P-11933,Thilo,Kehrer,Germany,70',1,0
+M-2022-28,P-28154,Thomas,Müller,Germany,70',1,0
+M-2022-28,P-46246,Niclas,Füllkrug,Germany,70',0,1
+M-2022-28,P-89863,Lukas,Klostermann,Germany,70',0,1
+M-2022-28,P-39464,Leroy,Sané,Germany,70',0,1
+M-2022-28,P-75989,Serge,Gnabry,Germany,85',1,0
+M-2022-28,P-18188,Jonas,Hofmann,Germany,85',0,1
+M-2022-28,P-20804,David,Raum,Germany,87',1,0
+M-2022-28,P-71859,Nico,Schlotterbeck,Germany,87',0,1
+M-2022-28,P-31301,Ferran,Torres,Spain,54',1,0
+M-2022-28,P-29274,Álvaro,Morata,Spain,54',0,1
+M-2022-28,P-09400,Marco,Asensio,Spain,66',1,0
+M-2022-28,P-88433,not applicable,Gavi,Spain,66',1,0
+M-2022-28,P-37294,not applicable,Koke,Spain,66',0,1
+M-2022-28,P-68218,Nico,Williams,Spain,66',0,1
+M-2022-28,P-01416,Jordi,Alba,Spain,82',1,0
+M-2022-28,P-49008,Alejandro,Balde,Spain,82',0,1
+M-2022-29,P-34633,Martin,Hongla,Cameroon,55',1,0
+M-2022-29,P-53452,Vincent,Aboubakar,Cameroon,55',0,1
+M-2022-29,P-29115,Pierre,Kunde,Cameroon,67',1,0
+M-2022-29,P-20259,Karl,Toko Ekambi,Cameroon,67',1,0
+M-2022-29,P-51549,Christian,Bassogog,Cameroon,67',0,1
+M-2022-29,P-36707,Gaël,Ondoua,Cameroon,67',0,1
+M-2022-29,P-39394,Bryan,Mbeumo,Cameroon,81',1,0
+M-2022-29,P-38355,André-Frank,Zambo Anguissa,Cameroon,81',1,0
+M-2022-29,P-63923,Samuel,Gouet,Cameroon,81',0,1
+M-2022-29,P-68058,Georges-Kévin,Nkoudou,Cameroon,81',0,1
+M-2022-29,P-98435,Strahinja,Pavlovic,Serbia,55',1,0
+M-2022-29,P-19069,Stefan,Mitrovic,Serbia,55',0,1
+M-2022-29,P-27744,Sergej,Milinkovic-Savic,Serbia,78',1,0
+M-2022-29,P-30283,Miloš,Veljkovic,Serbia,78',1,0
+M-2022-29,P-58363,Andrija,Živkovic,Serbia,78',1,0
+M-2022-29,P-70515,Srdan,Babic,Serbia,78',0,1
+M-2022-29,P-89573,Marko,Grujic,Serbia,78',0,1
+M-2022-29,P-79900,Nemanja,Radonjic,Serbia,78',0,1
+M-2022-29,P-80738,Filip,Kostic,Serbia,90'+2',1,0
+M-2022-29,P-79754,Filip,Ðuricic,Serbia,90'+2',0,1
+M-2022-30,P-01945,André,Ayew,Ghana,78',1,0
+M-2022-30,P-31765,Jordan,Ayew,Ghana,78',1,0
+M-2022-30,P-12913,Tariq,Lamptey,Ghana,78',1,0
+M-2022-30,P-92252,Daniel-Kofi,Kyereh,Ghana,78',0,1
+M-2022-30,P-08359,Denis,Odoi,Ghana,78',0,1
+M-2022-30,P-33325,Kamaldeen,Sulemana,Ghana,78',0,1
+M-2022-30,P-23821,Mohammed,Kudus,Ghana,83',1,0
+M-2022-30,P-59808,Alexander,Djiku,Ghana,83',0,1
+M-2022-30,P-28517,Gideon,Mensah,Ghana,88',1,0
+M-2022-30,P-94579,Baba,Rahman,Ghana,88',0,1
+M-2022-30,P-94500,Jeong,Woo-yeong,South Korea,46',1,0
+M-2022-30,P-10357,Na,Sang-ho,South Korea,46',0,1
+M-2022-30,P-88360,Kwon,Chang-hoon,South Korea,57',1,0
+M-2022-30,P-87514,Lee,Kang-in,South Korea,57',0,1
+M-2022-30,P-64292,Woo-young,Jung,South Korea,78',1,0
+M-2022-30,P-92710,Hwang,Ui-jo,South Korea,78',0,1
+M-2022-30,P-14360,Kim,Min-jae,South Korea,90'+2',1,0
+M-2022-30,P-57511,Kwon,Kyung-won,South Korea,90'+2',0,1
+M-2022-31,P-05164,Lucas,Paquetá,Brazil,46',1,0
+M-2022-31,P-06446,not applicable,Rodrygo,Brazil,46',0,1
+M-2022-31,P-74941,not applicable,Fred,Brazil,58',1,0
+M-2022-31,P-74688,Bruno,Guimarães,Brazil,58',0,1
+M-2022-31,P-83169,not applicable,Raphinha,Brazil,73',1,0
+M-2022-31,P-68016,not applicable,Richarlison,Brazil,73',1,0
+M-2022-31,P-37860,not applicable,Antony,Brazil,73',0,1
+M-2022-31,P-92004,Gabriel,Jesus,Brazil,73',0,1
+M-2022-31,P-97698,Alex,Sandro,Brazil,86',1,0
+M-2022-31,P-26953,Alex,Telles,Brazil,86',0,1
+M-2022-31,P-25593,Fabian,Rieder,Switzerland,58',1,0
+M-2022-31,P-85823,Ruben,Vargas,Switzerland,58',1,0
+M-2022-31,P-29932,Edimilson,Fernandes,Switzerland,58',0,1
+M-2022-31,P-20482,Renato,Steffen,Switzerland,58',0,1
+M-2022-31,P-19075,Breel,Embolo,Switzerland,76',1,0
+M-2022-31,P-11878,Djibril,Sow,Switzerland,76',1,0
+M-2022-31,P-32222,Michel,Aebischer,Switzerland,76',0,1
+M-2022-31,P-07180,Haris,Seferovic,Switzerland,76',0,1
+M-2022-31,P-38927,Silvan,Widmer,Switzerland,86',1,0
+M-2022-31,P-00244,Fabian,Frei,Switzerland,86',0,1
+M-2022-32,P-87003,Nuno,Mendes,Portugal,42',1,0
+M-2022-32,P-67578,Raphaël,Guerreiro,Portugal,42',0,1
+M-2022-32,P-22983,Rúben,Neves,Portugal,69',1,0
+M-2022-32,P-27349,Rafael,Leão,Portugal,69',0,1
+M-2022-32,P-44689,William,Carvalho,Portugal,82',1,0
+M-2022-32,P-17931,João,Félix,Portugal,82',1,0
+M-2022-32,P-70442,Cristiano,Ronaldo,Portugal,82',1,0
+M-2022-32,P-57759,Matheus,Nunes,Portugal,82',0,1
+M-2022-32,P-46583,João,Palhinha,Portugal,82',0,1
+M-2022-32,P-41647,Gonçalo,Ramos,Portugal,82',0,1
+M-2022-32,P-78440,Diego,Godín,Uruguay,62',1,0
+M-2022-32,P-46785,Matías,Vecino,Uruguay,62',1,0
+M-2022-32,P-62594,Giorgian,De Arrascaeta,Uruguay,62',0,1
+M-2022-32,P-95062,Facundo,Pellistri,Uruguay,62',0,1
+M-2022-32,P-59138,Edinson,Cavani,Uruguay,72',1,0
+M-2022-32,P-18885,Darwin,Núñez,Uruguay,72',1,0
+M-2022-32,P-70671,Maxi,Gómez,Uruguay,72',0,1
+M-2022-32,P-30486,Luis,Suárez,Uruguay,72',0,1
+M-2022-32,P-90796,Mathías,Olivera,Uruguay,86',1,0
+M-2022-32,P-18564,Matías,Viña,Uruguay,86',0,1
+M-2022-33,P-28364,Alan,Franco,Ecuador,46',1,0
+M-2022-33,P-13321,Carlos,Gruezo,Ecuador,46',1,0
+M-2022-33,P-75628,José,Cifuentes,Ecuador,46',0,1
+M-2022-33,P-78091,Jeremy,Sarmiento,Ecuador,46',0,1
+M-2022-33,P-44851,Michael,Estrada,Ecuador,64',1,0
+M-2022-33,P-69217,Djorkaeff,Reasco,Ecuador,64',0,1
+M-2022-33,P-62543,Ángelo,Preciado,Ecuador,85',1,0
+M-2022-33,P-73694,Jackson,Porozo,Ecuador,85',0,1
+M-2022-33,P-61416,Pathé,Ciss,Senegal,74',1,0
+M-2022-33,P-33958,Iliman,Ndiaye,Senegal,74',1,0
+M-2022-33,P-88928,Bamba,Dieng,Senegal,74',0,1
+M-2022-33,P-96697,Nampalys,Mendy,Senegal,74',0,1
+M-2022-33,P-33622,Boulaye,Dia,Senegal,90'+5',1,0
+M-2022-33,P-90626,Pape Abou,Cissé,Senegal,90'+5',0,1
+M-2022-34,P-27540,Memphis,Depay,Netherlands,66',1,0
+M-2022-34,P-42078,Davy,Klaassen,Netherlands,66',1,0
+M-2022-34,P-10326,Steven,Berghuis,Netherlands,66',0,1
+M-2022-34,P-57087,Vincent,Janssen,Netherlands,66',0,1
+M-2022-34,P-28911,Cody,Gakpo,Netherlands,82',1,0
+M-2022-34,P-55965,Marten,de Roon,Netherlands,82',1,0
+M-2022-34,P-35705,Teun,Koopmeiners,Netherlands,82',0,1
+M-2022-34,P-95036,Wout,Weghorst,Netherlands,82',0,1
+M-2022-34,P-17688,Frenkie,de Jong,Netherlands,86',1,0
+M-2022-34,P-95763,Kenneth,Taylor,Netherlands,86',0,1
+M-2022-34,P-38732,Hassan,Al-Haydos,Qatar,64',1,0
+M-2022-34,P-01930,Almoez,Ali,Qatar,64',1,0
+M-2022-34,P-63532,Assim,Madibo,Qatar,64',1,0
+M-2022-34,P-51678,Ali,Assadalla,Qatar,64',0,1
+M-2022-34,P-95754,Karim,Boudiaf,Qatar,64',0,1
+M-2022-34,P-17048,Mohammed,Muntari,Qatar,64',0,1
+M-2022-34,P-97800,Abdulaziz,Hatem,Qatar,85',1,0
+M-2022-34,P-01077,Ismaeel,Mohammad,Qatar,85',1,0
+M-2022-34,P-57100,Ahmed,Alaaeldin,Qatar,85',0,1
+M-2022-34,P-32949,Musab,Kheder,Qatar,85',0,1
+M-2022-35,P-74098,Milad,Mohammadi,Iran,45'+2',1,0
+M-2022-35,P-68842,Ali,Karimi,Iran,45'+2',0,1
+M-2022-35,P-09113,Sardar,Azmoun,Iran,46',1,0
+M-2022-35,P-87786,Saman,Ghoddos,Iran,46',0,1
+M-2022-35,P-75785,Ehsan,Hajsafi,Iran,71',1,0
+M-2022-35,P-42215,Ahmad,Nourollahi,Iran,71',1,0
+M-2022-35,P-62858,Abolfazl,Jalali,Iran,71',0,1
+M-2022-35,P-04541,Mehdi,Torabi,Iran,71',0,1
+M-2022-35,P-45653,Ali,Gholizadeh,Iran,77',1,0
+M-2022-35,P-53957,Karim,Ansarifard,Iran,77',0,1
+M-2022-35,P-11737,Christian,Pulisic,United States,46',1,0
+M-2022-35,P-03484,Brenden,Aaronson,United States,46',0,1
+M-2022-35,P-68952,Weston,McKennie,United States,65',1,0
+M-2022-35,P-86410,Kellyn,Acosta,United States,65',0,1
+M-2022-35,P-94647,Josh,Sargent,United States,77',1,0
+M-2022-35,P-68131,Haji,Wright,United States,77',0,1
+M-2022-35,P-89452,Sergiño,Dest,United States,82',1,0
+M-2022-35,P-30252,Timothy,Weah,United States,82',1,0
+M-2022-35,P-48265,Shaq,Moore,United States,82',0,1
+M-2022-35,P-57029,Walker,Zimmerman,United States,82',0,1
+M-2022-36,P-58924,Harry,Kane,England,57',1,0
+M-2022-36,P-84787,Declan,Rice,England,57',1,0
+M-2022-36,P-74071,Kyle,Walker,England,57',1,0
+M-2022-36,P-05318,Trent,Alexander-Arnold,England,57',0,1
+M-2022-36,P-43567,Kalvin,Phillips,England,57',0,1
+M-2022-36,P-22844,Callum,Wilson,England,57',0,1
+M-2022-36,P-36400,Luke,Shaw,England,65',1,0
+M-2022-36,P-25937,Kieran,Trippier,England,65',0,1
+M-2022-36,P-59837,Marcus,Rashford,England,75',1,0
+M-2022-36,P-21153,Jack,Grealish,England,75',0,1
+M-2022-36,P-87190,Neco,Williams,Wales,36',1,0
+M-2022-36,P-56503,Connor,Roberts,Wales,36',0,1
+M-2022-36,P-63927,Gareth,Bale,Wales,46',1,0
+M-2022-36,P-57098,Brennan,Johnson,Wales,46',0,1
+M-2022-36,P-41198,Ben,Davies,Wales,57',1,0
+M-2022-36,P-69082,Joe,Morrell,Wales,57',0,1
+M-2022-36,P-74707,Daniel,James,Wales,77',1,0
+M-2022-36,P-94779,Harry,Wilson,Wales,77',0,1
+M-2022-36,P-92761,Joe,Allen,Wales,81',1,0
+M-2022-36,P-07137,Rubin,Colwill,Wales,81',0,1
+M-2022-37,P-82010,Craig,Goodwin,Australia,46',1,0
+M-2022-37,P-27035,Keanu,Baccus,Australia,46',0,1
+M-2022-37,P-51406,Riley,McGree,Australia,74',1,0
+M-2022-37,P-97422,Bailey,Wright,Australia,74',0,1
+M-2022-37,P-91029,Mitchell,Duke,Australia,82',1,0
+M-2022-37,P-20087,Jamie,Maclaren,Australia,82',0,1
+M-2022-37,P-35837,Mathew,Leckie,Australia,89',1,0
+M-2022-37,P-82945,Ajdin,Hrustic,Australia,89',0,1
+M-2022-37,P-82877,Rasmus,Kristensen,Denmark,46',1,0
+M-2022-37,P-92135,Alexander,Bah,Denmark,46',0,1
+M-2022-37,P-85579,Martin,Braithwaite,Denmark,59',1,0
+M-2022-37,P-26593,Mathias,Jensen,Denmark,59',1,0
+M-2022-37,P-57782,Mikkel,Damsgaard,Denmark,59',0,1
+M-2022-37,P-72592,Kasper,Dolberg,Denmark,59',0,1
+M-2022-37,P-39995,Joakim,Mæhle,Denmark,69',1,0
+M-2022-37,P-82313,Andreas Skov,Olsen,Denmark,69',1,0
+M-2022-37,P-29053,Andreas,Cornelius,Denmark,69',0,1
+M-2022-37,P-76468,Robert,Skov,Denmark,69',0,1
+M-2022-38,P-06614,Kingsley,Coman,France,63',1,0
+M-2022-38,P-42326,Raphaël,Varane,France,63',1,0
+M-2022-38,P-00465,Jordan,Veretout,France,63',1,0
+M-2022-38,P-64077,Kylian,Mbappé,France,63',0,1
+M-2022-38,P-57401,Adrien,Rabiot,France,63',0,1
+M-2022-38,P-07089,William,Saliba,France,63',0,1
+M-2022-38,P-23304,Youssouf,Fofana,France,73',1,0
+M-2022-38,P-90908,Antoine,Griezmann,France,73',0,1
+M-2022-38,P-32431,Matteo,Guendouzi,France,79',1,0
+M-2022-38,P-97778,Ousmane,Dembélé,France,79',0,1
+M-2022-38,P-42223,Wahbi,Khazri,Tunisia,60',1,0
+M-2022-38,P-11346,Issam,Jebali,Tunisia,60',0,1
+M-2022-38,P-42575,Mohamed Ali,Ben Romdhane,Tunisia,74',1,0
+M-2022-38,P-09569,Ghailene,Chaalali,Tunisia,74',0,1
+M-2022-38,P-45680,Anis,Ben Slimane,Tunisia,83',1,0
+M-2022-38,P-64924,Ali,Abdi,Tunisia,83',0,1
+M-2022-39,P-73712,Marcos,Acuña,Argentina,59',1,0
+M-2022-39,P-42113,Ángel,Di María,Argentina,59',1,0
+M-2022-39,P-27582,Leandro,Paredes,Argentina,59',0,1
+M-2022-39,P-35173,Nicolás,Tagliafico,Argentina,59',0,1
+M-2022-39,P-10739,Enzo,Fernández,Argentina,79',1,0
+M-2022-39,P-19776,Julián,Álvarez,Argentina,79',1,0
+M-2022-39,P-81505,Lautaro,Martínez,Argentina,79',0,1
+M-2022-39,P-29298,Germán,Pezzella,Argentina,79',0,1
+M-2022-39,P-71343,Alexis,Mac Allister,Argentina,83',1,0
+M-2022-39,P-56659,Thiago,Almada,Argentina,83',0,1
+M-2022-39,P-23437,Przemyslaw,Frankowski,Poland,46',1,0
+M-2022-39,P-85630,Karol,Swiderski,Poland,46',1,0
+M-2022-39,P-83610,Jakub,Kaminski,Poland,46',0,1
+M-2022-39,P-02071,Michal,Skóras,Poland,46',0,1
+M-2022-39,P-14593,Krystian,Bielik,Poland,62',1,0
+M-2022-39,P-44699,Damian,Szymanski,Poland,62',0,1
+M-2022-39,P-42160,Bartosz,Bereszynski,Poland,72',1,0
+M-2022-39,P-61813,Artur,Jedrzejczyk,Poland,72',0,1
+M-2022-39,P-45449,Grzegorz,Krychowiak,Poland,83',1,0
+M-2022-39,P-11013,Krzysztof,Piatek,Poland,83',0,1
+M-2022-40,P-64182,Alexis,Vega,Mexico,46',1,0
+M-2022-40,P-81433,Uriel,Antuna,Mexico,46',0,1
+M-2022-40,P-49482,Henry,Martín,Mexico,77',1,0
+M-2022-40,P-95198,Orbelín,Pineda,Mexico,77',1,0
+M-2022-40,P-57865,Raúl,Jiménez,Mexico,77',0,1
+M-2022-40,P-19618,Carlos,Rodríguez,Mexico,77',0,1
+M-2022-40,P-24062,Jorge,Sánchez,Mexico,86',1,0
+M-2022-40,P-26546,Edson,Álvarez,Mexico,86',1,0
+M-2022-40,P-51689,Rogelio,Funes Mori,Mexico,86',0,1
+M-2022-40,P-09058,Kevin,Álvarez,Mexico,86',0,1
+M-2022-40,P-87284,Ali,Al-Bulaihi,Saudi Arabia,37',1,0
+M-2022-40,P-06750,Riyadh,Sharahili,Saudi Arabia,37',0,1
+M-2022-40,P-45413,Ali,Al-Hassan,Saudi Arabia,46',1,0
+M-2022-40,P-20388,Abdullah,Madu,Saudi Arabia,46',0,1
+M-2022-40,P-37308,Saleh,Al-Shehri,Saudi Arabia,62',1,0
+M-2022-40,P-45581,Abdulrahman,Al-Aboud,Saudi Arabia,62',0,1
+M-2022-40,P-06789,Sultan,Al-Ghannam,Saudi Arabia,88',1,0
+M-2022-40,P-84563,Hattan,Bahebri,Saudi Arabia,88',0,1
+M-2022-41,P-55821,Sam,Adekugbe,Canada,60',1,0
+M-2022-41,P-72399,Mark-Anthony,Kaye,Canada,60',1,0
+M-2022-41,P-01925,Cyle,Larin,Canada,60',1,0
+M-2022-41,P-48340,Jonathan,David,Canada,60',0,1
+M-2022-41,P-03472,Atiba,Hutchinson,Canada,60',0,1
+M-2022-41,P-85670,Ismaël,Koné,Canada,60',0,1
+M-2022-41,P-27541,Jonathan,Osorio,Canada,65',1,0
+M-2022-41,P-42390,Richie,Laryea,Canada,65',0,1
+M-2022-41,P-35706,Junior,Hoilett,Canada,76',1,0
+M-2022-41,P-49915,David,Wotherspoon,Canada,76',0,1
+M-2022-41,P-59033,Sofiane,Boufal,Morocco,65',1,0
+M-2022-41,P-05265,Abdelhamid,Sabiri,Morocco,65',1,0
+M-2022-41,P-48295,Zakaria,Aboukhlal,Morocco,65',0,1
+M-2022-41,P-23330,Selim,Amallah,Morocco,65',0,1
+M-2022-41,P-40619,Azzedine,Ounahi,Morocco,76',1,0
+M-2022-41,P-70715,Hakim,Ziyech,Morocco,76',1,0
+M-2022-41,P-14026,Jawad,El Yamiq,Morocco,76',0,1
+M-2022-41,P-90423,Abderrazak,Hamdallah,Morocco,76',0,1
+M-2022-41,P-45288,Achraf,Hakimi,Morocco,85',1,0
+M-2022-41,P-86644,Yahya,Jabrane,Morocco,85',0,1
+M-2022-42,P-84852,Dries,Mertens,Belgium,46',1,0
+M-2022-42,P-72637,Romelu,Lukaku,Belgium,46',0,1
+M-2022-42,P-95312,Leandro,Trossard,Belgium,59',1,0
+M-2022-42,P-74337,Thorgan,Hazard,Belgium,59',0,1
+M-2022-42,P-06338,Yannick,Carrasco,Belgium,72',1,0
+M-2022-42,P-73834,Leander,Dendoncker,Belgium,72',1,0
+M-2022-42,P-29578,Jérémy,Doku,Belgium,72',0,1
+M-2022-42,P-47906,Youri,Tielemans,Belgium,72',0,1
+M-2022-42,P-22930,Thomas,Meunier,Belgium,87',1,0
+M-2022-42,P-72011,Eden,Hazard,Belgium,87',0,1
+M-2022-42,P-65182,Andrej,Kramaric,Croatia,64',1,0
+M-2022-42,P-31643,Marko,Livaja,Croatia,64',1,0
+M-2022-42,P-89948,Mario,Pašalic,Croatia,64',0,1
+M-2022-42,P-46461,Bruno,Petkovic,Croatia,64',0,1
+M-2022-42,P-07670,Mateo,Kovacic,Croatia,90'+2',1,0
+M-2022-42,P-64353,Lovro,Majer,Croatia,90'+2',0,1
+M-2022-43,P-44957,Brandon,Aguilera,Costa Rica,46',1,0
+M-2022-43,P-32622,Youstin,Salas,Costa Rica,46',0,1
+M-2022-43,P-80986,Keysher,Fuller,Costa Rica,74',1,0
+M-2022-43,P-58669,Johan,Venegas,Costa Rica,74',1,0
+M-2022-43,P-09889,Jewison,Bennette,Costa Rica,74',0,1
+M-2022-43,P-37189,Rónald,Matarrita,Costa Rica,74',0,1
+M-2022-43,P-10740,Bryan,Oviedo,Costa Rica,90'+3',1,0
+M-2022-43,P-24978,Yeltsin,Tejeda,Costa Rica,90'+3',1,0
+M-2022-43,P-02556,Anthony,Contreras,Costa Rica,90'+3',0,1
+M-2022-43,P-23993,Roan,Wilson,Costa Rica,90'+3',0,1
+M-2022-43,P-79409,Leon,Goretzka,Germany,46',1,0
+M-2022-43,P-89863,Lukas,Klostermann,Germany,46',0,1
+M-2022-43,P-08896,Ilkay,Gündogan,Germany,55',1,0
+M-2022-43,P-46246,Niclas,Füllkrug,Germany,55',0,1
+M-2022-43,P-28154,Thomas,Müller,Germany,66',1,0
+M-2022-43,P-20804,David,Raum,Germany,66',1,0
+M-2022-43,P-63673,Mario,Götze,Germany,66',0,1
+M-2022-43,P-77743,Kai,Havertz,Germany,66',0,1
+M-2022-43,P-48737,Niklas,Süle,Germany,90'+3',1,0
+M-2022-43,P-36126,Matthias,Ginter,Germany,90'+3',0,1
+M-2022-44,P-39942,Takefusa,Kubo,Japan,46',1,0
+M-2022-44,P-26303,Yuto,Nagatomo,Japan,46',1,0
+M-2022-44,P-58907,Ritsu,Doan,Japan,46',0,1
+M-2022-44,P-22633,Kaoru,Mitoma,Japan,46',0,1
+M-2022-44,P-30206,Daizen,Maeda,Japan,62',1,0
+M-2022-44,P-46913,Takuma,Asano,Japan,62',0,1
+M-2022-44,P-62952,Daichi,Kamada,Japan,68',1,0
+M-2022-44,P-68429,Takehiro,Tomiyasu,Japan,68',0,1
+M-2022-44,P-82447,Ao,Tanaka,Japan,87',1,0
+M-2022-44,P-53282,Wataru,Endo,Japan,87',0,1
+M-2022-44,P-60716,César,Azpilicueta,Spain,46',1,0
+M-2022-44,P-71071,Dani,Carvajal,Spain,46',0,1
+M-2022-44,P-29274,Álvaro,Morata,Spain,57',1,0
+M-2022-44,P-68218,Nico,Williams,Spain,57',1,0
+M-2022-44,P-09400,Marco,Asensio,Spain,57',0,1
+M-2022-44,P-31301,Ferran,Torres,Spain,57',0,1
+M-2022-44,P-49008,Alejandro,Balde,Spain,68',1,0
+M-2022-44,P-88433,not applicable,Gavi,Spain,68',1,0
+M-2022-44,P-01416,Jordi,Alba,Spain,68',0,1
+M-2022-44,P-33854,Ansu,Fati,Spain,68',0,1
+M-2022-45,P-01945,André,Ayew,Ghana,46',1,0
+M-2022-45,P-31765,Jordan,Ayew,Ghana,46',1,0
+M-2022-45,P-72363,Osman,Bukari,Ghana,46',0,1
+M-2022-45,P-33325,Kamaldeen,Sulemana,Ghana,46',0,1
+M-2022-45,P-21820,Salis,Abdul Samed,Ghana,72',1,0
+M-2022-45,P-53967,Iñaki,Williams,Ghana,72',1,0
+M-2022-45,P-92252,Daniel-Kofi,Kyereh,Ghana,72',0,1
+M-2022-45,P-14179,Antoine,Semenyo,Ghana,72',0,1
+M-2022-45,P-23821,Mohammed,Kudus,Ghana,90'+8',1,0
+M-2022-45,P-62854,Abdul Fatawu,Issahaku,Ghana,90'+8',0,1
+M-2022-45,P-58791,Rodrigo,Bentancur,Uruguay,34',1,0
+M-2022-45,P-46785,Matías,Vecino,Uruguay,34',0,1
+M-2022-45,P-95062,Facundo,Pellistri,Uruguay,66',1,0
+M-2022-45,P-30486,Luis,Suárez,Uruguay,66',1,0
+M-2022-45,P-59138,Edinson,Cavani,Uruguay,66',0,1
+M-2022-45,P-86878,Nicolás,de la Cruz,Uruguay,66',0,1
+M-2022-45,P-62594,Giorgian,De Arrascaeta,Uruguay,80',1,0
+M-2022-45,P-18885,Darwin,Núñez,Uruguay,80',1,0
+M-2022-45,P-24667,Agustín,Canobbio,Uruguay,80',0,1
+M-2022-45,P-70671,Maxi,Gómez,Uruguay,80',0,1
+M-2022-46,P-22983,Rúben,Neves,Portugal,65',1,0
+M-2022-46,P-57759,Matheus,Nunes,Portugal,65',1,0
+M-2022-46,P-70442,Cristiano,Ronaldo,Portugal,65',1,0
+M-2022-46,P-27349,Rafael,Leão,Portugal,65',0,1
+M-2022-46,P-46583,João,Palhinha,Portugal,65',0,1
+M-2022-46,P-33280,André,Silva,Portugal,65',0,1
+M-2022-46,P-31133,João,Mário,Portugal,81',1,0
+M-2022-46,P-89266,not applicable,Vitinha,Portugal,81',1,0
+M-2022-46,P-44689,William,Carvalho,Portugal,81',0,1
+M-2022-46,P-34205,Bernardo,Silva,Portugal,81',0,1
+M-2022-46,P-93920,Jae-sung,Lee,South Korea,65',1,0
+M-2022-46,P-58692,Hee-chan,Hwang,South Korea,65',0,1
+M-2022-46,P-87514,Lee,Kang-in,South Korea,81',1,0
+M-2022-46,P-07259,Young-gwon,Kim,South Korea,81',1,0
+M-2022-46,P-61172,Son,Jun-ho,South Korea,81',0,1
+M-2022-46,P-92710,Hwang,Ui-jo,South Korea,81',0,1
+M-2022-46,P-87169,Cho,Gue-sung,South Korea,90'+3',1,0
+M-2022-46,P-05917,Cho,Yu-min,South Korea,90'+3',0,1
+M-2022-47,P-74941,not applicable,Fred,Brazil,54',1,0
+M-2022-47,P-06446,not applicable,Rodrygo,Brazil,54',1,0
+M-2022-47,P-26953,Alex,Telles,Brazil,54',1,0
+M-2022-47,P-74688,Bruno,Guimarães,Brazil,54',0,1
+M-2022-47,P-76060,not applicable,Marquinhos,Brazil,54',0,1
+M-2022-47,P-42740,Éverton,Ribeiro,Brazil,54',0,1
+M-2022-47,P-92004,Gabriel,Jesus,Brazil,64',1,0
+M-2022-47,P-15197,not applicable,Pedro,Brazil,64',0,1
+M-2022-47,P-37860,not applicable,Antony,Brazil,79',1,0
+M-2022-47,P-83169,not applicable,Raphinha,Brazil,79',0,1
+M-2022-47,P-39394,Bryan,Mbeumo,Cameroon,64',1,0
+M-2022-47,P-20259,Karl,Toko Ekambi,Cameroon,64',0,1
+M-2022-47,P-29115,Pierre,Kunde,Cameroon,68',1,0
+M-2022-47,P-62618,Olivier,Ntcham,Cameroon,68',0,1
+M-2022-47,P-27913,Moumi,Ngamaleu,Cameroon,86',1,0
+M-2022-47,P-32773,Jerome,Ngom Mbekeli,Cameroon,86',0,1
+M-2022-48,P-30283,Miloš,Veljkovic,Serbia,55',1,0
+M-2022-48,P-63293,Dušan,Vlahovic,Serbia,55',1,0
+M-2022-48,P-24610,Nemanja,Gudelj,Serbia,55',0,1
+M-2022-48,P-62033,Luka,Jovic,Serbia,55',0,1
+M-2022-48,P-27744,Sergej,Milinkovic-Savic,Serbia,68',1,0
+M-2022-48,P-89598,Nemanja,Maksimovic,Serbia,68',0,1
+M-2022-48,P-33390,Dušan,Tadic,Serbia,78',1,0
+M-2022-48,P-58363,Andrija,Živkovic,Serbia,78',1,0
+M-2022-48,P-79900,Nemanja,Radonjic,Serbia,78',0,1
+M-2022-48,P-79754,Filip,Ðuricic,Serbia,78',0,1
+M-2022-48,P-39460,Xherdan,Shaqiri,Switzerland,69',1,0
+M-2022-48,P-11878,Djibril,Sow,Switzerland,69',1,0
+M-2022-48,P-29932,Edimilson,Fernandes,Switzerland,69',0,1
+M-2022-48,P-83560,Denis,Zakaria,Switzerland,69',0,1
+M-2022-48,P-85823,Ruben,Vargas,Switzerland,83',1,0
+M-2022-48,P-71875,Christian,Fassnacht,Switzerland,83',0,1
+M-2022-48,P-19075,Breel,Embolo,Switzerland,90'+6',1,0
+M-2022-48,P-85577,Noah,Okafor,Switzerland,90'+6',0,1
+M-2022-49,P-42078,Davy,Klaassen,Netherlands,46',1,0
+M-2022-49,P-55965,Marten,de Roon,Netherlands,46',1,0
+M-2022-49,P-44799,Steven,Bergwijn,Netherlands,46',0,1
+M-2022-49,P-35705,Teun,Koopmeiners,Netherlands,46',0,1
+M-2022-49,P-27540,Memphis,Depay,Netherlands,83',1,0
+M-2022-49,P-34458,Xavi,Simons,Netherlands,83',0,1
+M-2022-49,P-64438,Nathan,Aké,Netherlands,90'+3',1,0
+M-2022-49,P-28911,Cody,Gakpo,Netherlands,90'+3',1,0
+M-2022-49,P-95036,Wout,Weghorst,Netherlands,90'+3',0,1
+M-2022-49,P-73572,Matthijs,de Ligt,Netherlands,90'+3',0,1
+M-2022-49,P-34132,Jesús,Ferreira,United States,46',1,0
+M-2022-49,P-85878,Giovanni,Reyna,United States,46',0,1
+M-2022-49,P-68952,Weston,McKennie,United States,67',1,0
+M-2022-49,P-30252,Timothy,Weah,United States,67',1,0
+M-2022-49,P-03484,Brenden,Aaronson,United States,67',0,1
+M-2022-49,P-68131,Haji,Wright,United States,67',0,1
+M-2022-49,P-89452,Sergiño,Dest,United States,75',1,0
+M-2022-49,P-95273,DeAndre,Yedlin,United States,75',0,1
+M-2022-49,P-70867,Antonee,Robinson,United States,90'+2',1,0
+M-2022-49,P-77402,Jordan,Morris,United States,90'+2',0,1
+M-2022-50,P-10231,Papu,Gómez,Argentina,50',1,0
+M-2022-50,P-23070,Lisandro,Martínez,Argentina,50',0,1
+M-2022-50,P-73712,Marcos,Acuña,Argentina,71',1,0
+M-2022-50,P-19776,Julián,Álvarez,Argentina,71',1,0
+M-2022-50,P-81505,Lautaro,Martínez,Argentina,71',0,1
+M-2022-50,P-35173,Nicolás,Tagliafico,Argentina,71',0,1
+M-2022-50,P-71343,Alexis,Mac Allister,Argentina,80',1,0
+M-2022-50,P-84430,Nahuel,Molina,Argentina,80',1,0
+M-2022-50,P-91431,Gonzalo,Montiel,Argentina,80',0,1
+M-2022-50,P-40147,Exequiel,Palacios,Argentina,80',0,1
+M-2022-50,P-27035,Keanu,Baccus,Australia,58',1,0
+M-2022-50,P-51406,Riley,McGree,Australia,58',1,0
+M-2022-50,P-82010,Craig,Goodwin,Australia,58',0,1
+M-2022-50,P-82945,Ajdin,Hrustic,Australia,58',0,1
+M-2022-50,P-59727,Miloš,Degenek,Australia,71',1,0
+M-2022-50,P-91029,Mitchell,Duke,Australia,71',1,0
+M-2022-50,P-35837,Mathew,Leckie,Australia,71',1,0
+M-2022-50,P-24134,Fran,Karacic,Australia,71',0,1
+M-2022-50,P-05864,Garang,Kuol,Australia,71',0,1
+M-2022-50,P-20087,Jamie,Maclaren,Australia,71',0,1
+M-2022-51,P-54517,Aurélien,Tchouaméni,France,66',1,0
+M-2022-51,P-23304,Youssouf,Fofana,France,66',0,1
+M-2022-51,P-97778,Ousmane,Dembélé,France,76',1,0
+M-2022-51,P-89750,Olivier,Giroud,France,76',1,0
+M-2022-51,P-06614,Kingsley,Coman,France,76',0,1
+M-2022-51,P-13613,Marcus,Thuram,France,76',0,1
+M-2022-51,P-78484,Jules,Koundé,France,90'+2',1,0
+M-2022-51,P-91324,Axel,Disasi,France,90'+2',0,1
+M-2022-51,P-65512,Sebastian,Szymanski,Poland,64',1,0
+M-2022-51,P-12381,Arkadiusz,Milik,Poland,64',0,1
+M-2022-51,P-83610,Jakub,Kaminski,Poland,71',1,0
+M-2022-51,P-45449,Grzegorz,Krychowiak,Poland,71',1,0
+M-2022-51,P-14593,Krystian,Bielik,Poland,71',0,1
+M-2022-51,P-40498,Nicola,Zalewski,Poland,71',0,1
+M-2022-51,P-23437,Przemyslaw,Frankowski,Poland,87',1,0
+M-2022-51,P-44780,Jakub,Kiwior,Poland,87',1,0
+M-2022-51,P-10172,Jan,Bednarek,Poland,87',0,1
+M-2022-51,P-64261,Kamil,Grosicki,Poland,87',0,1
+M-2022-52,P-10501,Phil,Foden,England,65',1,0
+M-2022-52,P-76842,Bukayo,Saka,England,65',1,0
+M-2022-52,P-21153,Jack,Grealish,England,65',0,1
+M-2022-52,P-59837,Marcus,Rashford,England,65',0,1
+M-2022-52,P-15674,Jude,Bellingham,England,76',1,0
+M-2022-52,P-92628,John,Stones,England,76',1,0
+M-2022-52,P-31219,Eric,Dier,England,76',0,1
+M-2022-52,P-90012,Mason,Mount,England,76',0,1
+M-2022-52,P-08169,Jordan,Henderson,England,82',1,0
+M-2022-52,P-43567,Kalvin,Phillips,England,82',0,1
+M-2022-52,P-61416,Pathé,Ciss,Senegal,46',1,0
+M-2022-52,P-09292,Krépin,Diatta,Senegal,46',1,0
+M-2022-52,P-33958,Iliman,Ndiaye,Senegal,46',1,0
+M-2022-52,P-88928,Bamba,Dieng,Senegal,46',0,1
+M-2022-52,P-45280,Pape,Gueye,Senegal,46',0,1
+M-2022-52,P-76835,Pape Matar,Sarr,Senegal,46',0,1
+M-2022-52,P-33622,Boulaye,Dia,Senegal,72',1,0
+M-2022-52,P-27280,Famara,Diédhiou,Senegal,72',0,1
+M-2022-52,P-54506,Ismail,Jakobs,Senegal,84',1,0
+M-2022-52,P-86095,Fodé,Ballo-Touré,Senegal,84',0,1
+M-2022-53,P-99461,Ante,Budimir,Croatia,106',1,0
+M-2022-53,P-93884,Ivan,Perišic,Croatia,106',1,0
+M-2022-53,P-31643,Marko,Livaja,Croatia,106',0,1
+M-2022-53,P-26942,Mislav,Oršic,Croatia,106',0,1
+M-2022-53,P-46461,Bruno,Petkovic,Croatia,62',1,0
+M-2022-53,P-99461,Ante,Budimir,Croatia,62',0,1
+M-2022-53,P-65182,Andrej,Kramaric,Croatia,68',1,0
+M-2022-53,P-89948,Mario,Pašalic,Croatia,68',0,1
+M-2022-53,P-07670,Mateo,Kovacic,Croatia,99',1,0
+M-2022-53,P-29491,Luka,Modric,Croatia,99',1,0
+M-2022-53,P-64353,Lovro,Majer,Croatia,99',0,1
+M-2022-53,P-22160,Nikola,Vlašic,Croatia,99',0,1
+M-2022-53,P-75751,Hidemasa,Morita,Japan,106',1,0
+M-2022-53,P-82447,Ao,Tanaka,Japan,106',0,1
+M-2022-53,P-30206,Daizen,Maeda,Japan,64',1,0
+M-2022-53,P-26303,Yuto,Nagatomo,Japan,64',1,0
+M-2022-53,P-46913,Takuma,Asano,Japan,64',0,1
+M-2022-53,P-22633,Kaoru,Mitoma,Japan,64',0,1
+M-2022-53,P-62952,Daichi,Kamada,Japan,75',1,0
+M-2022-53,P-56398,Hiroki,Sakai,Japan,75',0,1
+M-2022-53,P-58907,Ritsu,Doan,Japan,87',1,0
+M-2022-53,P-05559,Takumi,Minamino,Japan,87',0,1
+M-2022-54,P-55590,Éder,Militão,Brazil,63',1,0
+M-2022-54,P-09441,Dani,Alves,Brazil,63',0,1
+M-2022-54,P-40137,not applicable,Danilo,Brazil,72',1,0
+M-2022-54,P-92812,Vinícius,Júnior,Brazil,72',1,0
+M-2022-54,P-14060,not applicable,Bremer,Brazil,72',0,1
+M-2022-54,P-70483,Gabriel,Martinelli,Brazil,72',0,1
+M-2022-54,P-21531,not applicable,Alisson,Brazil,80',1,0
+M-2022-54,P-87008,not applicable,Neymar,Brazil,80',1,0
+M-2022-54,P-06446,not applicable,Rodrygo,Brazil,80',0,1
+M-2022-54,P-66020,not applicable,Weverton,Brazil,80',0,1
+M-2022-54,P-82889,Kim,Jin-su,South Korea,46',1,0
+M-2022-54,P-64292,Woo-young,Jung,South Korea,46',1,0
+M-2022-54,P-91889,Chul,Hong,South Korea,46',0,1
+M-2022-54,P-61172,Son,Jun-ho,South Korea,46',0,1
+M-2022-54,P-67516,Hwang,In-beom,South Korea,65',1,0
+M-2022-54,P-32599,Paik,Seung-ho,South Korea,65',0,1
+M-2022-54,P-93920,Jae-sung,Lee,South Korea,74',1,0
+M-2022-54,P-87514,Lee,Kang-in,South Korea,74',0,1
+M-2022-54,P-87169,Cho,Gue-sung,South Korea,80',1,0
+M-2022-54,P-92710,Hwang,Ui-jo,South Korea,80',0,1
+M-2022-55,P-40619,Azzedine,Ounahi,Morocco,120',1,0
+M-2022-55,P-00597,Badr,Benoun,Morocco,120',0,1
+M-2022-55,P-59033,Sofiane,Boufal,Morocco,66',1,0
+M-2022-55,P-21052,Abde,Ezzalzouli,Morocco,66',0,1
+M-2022-55,P-23330,Selim,Amallah,Morocco,82',1,0
+M-2022-55,P-42517,Youssef,En-Nesyri,Morocco,82',1,0
+M-2022-55,P-09614,Noussair,Mazraoui,Morocco,82',1,0
+M-2022-55,P-91543,Yahia,Attiyat Allah,Morocco,82',0,1
+M-2022-55,P-05216,Walid,Cheddira,Morocco,82',0,1
+M-2022-55,P-05265,Abdelhamid,Sabiri,Morocco,82',0,1
+M-2022-55,P-47490,Nayef,Aguerd,Morocco,84',1,0
+M-2022-55,P-14026,Jawad,El Yamiq,Morocco,84',0,1
+M-2022-55,P-68218,Nico,Williams,Spain,118',1,0
+M-2022-55,P-81427,Pablo,Sarabia,Spain,118',0,1
+M-2022-55,P-09400,Marco,Asensio,Spain,63',1,0
+M-2022-55,P-88433,not applicable,Gavi,Spain,63',1,0
+M-2022-55,P-29274,Álvaro,Morata,Spain,63',0,1
+M-2022-55,P-30405,Carlos,Soler,Spain,63',0,1
+M-2022-55,P-31301,Ferran,Torres,Spain,75',1,0
+M-2022-55,P-68218,Nico,Williams,Spain,75',0,1
+M-2022-55,P-01416,Jordi,Alba,Spain,98',1,0
+M-2022-55,P-40007,Dani,Olmo,Spain,98',1,0
+M-2022-55,P-49008,Alejandro,Balde,Spain,98',0,1
+M-2022-55,P-33854,Ansu,Fati,Spain,98',0,1
+M-2022-56,P-17931,João,Félix,Portugal,74',1,0
+M-2022-56,P-78787,not applicable,Otávio,Portugal,74',1,0
+M-2022-56,P-41647,Gonçalo,Ramos,Portugal,74',1,0
+M-2022-56,P-05304,Ricardo,Horta,Portugal,74',0,1
+M-2022-56,P-70442,Cristiano,Ronaldo,Portugal,74',0,1
+M-2022-56,P-89266,not applicable,Vitinha,Portugal,74',0,1
+M-2022-56,P-34205,Bernardo,Silva,Portugal,81',1,0
+M-2022-56,P-22983,Rúben,Neves,Portugal,81',0,1
+M-2022-56,P-39584,Bruno,Fernandes,Portugal,87',1,0
+M-2022-56,P-27349,Rafael,Leão,Portugal,87',0,1
+M-2022-56,P-25131,Fabian,Schär,Switzerland,46',1,0
+M-2022-56,P-56868,Eray,Cömert,Switzerland,46',0,1
+M-2022-56,P-68060,Remo,Freuler,Switzerland,54',1,0
+M-2022-56,P-11878,Djibril,Sow,Switzerland,54',1,0
+M-2022-56,P-07180,Haris,Seferovic,Switzerland,54',0,1
+M-2022-56,P-83560,Denis,Zakaria,Switzerland,54',0,1
+M-2022-56,P-85823,Ruben,Vargas,Switzerland,66',1,0
+M-2022-56,P-85577,Noah,Okafor,Switzerland,66',0,1
+M-2022-56,P-19075,Breel,Embolo,Switzerland,89',1,0
+M-2022-56,P-17496,Ardon,Jashari,Switzerland,89',0,1
+M-2022-57,P-55590,Éder,Militão,Brazil,106',1,0
+M-2022-57,P-05164,Lucas,Paquetá,Brazil,106',1,0
+M-2022-57,P-74941,not applicable,Fred,Brazil,106',0,1
+M-2022-57,P-97698,Alex,Sandro,Brazil,106',0,1
+M-2022-57,P-83169,not applicable,Raphinha,Brazil,56',1,0
+M-2022-57,P-37860,not applicable,Antony,Brazil,56',0,1
+M-2022-57,P-92812,Vinícius,Júnior,Brazil,64',1,0
+M-2022-57,P-06446,not applicable,Rodrygo,Brazil,64',0,1
+M-2022-57,P-68016,not applicable,Richarlison,Brazil,84',1,0
+M-2022-57,P-15197,not applicable,Pedro,Brazil,84',0,1
+M-2022-57,P-07670,Mateo,Kovacic,Croatia,106',1,0
+M-2022-57,P-64353,Lovro,Majer,Croatia,106',0,1
+M-2022-57,P-84190,Borna,Sosa,Croatia,110',1,0
+M-2022-57,P-99461,Ante,Budimir,Croatia,110',0,1
+M-2022-57,P-79215,Marcelo,Brozovic,Croatia,114',1,0
+M-2022-57,P-26942,Mislav,Oršic,Croatia,114',0,1
+M-2022-57,P-65182,Andrej,Kramaric,Croatia,72',1,0
+M-2022-57,P-89948,Mario,Pašalic,Croatia,72',1,0
+M-2022-57,P-46461,Bruno,Petkovic,Croatia,72',0,1
+M-2022-57,P-22160,Nikola,Vlašic,Croatia,72',0,1
+M-2022-58,P-84430,Nahuel,Molina,Argentina,106',1,0
+M-2022-58,P-91431,Gonzalo,Montiel,Argentina,106',0,1
+M-2022-58,P-23070,Lisandro,Martínez,Argentina,112',1,0
+M-2022-58,P-42113,Ángel,Di María,Argentina,112',0,1
+M-2022-58,P-37314,Rodrigo,De Paul,Argentina,67',1,0
+M-2022-58,P-27582,Leandro,Paredes,Argentina,67',0,1
+M-2022-58,P-73712,Marcos,Acuña,Argentina,78',1,0
+M-2022-58,P-79650,Cristian,Romero,Argentina,78',1,0
+M-2022-58,P-29298,Germán,Pezzella,Argentina,78',0,1
+M-2022-58,P-35173,Nicolás,Tagliafico,Argentina,78',0,1
+M-2022-58,P-19776,Julián,Álvarez,Argentina,82',1,0
+M-2022-58,P-81505,Lautaro,Martínez,Argentina,82',0,1
+M-2022-58,P-28911,Cody,Gakpo,Netherlands,113',1,0
+M-2022-58,P-57903,Noa,Lang,Netherlands,113',0,1
+M-2022-58,P-44799,Steven,Bergwijn,Netherlands,46',1,0
+M-2022-58,P-55965,Marten,de Roon,Netherlands,46',1,0
+M-2022-58,P-10326,Steven,Berghuis,Netherlands,46',0,1
+M-2022-58,P-35705,Teun,Koopmeiners,Netherlands,46',0,1
+M-2022-58,P-39861,Daley,Blind,Netherlands,64',1,0
+M-2022-58,P-64551,Luuk,de Jong,Netherlands,64',0,1
+M-2022-58,P-27540,Memphis,Depay,Netherlands,78',1,0
+M-2022-58,P-95036,Wout,Weghorst,Netherlands,78',0,1
+M-2022-59,P-26068,Romain,Saïss,Morocco,57',1,0
+M-2022-59,P-52013,Achraf,Dari,Morocco,57',0,1
+M-2022-59,P-23330,Selim,Amallah,Morocco,65',1,0
+M-2022-59,P-42517,Youssef,En-Nesyri,Morocco,65',1,0
+M-2022-59,P-00597,Badr,Benoun,Morocco,65',0,1
+M-2022-59,P-05216,Walid,Cheddira,Morocco,65',0,1
+M-2022-59,P-59033,Sofiane,Boufal,Morocco,82',1,0
+M-2022-59,P-70715,Hakim,Ziyech,Morocco,82',1,0
+M-2022-59,P-48295,Zakaria,Aboukhlal,Morocco,82',0,1
+M-2022-59,P-86644,Yahya,Jabrane,Morocco,82',0,1
+M-2022-59,P-67578,Raphaël,Guerreiro,Portugal,51',1,0
+M-2022-59,P-22983,Rúben,Neves,Portugal,51',1,0
+M-2022-59,P-16736,João,Cancelo,Portugal,51',0,1
+M-2022-59,P-70442,Cristiano,Ronaldo,Portugal,51',0,1
+M-2022-59,P-78787,not applicable,Otávio,Portugal,69',1,0
+M-2022-59,P-41647,Gonçalo,Ramos,Portugal,69',1,0
+M-2022-59,P-27349,Rafael,Leão,Portugal,69',0,1
+M-2022-59,P-89266,not applicable,Vitinha,Portugal,69',0,1
+M-2022-59,P-41603,Diogo,Dalot,Portugal,79',1,0
+M-2022-59,P-05304,Ricardo,Horta,Portugal,79',0,1
+M-2022-60,P-08169,Jordan,Henderson,England,79',1,0
+M-2022-60,P-76842,Bukayo,Saka,England,79',1,0
+M-2022-60,P-90012,Mason,Mount,England,79',0,1
+M-2022-60,P-21553,Raheem,Sterling,England,79',0,1
+M-2022-60,P-10501,Phil,Foden,England,85',1,0
+M-2022-60,P-59837,Marcus,Rashford,England,85',0,1
+M-2022-60,P-92628,John,Stones,England,90'+8',1,0
+M-2022-60,P-21153,Jack,Grealish,England,90'+8',0,1
+M-2022-60,P-97778,Ousmane,Dembélé,France,79',1,0
+M-2022-60,P-06614,Kingsley,Coman,France,79',0,1
+M-2022-61,P-27582,Leandro,Paredes,Argentina,62',1,0
+M-2022-61,P-23070,Lisandro,Martínez,Argentina,62',0,1
+M-2022-61,P-37314,Rodrigo,De Paul,Argentina,74',1,0
+M-2022-61,P-19776,Julián,Álvarez,Argentina,74',1,0
+M-2022-61,P-28151,Paulo,Dybala,Argentina,74',0,1
+M-2022-61,P-40147,Exequiel,Palacios,Argentina,74',0,1
+M-2022-61,P-71343,Alexis,Mac Allister,Argentina,86',1,0
+M-2022-61,P-84430,Nahuel,Molina,Argentina,86',1,0
+M-2022-61,P-92353,Ángel,Correa,Argentina,86',0,1
+M-2022-61,P-00652,Juan,Foyth,Argentina,86',0,1
+M-2022-61,P-89948,Mario,Pašalic,Croatia,46',1,0
+M-2022-61,P-84190,Borna,Sosa,Croatia,46',1,0
+M-2022-61,P-26942,Mislav,Oršic,Croatia,46',0,1
+M-2022-61,P-22160,Nikola,Vlašic,Croatia,46',0,1
+M-2022-61,P-79215,Marcelo,Brozovic,Croatia,50',1,0
+M-2022-61,P-46461,Bruno,Petkovic,Croatia,50',0,1
+M-2022-61,P-65182,Andrej,Kramaric,Croatia,72',1,0
+M-2022-61,P-31643,Marko,Livaja,Croatia,72',0,1
+M-2022-61,P-29491,Luka,Modric,Croatia,81',1,0
+M-2022-61,P-64353,Lovro,Majer,Croatia,81',0,1
+M-2022-62,P-89750,Olivier,Giroud,France,65',1,0
+M-2022-62,P-13613,Marcus,Thuram,France,65',0,1
+M-2022-62,P-97778,Ousmane,Dembélé,France,78',1,0
+M-2022-62,P-92987,Randal,Kolo Muani,France,78',0,1
+M-2022-62,P-26068,Romain,Saïss,Morocco,21',1,0
+M-2022-62,P-23330,Selim,Amallah,Morocco,21',0,1
+M-2022-62,P-09614,Noussair,Mazraoui,Morocco,46',1,0
+M-2022-62,P-91543,Yahia,Attiyat Allah,Morocco,46',0,1
+M-2022-62,P-59033,Sofiane,Boufal,Morocco,66',1,0
+M-2022-62,P-42517,Youssef,En-Nesyri,Morocco,66',1,0
+M-2022-62,P-48295,Zakaria,Aboukhlal,Morocco,66',0,1
+M-2022-62,P-90423,Abderrazak,Hamdallah,Morocco,66',0,1
+M-2022-62,P-23330,Selim,Amallah,Morocco,78',1,0
+M-2022-62,P-21052,Abde,Ezzalzouli,Morocco,78',0,1
+M-2022-63,P-65182,Andrej,Kramaric,Croatia,61',1,0
+M-2022-63,P-22160,Nikola,Vlašic,Croatia,61',0,1
+M-2022-63,P-31643,Marko,Livaja,Croatia,66',1,0
+M-2022-63,P-64353,Lovro,Majer,Croatia,66',1,0
+M-2022-63,P-89948,Mario,Pašalic,Croatia,66',0,1
+M-2022-63,P-46461,Bruno,Petkovic,Croatia,66',0,1
+M-2022-63,P-26942,Mislav,Oršic,Croatia,90'+5',1,0
+M-2022-63,P-86466,Kristijan,Jakic,Croatia,90'+5',0,1
+M-2022-63,P-05265,Abdelhamid,Sabiri,Morocco,46',1,0
+M-2022-63,P-87409,Ilias,Chair,Morocco,46',0,1
+M-2022-63,P-80656,Bilal,El Khannous,Morocco,56',1,0
+M-2022-63,P-40619,Azzedine,Ounahi,Morocco,56',0,1
+M-2022-63,P-59033,Sofiane,Boufal,Morocco,64',1,0
+M-2022-63,P-52013,Achraf,Dari,Morocco,64',1,0
+M-2022-63,P-00597,Badr,Benoun,Morocco,64',0,1
+M-2022-63,P-94093,Anass,Zaroury,Morocco,64',0,1
+M-2022-63,P-14026,Jawad,El Yamiq,Morocco,66',1,0
+M-2022-63,P-23330,Selim,Amallah,Morocco,66',0,1
+M-2022-64,P-37314,Rodrigo,De Paul,Argentina,102',1,0
+M-2022-64,P-19776,Julián,Álvarez,Argentina,102',1,0
+M-2022-64,P-81505,Lautaro,Martínez,Argentina,102',0,1
+M-2022-64,P-27582,Leandro,Paredes,Argentina,102',0,1
+M-2022-64,P-71343,Alexis,Mac Allister,Argentina,116',1,0
+M-2022-64,P-29298,Germán,Pezzella,Argentina,116',0,1
+M-2022-64,P-35173,Nicolás,Tagliafico,Argentina,120'+1',1,0
+M-2022-64,P-28151,Paulo,Dybala,Argentina,120'+1',0,1
+M-2022-64,P-42113,Ángel,Di María,Argentina,64',1,0
+M-2022-64,P-73712,Marcos,Acuña,Argentina,64',0,1
+M-2022-64,P-84430,Nahuel,Molina,Argentina,91',1,0
+M-2022-64,P-91431,Gonzalo,Montiel,Argentina,91',0,1
+M-2022-64,P-42326,Raphaël,Varane,France,113',1,0
+M-2022-64,P-86920,Ibrahima,Konaté,France,113',0,1
+M-2022-64,P-78484,Jules,Koundé,France,120'+1',1,0
+M-2022-64,P-91324,Axel,Disasi,France,120'+1',0,1
+M-2022-64,P-97778,Ousmane,Dembélé,France,41',1,0
+M-2022-64,P-89750,Olivier,Giroud,France,41',1,0
+M-2022-64,P-92987,Randal,Kolo Muani,France,41',0,1
+M-2022-64,P-13613,Marcus,Thuram,France,41',0,1
+M-2022-64,P-90908,Antoine,Griezmann,France,71',1,0
+M-2022-64,P-09867,Théo,Hernandez,France,71',1,0
+M-2022-64,P-80996,Eduardo,Camavinga,France,71',0,1
+M-2022-64,P-06614,Kingsley,Coman,France,71',0,1
+M-2022-64,P-57401,Adrien,Rabiot,France,96',1,0
+M-2022-64,P-23304,Youssouf,Fofana,France,96',0,1

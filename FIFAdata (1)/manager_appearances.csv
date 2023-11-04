@@ -1,0 +1,129 @@
+ID,first name,last name,team_name,match_id
+M-011,Gustavo,Alfaro,Ecuador,M-2022-01
+M-373,Félix,Sánchez,Qatar,M-2022-01
+M-405,Gareth,Southgate,England,M-2022-02
+M-339,Carlos,Queiroz,Iran,M-2022-02
+M-444,Louis,van Gaal,Netherlands,M-2022-03
+M-081,Aliou,Cissé,Senegal,M-2022-03
+M-039,Gregg,Berhalter,United States,M-2022-04
+M-306,Rob,Page,Wales,M-2022-04
+M-383,Lionel,Scaloni,Argentina,M-2022-05
+M-353,Hervé,Renard,Saudi Arabia,M-2022-05
+M-171,Kasper,Hjulmand,Denmark,M-2022-06
+M-190,Jalel,Kadri,Tunisia,M-2022-06
+M-244,Gerardo,Martino,Mexico,M-2022-07
+M-261,Czeslaw,Michniewicz,Poland,M-2022-07
+M-022,Graham,Arnold,Australia,M-2022-08
+M-097,Didier,Deschamps,France,M-2022-08
+M-090,Zlatko,Dalic,Croatia,M-2022-09
+M-350,Walid,Regragui,Morocco,M-2022-09
+M-127,Hansi,Flick,Germany,M-2022-10
+M-273,Hajime,Moriyasu,Japan,M-2022-10
+M-413,Luis Fernando,Suárez,Costa Rica,M-2022-11
+M-116,Luis,Enrique,Spain,M-2022-11
+M-243,Roberto,Martínez,Belgium,M-2022-12
+M-163,John,Herdman,Canada,M-2022-12
+M-402,Rigobert,Song,Cameroon,M-2022-13
+M-471,Murat,Yakin,Switzerland,M-2022-13
+M-036,Paulo,Bento,South Korea,M-2022-14
+M-012,Diego,Alonso,Uruguay,M-2022-14
+M-002,Otto,Addo,Ghana,M-2022-15
+M-377,Fernando,Santos,Portugal,M-2022-15
+M-429,not applicable,Tite,Brazil,M-2022-16
+M-411,Dragan,Stojkovic,Serbia,M-2022-16
+M-339,Carlos,Queiroz,Iran,M-2022-17
+M-306,Rob,Page,Wales,M-2022-17
+M-373,Félix,Sánchez,Qatar,M-2022-18
+M-081,Aliou,Cissé,Senegal,M-2022-18
+M-011,Gustavo,Alfaro,Ecuador,M-2022-19
+M-444,Louis,van Gaal,Netherlands,M-2022-19
+M-405,Gareth,Southgate,England,M-2022-20
+M-039,Gregg,Berhalter,United States,M-2022-20
+M-022,Graham,Arnold,Australia,M-2022-21
+M-190,Jalel,Kadri,Tunisia,M-2022-21
+M-261,Czeslaw,Michniewicz,Poland,M-2022-22
+M-353,Hervé,Renard,Saudi Arabia,M-2022-22
+M-171,Kasper,Hjulmand,Denmark,M-2022-23
+M-097,Didier,Deschamps,France,M-2022-23
+M-383,Lionel,Scaloni,Argentina,M-2022-24
+M-244,Gerardo,Martino,Mexico,M-2022-24
+M-413,Luis Fernando,Suárez,Costa Rica,M-2022-25
+M-273,Hajime,Moriyasu,Japan,M-2022-25
+M-243,Roberto,Martínez,Belgium,M-2022-26
+M-350,Walid,Regragui,Morocco,M-2022-26
+M-163,John,Herdman,Canada,M-2022-27
+M-090,Zlatko,Dalic,Croatia,M-2022-27
+M-127,Hansi,Flick,Germany,M-2022-28
+M-116,Luis,Enrique,Spain,M-2022-28
+M-402,Rigobert,Song,Cameroon,M-2022-29
+M-411,Dragan,Stojkovic,Serbia,M-2022-29
+M-002,Otto,Addo,Ghana,M-2022-30
+M-036,Paulo,Bento,South Korea,M-2022-30
+M-429,not applicable,Tite,Brazil,M-2022-31
+M-471,Murat,Yakin,Switzerland,M-2022-31
+M-377,Fernando,Santos,Portugal,M-2022-32
+M-012,Diego,Alonso,Uruguay,M-2022-32
+M-011,Gustavo,Alfaro,Ecuador,M-2022-33
+M-081,Aliou,Cissé,Senegal,M-2022-33
+M-444,Louis,van Gaal,Netherlands,M-2022-34
+M-373,Félix,Sánchez,Qatar,M-2022-34
+M-339,Carlos,Queiroz,Iran,M-2022-35
+M-039,Gregg,Berhalter,United States,M-2022-35
+M-405,Gareth,Southgate,England,M-2022-36
+M-306,Rob,Page,Wales,M-2022-36
+M-022,Graham,Arnold,Australia,M-2022-37
+M-171,Kasper,Hjulmand,Denmark,M-2022-37
+M-097,Didier,Deschamps,France,M-2022-38
+M-190,Jalel,Kadri,Tunisia,M-2022-38
+M-383,Lionel,Scaloni,Argentina,M-2022-39
+M-261,Czeslaw,Michniewicz,Poland,M-2022-39
+M-244,Gerardo,Martino,Mexico,M-2022-40
+M-353,Hervé,Renard,Saudi Arabia,M-2022-40
+M-163,John,Herdman,Canada,M-2022-41
+M-350,Walid,Regragui,Morocco,M-2022-41
+M-243,Roberto,Martínez,Belgium,M-2022-42
+M-090,Zlatko,Dalic,Croatia,M-2022-42
+M-413,Luis Fernando,Suárez,Costa Rica,M-2022-43
+M-127,Hansi,Flick,Germany,M-2022-43
+M-273,Hajime,Moriyasu,Japan,M-2022-44
+M-116,Luis,Enrique,Spain,M-2022-44
+M-002,Otto,Addo,Ghana,M-2022-45
+M-012,Diego,Alonso,Uruguay,M-2022-45
+M-377,Fernando,Santos,Portugal,M-2022-46
+M-036,Paulo,Bento,South Korea,M-2022-46
+M-429,not applicable,Tite,Brazil,M-2022-47
+M-402,Rigobert,Song,Cameroon,M-2022-47
+M-411,Dragan,Stojkovic,Serbia,M-2022-48
+M-471,Murat,Yakin,Switzerland,M-2022-48
+M-444,Louis,van Gaal,Netherlands,M-2022-49
+M-039,Gregg,Berhalter,United States,M-2022-49
+M-383,Lionel,Scaloni,Argentina,M-2022-50
+M-022,Graham,Arnold,Australia,M-2022-50
+M-097,Didier,Deschamps,France,M-2022-51
+M-261,Czeslaw,Michniewicz,Poland,M-2022-51
+M-405,Gareth,Southgate,England,M-2022-52
+M-081,Aliou,Cissé,Senegal,M-2022-52
+M-090,Zlatko,Dalic,Croatia,M-2022-53
+M-273,Hajime,Moriyasu,Japan,M-2022-53
+M-429,not applicable,Tite,Brazil,M-2022-54
+M-036,Paulo,Bento,South Korea,M-2022-54
+M-350,Walid,Regragui,Morocco,M-2022-55
+M-116,Luis,Enrique,Spain,M-2022-55
+M-377,Fernando,Santos,Portugal,M-2022-56
+M-471,Murat,Yakin,Switzerland,M-2022-56
+M-429,not applicable,Tite,Brazil,M-2022-57
+M-090,Zlatko,Dalic,Croatia,M-2022-57
+M-383,Lionel,Scaloni,Argentina,M-2022-58
+M-444,Louis,van Gaal,Netherlands,M-2022-58
+M-350,Walid,Regragui,Morocco,M-2022-59
+M-377,Fernando,Santos,Portugal,M-2022-59
+M-405,Gareth,Southgate,England,M-2022-60
+M-097,Didier,Deschamps,France,M-2022-60
+M-383,Lionel,Scaloni,Argentina,M-2022-61
+M-090,Zlatko,Dalic,Croatia,M-2022-61
+M-097,Didier,Deschamps,France,M-2022-62
+M-350,Walid,Regragui,Morocco,M-2022-62
+M-090,Zlatko,Dalic,Croatia,M-2022-63
+M-350,Walid,Regragui,Morocco,M-2022-63
+M-383,Lionel,Scaloni,Argentina,M-2022-64
+M-097,Didier,Deschamps,France,M-2022-64

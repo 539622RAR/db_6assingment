@@ -1,0 +1,1996 @@
+match_id,ID,first name,last name,birth_date,shirt number,forward,midfielder,defender,goalkeeper,team_name
+M-2022-01,P-82216,Moisés,Caicedo,2001-11-02,23,0,1,0,0,Ecuador
+M-2022-01,P-75628,José,Cifuentes,1999-03-12,5,0,1,0,0,Ecuador
+M-2022-01,P-44851,Michael,Estrada,1996-04-07,11,1,0,0,0,Ecuador
+M-2022-01,P-52697,Pervis,Estupiñán,1998-01-21,7,0,0,1,0,Ecuador
+M-2022-01,P-28364,Alan,Franco,1998-08-21,21,0,1,0,0,Ecuador
+M-2022-01,P-56347,Hernán,Galíndez,1987-03-30,1,0,0,0,1,Ecuador
+M-2022-01,P-29713,Piero,Hincapié,2002-01-09,3,0,0,1,0,Ecuador
+M-2022-01,P-34543,Romario,Ibarra,1994-09-24,10,0,1,0,0,Ecuador
+M-2022-01,P-56839,Sebas,Méndez,1997-04-26,20,0,1,0,0,Ecuador
+M-2022-01,P-13973,Gonzalo,Plata,2000-11-01,19,0,1,0,0,Ecuador
+M-2022-01,P-62543,Ángelo,Preciado,1998-02-18,17,0,0,1,0,Ecuador
+M-2022-01,P-02839,Kevin,Rodríguez,2000-03-04,26,1,0,0,0,Ecuador
+M-2022-01,P-78091,Jeremy,Sarmiento,2002-06-16,16,0,1,0,0,Ecuador
+M-2022-01,P-96347,Félix,Torres,1997-01-11,2,0,0,1,0,Ecuador
+M-2022-01,P-75912,Enner,Valencia,1989-11-04,13,1,0,0,0,Ecuador
+M-2022-01,P-47319,Akram,Afif,1996-11-18,11,1,0,0,0,Qatar
+M-2022-01,P-33804,Homam,Ahmed,1999-08-25,14,0,0,1,0,Qatar
+M-2022-01,P-38732,Hassan,Al-Haydos,1990-12-11,10,0,1,0,0,Qatar
+M-2022-01,P-15161,Bassam,Al-Rawi,1997-12-16,15,0,0,1,0,Qatar
+M-2022-01,P-70879,Saad,Al-Sheeb,1990-02-19,1,0,0,0,1,Qatar
+M-2022-01,P-01930,Almoez,Ali,1996-08-19,19,1,0,0,0,Qatar
+M-2022-01,P-95754,Karim,Boudiaf,1990-09-16,12,0,1,0,0,Qatar
+M-2022-01,P-01258,Abdelkarim,Hassan,1993-08-28,3,0,1,0,0,Qatar
+M-2022-01,P-97800,Abdulaziz,Hatem,1990-01-01,6,0,1,0,0,Qatar
+M-2022-01,P-12810,Boualem,Khoukhi,1990-07-09,16,0,0,1,0,Qatar
+M-2022-01,P-17048,Mohammed,Muntari,1993-12-20,9,1,0,0,0,Qatar
+M-2022-01,P-00052,not applicable,Ró-Ró,1990-08-06,2,0,0,1,0,Qatar
+M-2022-01,P-90689,Mohammed,Waad,1999-09-18,4,0,0,1,0,Qatar
+M-2022-02,P-15674,Jude,Bellingham,2003-06-29,22,0,1,0,0,England
+M-2022-02,P-31219,Eric,Dier,1994-01-15,15,0,1,1,0,England
+M-2022-02,P-10501,Phil,Foden,2000-05-28,20,0,1,0,0,England
+M-2022-02,P-21153,Jack,Grealish,1995-09-10,7,1,0,0,0,England
+M-2022-02,P-58924,Harry,Kane,1993-07-28,9,1,0,0,0,England
+M-2022-02,P-02465,Harry,Maguire,1993-03-05,6,0,0,1,0,England
+M-2022-02,P-90012,Mason,Mount,1999-01-10,19,0,1,0,0,England
+M-2022-02,P-70618,Jordan,Pickford,1994-03-07,1,0,0,0,1,England
+M-2022-02,P-59837,Marcus,Rashford,1997-10-31,11,1,0,0,0,England
+M-2022-02,P-84787,Declan,Rice,1999-01-14,4,0,1,0,0,England
+M-2022-02,P-76842,Bukayo,Saka,2001-09-05,17,1,0,0,0,England
+M-2022-02,P-36400,Luke,Shaw,1995-07-12,3,0,0,1,0,England
+M-2022-02,P-21553,Raheem,Sterling,1994-12-08,10,1,1,0,0,England
+M-2022-02,P-92628,John,Stones,1994-05-28,5,0,0,1,0,England
+M-2022-02,P-25937,Kieran,Trippier,1990-09-19,12,0,0,1,0,England
+M-2022-02,P-22844,Callum,Wilson,1992-02-27,24,1,0,0,0,England
+M-2022-02,P-09113,Sardar,Azmoun,1995-01-01,20,1,0,0,0,Iran
+M-2022-02,P-20998,Alireza,Beiranvand,1992-09-21,1,0,0,0,1,Iran
+M-2022-02,P-98747,Rouzbeh,Cheshmi,1993-07-24,15,0,0,1,0,Iran
+M-2022-02,P-95374,Saeid,Ezatolahi,1996-10-01,6,0,1,0,0,Iran
+M-2022-02,P-45653,Ali,Gholizadeh,1996-03-10,17,0,1,0,0,Iran
+M-2022-02,P-75785,Ehsan,Hajsafi,1990-02-25,3,0,1,1,0,Iran
+M-2022-02,P-28492,Hossein,Hosseini,1992-06-30,24,0,0,0,1,Iran
+M-2022-02,P-15905,Majid,Hosseini,1996-06-20,19,0,0,1,0,Iran
+M-2022-02,P-98775,Alireza,Jahanbakhsh,1993-08-11,7,1,1,0,0,Iran
+M-2022-02,P-74612,Hossein,Kanaanizadegan,1994-03-23,13,0,0,1,0,Iran
+M-2022-02,P-68842,Ali,Karimi,1994-02-11,18,0,1,0,0,Iran
+M-2022-02,P-74098,Milad,Mohammadi,1993-09-29,5,0,0,1,0,Iran
+M-2022-02,P-84382,Sadegh,Moharrami,1996-03-01,2,0,0,1,0,Iran
+M-2022-02,P-42215,Ahmad,Nourollahi,1993-02-01,21,0,1,0,0,Iran
+M-2022-02,P-29864,Morteza,Pouraliganji,1992-04-19,8,0,0,1,0,Iran
+M-2022-02,P-85860,Mehdi,Taremi,1992-07-18,9,1,0,0,0,Iran
+M-2022-02,P-04541,Mehdi,Torabi,1994-09-10,16,0,1,0,0,Iran
+M-2022-03,P-64438,Nathan,Aké,1995-02-18,5,0,0,1,0,Netherlands
+M-2022-03,P-10326,Steven,Berghuis,1991-12-19,11,0,1,0,0,Netherlands
+M-2022-03,P-44799,Steven,Bergwijn,1997-10-08,7,1,0,0,0,Netherlands
+M-2022-03,P-39861,Daley,Blind,1990-03-09,17,0,0,1,0,Netherlands
+M-2022-03,P-27540,Memphis,Depay,1994-02-13,10,1,0,0,0,Netherlands
+M-2022-03,P-97615,Denzel,Dumfries,1996-04-18,22,0,0,1,0,Netherlands
+M-2022-03,P-28911,Cody,Gakpo,1999-05-07,8,1,0,0,0,Netherlands
+M-2022-03,P-57087,Vincent,Janssen,1994-06-15,18,1,0,0,0,Netherlands
+M-2022-03,P-42078,Davy,Klaassen,1993-02-21,14,0,1,0,0,Netherlands
+M-2022-03,P-35705,Teun,Koopmeiners,1998-02-28,20,0,1,0,0,Netherlands
+M-2022-03,P-82000,Andries,Noppert,1994-04-07,23,0,0,0,1,Netherlands
+M-2022-03,P-17688,Frenkie,de Jong,1997-05-12,21,0,1,0,0,Netherlands
+M-2022-03,P-73572,Matthijs,de Ligt,1999-08-12,3,0,0,1,0,Netherlands
+M-2022-03,P-55965,Marten,de Roon,1991-03-29,15,0,1,0,0,Netherlands
+M-2022-03,P-56029,Virgil,van Dijk,1991-07-08,4,0,0,1,0,Netherlands
+M-2022-03,P-90626,Pape Abou,Cissé,1995-09-14,4,0,0,1,0,Senegal
+M-2022-03,P-33622,Boulaye,Dia,1996-11-16,9,1,0,0,0,Senegal
+M-2022-03,P-77769,Abdou,Diallo,1996-05-04,22,0,0,1,0,Senegal
+M-2022-03,P-09292,Krépin,Diatta,1999-02-25,15,0,1,0,0,Senegal
+M-2022-03,P-88928,Bamba,Dieng,2000-03-23,20,1,0,0,0,Senegal
+M-2022-03,P-40621,Idrissa,Gueye,1989-09-26,5,0,1,0,0,Senegal
+M-2022-03,P-45280,Pape,Gueye,1999-01-24,26,0,1,0,0,Senegal
+M-2022-03,P-86937,Nicolas,Jackson,2001-06-20,7,1,0,0,0,Senegal
+M-2022-03,P-54506,Ismail,Jakobs,1999-08-17,14,0,0,1,0,Senegal
+M-2022-03,P-47321,Kalidou,Koulibaly,1991-06-20,3,0,0,1,0,Senegal
+M-2022-03,P-55140,Cheikhou,Kouyaté,1989-12-21,8,0,1,1,0,Senegal
+M-2022-03,P-96697,Nampalys,Mendy,1992-06-23,6,0,1,0,0,Senegal
+M-2022-03,P-45399,Édouard,Mendy,1992-03-01,16,0,0,0,1,Senegal
+M-2022-03,P-55298,Youssouf,Sabaly,1993-03-05,21,0,0,1,0,Senegal
+M-2022-03,P-37935,Ismaïla,Sarr,1998-02-25,18,1,0,0,0,Senegal
+M-2022-04,P-03484,Brenden,Aaronson,2000-10-22,11,1,0,0,0,United States
+M-2022-04,P-86410,Kellyn,Acosta,1995-07-24,23,0,1,0,0,United States
+M-2022-04,P-14151,Tyler,Adams,1999-02-14,4,0,1,0,0,United States
+M-2022-04,P-89452,Sergiño,Dest,2000-11-03,2,0,0,1,0,United States
+M-2022-04,P-68952,Weston,McKennie,1998-08-28,8,0,1,0,0,United States
+M-2022-04,P-77402,Jordan,Morris,1994-10-26,16,1,0,0,0,United States
+M-2022-04,P-59571,Yunus,Musah,2002-11-29,6,0,1,0,0,United States
+M-2022-04,P-11737,Christian,Pulisic,1998-09-18,10,1,0,0,0,United States
+M-2022-04,P-26367,Tim,Ream,1987-10-05,13,0,0,1,0,United States
+M-2022-04,P-70867,Antonee,Robinson,1997-08-08,5,0,0,1,0,United States
+M-2022-04,P-94647,Josh,Sargent,2000-02-20,24,1,0,0,0,United States
+M-2022-04,P-48903,Matt,Turner,1994-06-24,1,0,0,0,1,United States
+M-2022-04,P-30252,Timothy,Weah,2000-02-22,21,1,0,0,0,United States
+M-2022-04,P-68131,Haji,Wright,1998-03-27,19,1,0,0,0,United States
+M-2022-04,P-95273,DeAndre,Yedlin,1993-07-09,22,0,0,1,0,United States
+M-2022-04,P-57029,Walker,Zimmerman,1993-05-19,3,0,0,1,0,United States
+M-2022-04,P-50398,Ethan,Ampadu,2000-09-14,15,0,0,1,0,Wales
+M-2022-04,P-63927,Gareth,Bale,1989-07-16,11,1,0,0,0,Wales
+M-2022-04,P-41198,Ben,Davies,1993-04-24,4,0,0,1,0,Wales
+M-2022-04,P-46457,Wayne,Hennessey,1987-01-24,1,0,0,0,1,Wales
+M-2022-04,P-74707,Daniel,James,1997-11-10,20,1,0,0,0,Wales
+M-2022-04,P-57098,Brennan,Johnson,2001-05-23,9,1,0,0,0,Wales
+M-2022-04,P-74888,Chris,Mepham,1997-11-05,5,0,0,1,0,Wales
+M-2022-04,P-10657,Kieffer,Moore,1992-08-08,13,1,0,0,0,Wales
+M-2022-04,P-69082,Joe,Morrell,1997-01-03,16,0,1,0,0,Wales
+M-2022-04,P-86951,Aaron,Ramsey,1990-12-26,10,0,1,0,0,Wales
+M-2022-04,P-56503,Connor,Roberts,1995-09-23,14,0,0,1,0,Wales
+M-2022-04,P-38105,Joe,Rodon,1997-10-22,6,0,0,1,0,Wales
+M-2022-04,P-20564,Sorba,Thomas,1999-01-25,22,0,1,0,0,Wales
+M-2022-04,P-87190,Neco,Williams,2001-04-13,3,0,0,1,0,Wales
+M-2022-04,P-94779,Harry,Wilson,1997-03-22,8,0,1,0,0,Wales
+M-2022-05,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-05,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-05,P-42113,Ángel,Di María,1988-02-14,11,1,1,0,0,Argentina
+M-2022-05,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-05,P-10231,Papu,Gómez,1988-02-15,17,0,1,0,0,Argentina
+M-2022-05,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-05,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-05,P-23070,Lisandro,Martínez,1998-01-18,25,0,0,1,0,Argentina
+M-2022-05,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-05,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-05,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-05,P-27582,Leandro,Paredes,1994-06-29,5,0,1,0,0,Argentina
+M-2022-05,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-05,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-05,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-05,P-08125,Saud,Abdulhamid,1999-07-18,12,0,0,1,0,Saudi Arabia
+M-2022-05,P-76864,Nawaf,Al-Abed,1990-01-26,18,0,1,0,0,Saudi Arabia
+M-2022-05,P-12335,Abdulelah,Al-Amri,1997-01-15,4,0,0,1,0,Saudi Arabia
+M-2022-05,P-94422,Mohammed,Al-Breik,1992-09-15,6,0,0,1,0,Saudi Arabia
+M-2022-05,P-87284,Ali,Al-Bulaihi,1989-11-21,5,0,0,1,0,Saudi Arabia
+M-2022-05,P-89845,Firas,Al-Buraikan,2000-05-14,9,1,0,0,0,Saudi Arabia
+M-2022-05,P-70583,Salem,Al-Dawsari,1991-08-19,10,1,1,0,0,Saudi Arabia
+M-2022-05,P-93688,Salman,Al-Faraj,1989-08-01,7,0,1,0,0,Saudi Arabia
+M-2022-05,P-06789,Sultan,Al-Ghannam,1994-05-06,2,0,0,1,0,Saudi Arabia
+M-2022-05,P-20216,Abdulellah,Al-Malki,1994-10-11,8,0,1,0,0,Saudi Arabia
+M-2022-05,P-85438,Mohammed,Al-Owais,1991-10-10,21,0,0,0,1,Saudi Arabia
+M-2022-05,P-45457,Yasser,Al-Shahrani,1992-05-25,13,0,0,1,0,Saudi Arabia
+M-2022-05,P-37308,Saleh,Al-Shehri,1993-11-01,11,1,0,0,0,Saudi Arabia
+M-2022-05,P-93173,Hassan,Al-Tambakti,1999-02-09,17,0,0,1,0,Saudi Arabia
+M-2022-05,P-40487,Haitham,Asiri,2001-03-25,25,1,0,0,0,Saudi Arabia
+M-2022-05,P-91268,Mohamed,Kanno,1994-09-22,23,0,1,0,0,Saudi Arabia
+M-2022-06,P-43705,Joachim,Andersen,1996-05-31,2,0,0,1,0,Denmark
+M-2022-06,P-18923,Andreas,Christensen,1996-04-10,6,0,0,1,0,Denmark
+M-2022-06,P-29053,Andreas,Cornelius,1993-03-16,21,1,0,0,0,Denmark
+M-2022-06,P-57782,Mikkel,Damsgaard,2000-07-03,14,0,1,0,0,Denmark
+M-2022-06,P-57615,Thomas,Delaney,1991-09-03,8,0,1,0,0,Denmark
+M-2022-06,P-72592,Kasper,Dolberg,1997-10-06,12,1,0,0,0,Denmark
+M-2022-06,P-50104,Christian,Eriksen,1992-02-14,10,0,1,0,0,Denmark
+M-2022-06,P-98199,Pierre-Emile,Højbjerg,1995-08-05,23,0,1,0,0,Denmark
+M-2022-06,P-26593,Mathias,Jensen,1996-01-01,7,0,1,0,0,Denmark
+M-2022-06,P-14988,Simon,Kjær,1989-03-26,4,0,0,1,0,Denmark
+M-2022-06,P-82877,Rasmus,Kristensen,1997-07-11,13,0,0,1,0,Denmark
+M-2022-06,P-70516,Jesper,Lindstrøm,2000-02-29,25,0,1,0,0,Denmark
+M-2022-06,P-39995,Joakim,Mæhle,1997-05-20,5,0,0,1,0,Denmark
+M-2022-06,P-82313,Andreas Skov,Olsen,1999-12-29,11,0,1,0,0,Denmark
+M-2022-06,P-58755,Kasper,Schmeichel,1986-11-05,1,0,0,0,1,Denmark
+M-2022-06,P-64924,Ali,Abdi,1993-12-20,24,0,0,1,0,Tunisia
+M-2022-06,P-45680,Anis,Ben Slimane,2001-03-16,25,1,0,0,0,Tunisia
+M-2022-06,P-11879,Dylan,Bronn,1995-06-19,6,0,0,1,0,Tunisia
+M-2022-06,P-32803,Aymen,Dahmen,1997-01-28,16,0,0,0,1,Tunisia
+M-2022-06,P-49094,Mohamed,Dräger,1996-06-25,20,0,0,1,0,Tunisia
+M-2022-06,P-11346,Issam,Jebali,1991-12-25,9,1,0,0,0,Tunisia
+M-2022-06,P-27079,Wajdi,Kechrida,1995-11-05,21,0,0,1,0,Tunisia
+M-2022-06,P-21865,Taha Yassine,Khenissi,1992-01-06,11,1,0,0,0,Tunisia
+M-2022-06,P-29063,Aïssa,Laïdouni,1996-12-13,14,0,1,0,0,Tunisia
+M-2022-06,P-48887,Hannibal,Mejbri,2003-01-21,8,0,1,0,0,Tunisia
+M-2022-06,P-81706,Yassine,Meriah,1993-07-02,4,0,0,1,0,Tunisia
+M-2022-06,P-25741,Youssef,Msakni,1990-10-28,7,1,0,0,0,Tunisia
+M-2022-06,P-90867,Ferjani,Sassi,1992-03-18,13,0,1,0,0,Tunisia
+M-2022-06,P-47815,Ellyes,Skhiri,1995-05-10,17,0,1,0,0,Tunisia
+M-2022-06,P-69793,Naïm,Sliti,1992-07-27,23,1,0,0,0,Tunisia
+M-2022-06,P-73455,Montassar,Talbi,1998-05-26,3,0,0,1,0,Tunisia
+M-2022-07,P-81433,Uriel,Antuna,1997-08-21,21,1,0,0,0,Mexico
+M-2022-07,P-49806,Luis,Chávez,1996-01-15,24,0,1,0,0,Mexico
+M-2022-07,P-80088,Jesús,Gallardo,1994-08-15,23,0,1,1,0,Mexico
+M-2022-07,P-42911,Héctor,Herrera,1990-04-19,16,0,1,1,0,Mexico
+M-2022-07,P-57865,Raúl,Jiménez,1991-05-05,9,1,0,0,0,Mexico
+M-2022-07,P-24705,Hirving,Lozano,1995-07-30,22,1,0,0,0,Mexico
+M-2022-07,P-49482,Henry,Martín,1992-11-18,20,1,0,0,0,Mexico
+M-2022-07,P-36212,César,Montes,1997-02-24,3,0,0,1,0,Mexico
+M-2022-07,P-21208,Héctor,Moreno,1988-01-17,15,0,0,1,0,Mexico
+M-2022-07,P-80826,Guillermo,Ochoa,1985-07-13,13,0,0,0,1,Mexico
+M-2022-07,P-19618,Carlos,Rodríguez,1997-01-03,8,0,1,0,0,Mexico
+M-2022-07,P-24062,Jorge,Sánchez,1997-12-10,19,0,0,1,0,Mexico
+M-2022-07,P-64182,Alexis,Vega,1997-11-25,10,1,0,0,0,Mexico
+M-2022-07,P-26546,Edson,Álvarez,1997-10-24,4,0,0,1,0,Mexico
+M-2022-07,P-42160,Bartosz,Bereszynski,1992-07-12,18,0,0,1,0,Poland
+M-2022-07,P-14593,Krystian,Bielik,1998-01-04,6,0,1,0,0,Poland
+M-2022-07,P-17099,Matty,Cash,1997-08-07,2,0,0,1,0,Poland
+M-2022-07,P-23437,Przemyslaw,Frankowski,1995-04-12,24,0,1,0,0,Poland
+M-2022-07,P-29046,Kamil,Glik,1988-02-03,15,0,0,1,0,Poland
+M-2022-07,P-83610,Jakub,Kaminski,2002-06-05,13,0,1,0,0,Poland
+M-2022-07,P-44780,Jakub,Kiwior,2000-02-15,14,0,0,1,0,Poland
+M-2022-07,P-45449,Grzegorz,Krychowiak,1990-01-29,10,0,1,0,0,Poland
+M-2022-07,P-00549,Robert,Lewandowski,1988-08-21,9,1,0,0,0,Poland
+M-2022-07,P-12381,Arkadiusz,Milik,1994-02-28,7,1,0,0,0,Poland
+M-2022-07,P-31606,Wojciech,Szczesny,1990-04-18,1,0,0,0,1,Poland
+M-2022-07,P-65512,Sebastian,Szymanski,1999-05-10,19,0,1,0,0,Poland
+M-2022-07,P-40498,Nicola,Zalewski,2002-01-23,21,0,1,0,0,Poland
+M-2022-07,P-32165,Piotr,Zielinski,1994-05-20,20,0,1,0,0,Poland
+M-2022-08,P-09062,Nathaniel,Atkinson,1999-06-13,3,0,0,1,0,Australia
+M-2022-08,P-27035,Keanu,Baccus,1998-06-07,26,0,1,0,0,Australia
+M-2022-08,P-51118,Aziz,Behich,1990-12-16,16,0,0,1,0,Australia
+M-2022-08,P-67089,Jason,Cummings,1995-08-01,25,1,0,0,0,Australia
+M-2022-08,P-59727,Miloš,Degenek,1994-04-28,2,0,0,1,0,Australia
+M-2022-08,P-91029,Mitchell,Duke,1991-01-18,15,1,0,0,0,Australia
+M-2022-08,P-82010,Craig,Goodwin,1991-12-16,23,1,0,0,0,Australia
+M-2022-08,P-34822,Jackson,Irvine,1993-03-07,22,0,1,0,0,Australia
+M-2022-08,P-05864,Garang,Kuol,2004-09-15,21,1,0,0,0,Australia
+M-2022-08,P-35837,Mathew,Leckie,1991-02-04,7,1,0,0,0,Australia
+M-2022-08,P-61979,Awer,Mabil,1995-09-15,11,1,0,0,0,Australia
+M-2022-08,P-51406,Riley,McGree,1998-11-02,14,0,1,0,0,Australia
+M-2022-08,P-95847,Aaron,Mooy,1990-09-15,13,0,1,0,0,Australia
+M-2022-08,P-88273,Kye,Rowles,1998-06-24,4,0,0,1,0,Australia
+M-2022-08,P-10244,Mathew,Ryan,1992-04-08,1,0,0,0,1,Australia
+M-2022-08,P-89217,Harry,Souttar,1998-10-22,19,0,0,1,0,Australia
+M-2022-08,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-08,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-08,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-08,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-08,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-08,P-84424,Lucas,Hernandez,1996-02-14,21,0,0,1,0,France
+M-2022-08,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-08,P-86920,Ibrahima,Konaté,1999-05-25,24,0,0,1,0,France
+M-2022-08,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-08,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-08,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-08,P-60652,Benjamin,Pavard,1996-03-28,2,0,0,1,0,France
+M-2022-08,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-08,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-08,P-13613,Marcus,Thuram,1997-08-06,26,1,0,0,0,France
+M-2022-08,P-03945,Dayot,Upamecano,1998-10-27,18,0,0,1,0,France
+M-2022-09,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-09,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-09,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-09,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-09,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-09,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-09,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-09,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-09,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-09,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-09,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-09,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-09,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-09,P-84190,Borna,Sosa,1998-01-21,19,0,0,1,0,Croatia
+M-2022-09,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-09,P-47490,Nayef,Aguerd,1996-03-30,5,0,0,1,0,Morocco
+M-2022-09,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-09,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-09,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-09,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-09,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-09,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-09,P-21052,Abde,Ezzalzouli,2001-12-17,16,1,0,0,0,Morocco
+M-2022-09,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-09,P-90423,Abderrazak,Hamdallah,1990-12-17,9,1,0,0,0,Morocco
+M-2022-09,P-09614,Noussair,Mazraoui,1997-11-14,3,0,0,1,0,Morocco
+M-2022-09,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-09,P-05265,Abdelhamid,Sabiri,1996-11-28,11,1,0,0,0,Morocco
+M-2022-09,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-09,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-10,P-46246,Niclas,Füllkrug,1993-02-09,9,1,0,0,0,Germany
+M-2022-10,P-75989,Serge,Gnabry,1995-07-14,10,1,0,0,0,Germany
+M-2022-10,P-79409,Leon,Goretzka,1995-02-06,8,0,1,0,0,Germany
+M-2022-10,P-63673,Mario,Götze,1992-06-03,11,0,1,0,0,Germany
+M-2022-10,P-08896,Ilkay,Gündogan,1990-10-24,21,0,1,0,0,Germany
+M-2022-10,P-77743,Kai,Havertz,1999-06-11,7,1,0,0,0,Germany
+M-2022-10,P-18188,Jonas,Hofmann,1992-07-14,18,0,1,0,0,Germany
+M-2022-10,P-30316,Joshua,Kimmich,1995-02-08,6,0,1,1,0,Germany
+M-2022-10,P-04137,Youssoufa,Moukoko,2004-11-20,26,1,0,0,0,Germany
+M-2022-10,P-47182,Jamal,Musiala,2003-02-26,14,0,1,0,0,Germany
+M-2022-10,P-28154,Thomas,Müller,1989-09-13,13,1,1,0,0,Germany
+M-2022-10,P-19408,Manuel,Neuer,1986-03-27,1,0,0,0,1,Germany
+M-2022-10,P-20804,David,Raum,1998-04-22,3,0,0,1,0,Germany
+M-2022-10,P-51201,Antonio,Rüdiger,1993-03-03,2,0,0,1,0,Germany
+M-2022-10,P-71859,Nico,Schlotterbeck,1999-12-01,23,0,0,1,0,Germany
+M-2022-10,P-48737,Niklas,Süle,1995-09-03,15,0,0,1,0,Germany
+M-2022-10,P-46913,Takuma,Asano,1994-11-10,18,1,0,0,0,Japan
+M-2022-10,P-58907,Ritsu,Doan,1998-06-16,8,0,1,0,0,Japan
+M-2022-10,P-53282,Wataru,Endo,1993-02-09,6,0,1,1,0,Japan
+M-2022-10,P-66906,Shuichi,Gonda,1989-03-03,12,0,0,0,1,Japan
+M-2022-10,P-35225,Ko,Itakura,1997-01-27,4,0,0,1,0,Japan
+M-2022-10,P-86909,Junya,Ito,1993-03-09,14,0,1,0,0,Japan
+M-2022-10,P-62952,Daichi,Kamada,1996-08-05,15,0,1,0,0,Japan
+M-2022-10,P-39942,Takefusa,Kubo,2001-06-04,11,0,1,0,0,Japan
+M-2022-10,P-30206,Daizen,Maeda,1997-10-20,25,1,0,0,0,Japan
+M-2022-10,P-05559,Takumi,Minamino,1995-01-16,10,0,1,0,0,Japan
+M-2022-10,P-22633,Kaoru,Mitoma,1997-05-20,9,0,1,0,0,Japan
+M-2022-10,P-26303,Yuto,Nagatomo,1986-09-12,5,0,0,1,0,Japan
+M-2022-10,P-56398,Hiroki,Sakai,1990-04-12,19,0,0,1,0,Japan
+M-2022-10,P-82447,Ao,Tanaka,1998-09-10,17,0,1,0,0,Japan
+M-2022-10,P-68429,Takehiro,Tomiyasu,1998-11-05,16,0,0,1,0,Japan
+M-2022-10,P-89321,Maya,Yoshida,1988-08-24,22,0,0,1,0,Japan
+M-2022-11,P-44957,Brandon,Aguilera,2003-06-28,20,0,1,0,0,Costa Rica
+M-2022-11,P-09889,Jewison,Bennette,2004-06-15,9,0,1,0,0,Costa Rica
+M-2022-11,P-11767,Celso,Borges,1988-05-27,5,0,1,0,0,Costa Rica
+M-2022-11,P-71100,Francisco,Calvo,1992-07-08,15,0,0,1,0,Costa Rica
+M-2022-11,P-70812,Joel,Campbell,1992-06-26,12,1,0,0,0,Costa Rica
+M-2022-11,P-02556,Anthony,Contreras,2000-01-29,7,1,0,0,0,Costa Rica
+M-2022-11,P-97912,Óscar,Duarte,1989-06-03,6,0,0,1,0,Costa Rica
+M-2022-11,P-80986,Keysher,Fuller,1994-07-12,4,0,0,1,0,Costa Rica
+M-2022-11,P-39281,Carlos,Martínez,1999-03-30,16,0,0,1,0,Costa Rica
+M-2022-11,P-37189,Rónald,Matarrita,1994-07-09,22,0,0,1,0,Costa Rica
+M-2022-11,P-81392,Keylor,Navas,1986-12-15,1,0,0,0,1,Costa Rica
+M-2022-11,P-10740,Bryan,Oviedo,1990-02-18,8,0,0,1,0,Costa Rica
+M-2022-11,P-99590,Bryan,Ruiz,1985-08-18,10,1,1,0,0,Costa Rica
+M-2022-11,P-24978,Yeltsin,Tejeda,1992-03-17,17,0,1,0,0,Costa Rica
+M-2022-11,P-37984,Kendall,Waston,1988-01-01,19,0,0,1,0,Costa Rica
+M-2022-11,P-22631,Álvaro,Zamora,2002-03-09,26,0,1,0,0,Costa Rica
+M-2022-11,P-01416,Jordi,Alba,1989-03-21,18,0,0,1,0,Spain
+M-2022-11,P-09400,Marco,Asensio,1996-01-21,10,1,1,0,0,Spain
+M-2022-11,P-60716,César,Azpilicueta,1989-08-28,2,0,0,1,0,Spain
+M-2022-11,P-49008,Alejandro,Balde,2003-10-18,14,0,0,1,0,Spain
+M-2022-11,P-28010,Sergio,Busquets,1988-07-16,5,0,1,0,0,Spain
+M-2022-11,P-88433,not applicable,Gavi,2004-08-05,9,0,1,0,0,Spain
+M-2022-11,P-37294,not applicable,Koke,1992-01-08,8,0,1,0,0,Spain
+M-2022-11,P-99025,Aymeric,Laporte,1994-05-27,24,0,0,1,0,Spain
+M-2022-11,P-29274,Álvaro,Morata,1992-10-23,7,1,0,0,0,Spain
+M-2022-11,P-40007,Dani,Olmo,1998-05-07,21,1,0,0,0,Spain
+M-2022-11,P-24897,not applicable,Pedri,2002-11-25,26,0,1,0,0,Spain
+M-2022-11,P-62341,not applicable,Rodri,1996-06-22,16,0,1,0,0,Spain
+M-2022-11,P-94271,Unai,Simón,1997-06-11,23,0,0,0,1,Spain
+M-2022-11,P-30405,Carlos,Soler,1997-01-02,19,0,1,0,0,Spain
+M-2022-11,P-31301,Ferran,Torres,2000-02-29,11,1,0,0,0,Spain
+M-2022-11,P-68218,Nico,Williams,2002-07-12,12,1,0,0,0,Spain
+M-2022-12,P-70547,Toby,Alderweireld,1989-03-02,2,0,0,1,0,Belgium
+M-2022-12,P-13975,Michy,Batshuayi,1993-10-02,23,1,0,0,0,Belgium
+M-2022-12,P-06338,Yannick,Carrasco,1993-09-04,11,1,1,0,0,Belgium
+M-2022-12,P-56069,Timothy,Castagne,1995-12-05,21,0,1,0,0,Belgium
+M-2022-12,P-09658,Thibaut,Courtois,1992-05-11,1,0,0,0,1,Belgium
+M-2022-12,P-48955,Kevin,De Bruyne,1991-06-28,7,0,1,0,0,Belgium
+M-2022-12,P-73834,Leander,Dendoncker,1995-04-15,19,0,0,1,0,Belgium
+M-2022-12,P-72011,Eden,Hazard,1991-01-07,10,1,1,0,0,Belgium
+M-2022-12,P-22930,Thomas,Meunier,1991-09-12,15,0,1,1,0,Belgium
+M-2022-12,P-21652,Amadou,Onana,2001-08-16,18,0,1,0,0,Belgium
+M-2022-12,P-70691,Loïs,Openda,2000-02-16,24,1,0,0,0,Belgium
+M-2022-12,P-47906,Youri,Tielemans,1997-05-07,8,0,1,0,0,Belgium
+M-2022-12,P-95312,Leandro,Trossard,1994-12-04,17,1,0,0,0,Belgium
+M-2022-12,P-64049,Jan,Vertonghen,1987-04-24,5,0,0,1,0,Belgium
+M-2022-12,P-53048,Axel,Witsel,1989-01-12,6,0,1,0,0,Belgium
+M-2022-12,P-55821,Sam,Adekugbe,1995-01-16,3,0,0,1,0,Canada
+M-2022-12,P-46263,Milan,Borjan,1987-10-23,18,0,0,0,1,Canada
+M-2022-12,P-96259,Tajon,Buchanan,1999-02-08,11,1,0,0,0,Canada
+M-2022-12,P-48340,Jonathan,David,2000-01-14,20,1,0,0,0,Canada
+M-2022-12,P-46358,Alphonso,Davies,2000-11-02,19,1,0,0,0,Canada
+M-2022-12,P-28794,Stephen,Eustáquio,1996-12-21,7,0,1,0,0,Canada
+M-2022-12,P-35706,Junior,Hoilett,1990-06-05,10,0,1,0,0,Canada
+M-2022-12,P-03472,Atiba,Hutchinson,1983-02-08,13,0,1,0,0,Canada
+M-2022-12,P-12635,Alistair,Johnston,1998-10-08,2,0,0,1,0,Canada
+M-2022-12,P-85670,Ismaël,Koné,2002-06-16,15,0,1,0,0,Canada
+M-2022-12,P-01925,Cyle,Larin,1995-04-17,17,1,0,0,0,Canada
+M-2022-12,P-42390,Richie,Laryea,1995-01-07,22,0,0,1,0,Canada
+M-2022-12,P-00809,Liam,Millar,1999-09-27,23,0,1,0,0,Canada
+M-2022-12,P-31806,Kamal,Miller,1997-05-16,4,0,0,1,0,Canada
+M-2022-12,P-27541,Jonathan,Osorio,1992-06-12,21,0,1,0,0,Canada
+M-2022-12,P-89710,Steven,Vitória,1987-01-11,5,0,0,1,0,Canada
+M-2022-13,P-53452,Vincent,Aboubakar,1992-01-22,10,1,0,0,0,Cameroon
+M-2022-13,P-59303,Jean-Charles,Castelletto,1995-01-26,21,0,0,1,0,Cameroon
+M-2022-13,P-06117,Eric Maxim,Choupo-Moting,1989-03-23,13,1,0,0,0,Cameroon
+M-2022-13,P-47677,Collins,Fai,1992-08-13,19,0,0,1,0,Cameroon
+M-2022-13,P-63923,Samuel,Gouet,1997-12-14,14,0,1,0,0,Cameroon
+M-2022-13,P-34633,Martin,Hongla,1998-03-16,18,0,1,0,0,Cameroon
+M-2022-13,P-39394,Bryan,Mbeumo,1999-08-07,20,1,0,0,0,Cameroon
+M-2022-13,P-27913,Moumi,Ngamaleu,1994-07-09,6,1,0,0,0,Cameroon
+M-2022-13,P-68058,Georges-Kévin,Nkoudou,1995-02-13,7,0,1,0,0,Cameroon
+M-2022-13,P-93209,Nicolas,Nkoulou,1990-03-27,3,0,0,1,0,Cameroon
+M-2022-13,P-67127,André,Onana,1996-04-02,23,0,0,0,1,Cameroon
+M-2022-13,P-36707,Gaël,Ondoua,1995-11-04,5,0,1,0,0,Cameroon
+M-2022-13,P-20259,Karl,Toko Ekambi,1992-09-14,12,1,0,0,0,Cameroon
+M-2022-13,P-55367,Nouhou,Tolo,1997-06-23,25,0,0,1,0,Cameroon
+M-2022-13,P-38355,André-Frank,Zambo Anguissa,1995-11-16,8,0,1,0,0,Cameroon
+M-2022-13,P-23925,Manuel,Akanji,1995-07-19,5,0,0,1,0,Switzerland
+M-2022-13,P-56868,Eray,Cömert,1998-02-04,18,0,0,1,0,Switzerland
+M-2022-13,P-19193,Nico,Elvedi,1996-09-30,4,0,0,1,0,Switzerland
+M-2022-13,P-19075,Breel,Embolo,1997-02-14,7,1,0,0,0,Switzerland
+M-2022-13,P-00244,Fabian,Frei,1989-01-08,20,0,1,0,0,Switzerland
+M-2022-13,P-68060,Remo,Freuler,1992-04-15,8,0,1,0,0,Switzerland
+M-2022-13,P-85577,Noah,Okafor,2000-05-24,19,1,0,0,0,Switzerland
+M-2022-13,P-25593,Fabian,Rieder,2002-02-16,25,0,1,0,0,Switzerland
+M-2022-13,P-43367,Ricardo,Rodríguez,1992-08-25,13,0,0,1,0,Switzerland
+M-2022-13,P-07180,Haris,Seferovic,1992-02-22,9,1,0,0,0,Switzerland
+M-2022-13,P-39460,Xherdan,Shaqiri,1991-10-10,23,0,1,0,0,Switzerland
+M-2022-13,P-63312,Yann,Sommer,1988-12-17,1,0,0,0,1,Switzerland
+M-2022-13,P-11878,Djibril,Sow,1997-02-06,15,0,1,0,0,Switzerland
+M-2022-13,P-85823,Ruben,Vargas,1998-08-05,17,1,0,0,0,Switzerland
+M-2022-13,P-38927,Silvan,Widmer,1993-03-05,3,0,0,1,0,Switzerland
+M-2022-13,P-77224,Granit,Xhaka,1992-09-27,10,0,1,0,0,Switzerland
+M-2022-14,P-87169,Cho,Gue-sung,1998-01-25,9,1,0,0,0,South Korea
+M-2022-14,P-67516,Hwang,In-beom,1996-09-20,6,0,1,0,0,South Korea
+M-2022-14,P-82889,Kim,Jin-su,1992-06-13,3,0,0,1,0,South Korea
+M-2022-14,P-61172,Son,Jun-ho,1992-05-12,13,0,1,0,0,South Korea
+M-2022-14,P-64292,Woo-young,Jung,1989-12-14,5,0,1,0,0,South Korea
+M-2022-14,P-87514,Lee,Kang-in,2001-02-19,18,0,1,0,0,South Korea
+M-2022-14,P-42523,Seung-gyu,Kim,1990-09-30,1,0,0,0,1,South Korea
+M-2022-14,P-07259,Young-gwon,Kim,1990-02-27,19,0,0,1,0,South Korea
+M-2022-14,P-93920,Jae-sung,Lee,1992-08-10,10,0,1,0,0,South Korea
+M-2022-14,P-14360,Kim,Min-jae,1996-11-15,4,0,0,1,0,South Korea
+M-2022-14,P-07233,Kim,Moon-hwan,1995-08-01,15,0,0,1,0,South Korea
+M-2022-14,P-10357,Na,Sang-ho,1996-08-12,17,0,1,0,0,South Korea
+M-2022-14,P-77335,Heung-min,Son,1992-07-08,7,1,1,0,0,South Korea
+M-2022-14,P-92710,Hwang,Ui-jo,1992-08-28,16,1,0,0,0,South Korea
+M-2022-14,P-58791,Rodrigo,Bentancur,1997-06-25,6,0,1,0,0,Uruguay
+M-2022-14,P-59138,Edinson,Cavani,1987-02-14,21,1,0,0,0,Uruguay
+M-2022-14,P-74058,Martín,Cáceres,1987-04-07,22,0,0,1,0,Uruguay
+M-2022-14,P-65659,José,Giménez,1995-01-20,2,0,0,1,0,Uruguay
+M-2022-14,P-78440,Diego,Godín,1986-02-16,3,0,0,1,0,Uruguay
+M-2022-14,P-18885,Darwin,Núñez,1999-06-24,11,1,0,0,0,Uruguay
+M-2022-14,P-90796,Mathías,Olivera,1997-10-31,16,0,0,1,0,Uruguay
+M-2022-14,P-95062,Facundo,Pellistri,2001-12-20,8,1,0,0,0,Uruguay
+M-2022-14,P-00232,Sergio,Rochet,1993-03-23,23,0,0,0,1,Uruguay
+M-2022-14,P-30486,Luis,Suárez,1987-01-24,9,1,0,0,0,Uruguay
+M-2022-14,P-05174,Federico,Valverde,1998-07-22,15,0,1,0,0,Uruguay
+M-2022-14,P-78932,Guillermo,Varela,1993-03-24,13,0,0,1,0,Uruguay
+M-2022-14,P-46785,Matías,Vecino,1991-08-24,5,0,1,0,0,Uruguay
+M-2022-14,P-18564,Matías,Viña,1997-11-09,17,0,0,1,0,Uruguay
+M-2022-14,P-86878,Nicolás,de la Cruz,1997-06-01,7,0,1,0,0,Uruguay
+M-2022-15,P-21820,Salis,Abdul Samed,2000-03-26,21,0,1,0,0,Ghana
+M-2022-15,P-82956,Daniel,Amartey,1994-12-21,18,0,0,1,0,Ghana
+M-2022-15,P-51990,Lawrence,Ati-Zigi,1996-11-29,1,0,0,0,1,Ghana
+M-2022-15,P-01945,André,Ayew,1989-12-17,10,1,1,0,0,Ghana
+M-2022-15,P-31765,Jordan,Ayew,1991-09-11,9,1,0,0,0,Ghana
+M-2022-15,P-72363,Osman,Bukari,1998-12-13,11,0,1,0,0,Ghana
+M-2022-15,P-59808,Alexander,Djiku,1994-08-09,23,0,0,1,0,Ghana
+M-2022-15,P-23821,Mohammed,Kudus,2000-08-02,20,0,1,0,0,Ghana
+M-2022-15,P-92252,Daniel-Kofi,Kyereh,1996-03-08,8,0,1,0,0,Ghana
+M-2022-15,P-12913,Tariq,Lamptey,2000-09-30,2,0,0,1,0,Ghana
+M-2022-15,P-07875,Thomas,Partey,1993-06-13,5,0,1,0,0,Ghana
+M-2022-15,P-94579,Baba,Rahman,1994-07-02,17,0,0,1,0,Ghana
+M-2022-15,P-50142,Mohammed,Salisu,1999-04-17,4,0,0,1,0,Ghana
+M-2022-15,P-36105,Alidu,Seidu,2000-06-04,26,0,0,1,0,Ghana
+M-2022-15,P-14179,Antoine,Semenyo,2000-01-07,25,1,0,0,0,Ghana
+M-2022-15,P-53967,Iñaki,Williams,1994-06-15,19,1,0,0,0,Ghana
+M-2022-15,P-16736,João,Cancelo,1994-05-27,20,0,0,1,0,Portugal
+M-2022-15,P-44689,William,Carvalho,1992-04-07,14,0,1,0,0,Portugal
+M-2022-15,P-54827,Diogo,Costa,1999-09-19,22,0,0,0,1,Portugal
+M-2022-15,P-10712,Rúben,Dias,1997-05-14,4,0,0,1,0,Portugal
+M-2022-15,P-39584,Bruno,Fernandes,1994-09-08,8,0,1,0,0,Portugal
+M-2022-15,P-17931,João,Félix,1999-11-10,11,1,0,0,0,Portugal
+M-2022-15,P-67578,Raphaël,Guerreiro,1993-12-22,5,0,0,1,0,Portugal
+M-2022-15,P-27349,Rafael,Leão,1999-06-10,15,1,0,0,0,Portugal
+M-2022-15,P-31133,João,Mário,1993-01-19,17,0,1,0,0,Portugal
+M-2022-15,P-22983,Rúben,Neves,1997-03-13,18,0,1,0,0,Portugal
+M-2022-15,P-78787,not applicable,Otávio,1995-02-09,25,0,1,0,0,Portugal
+M-2022-15,P-46583,João,Palhinha,1995-07-09,6,0,1,0,0,Portugal
+M-2022-15,P-98929,Danilo,Pereira,1991-09-09,13,0,0,1,0,Portugal
+M-2022-15,P-41647,Gonçalo,Ramos,2001-06-20,26,1,0,0,0,Portugal
+M-2022-15,P-70442,Cristiano,Ronaldo,1985-02-05,7,1,0,0,0,Portugal
+M-2022-15,P-34205,Bernardo,Silva,1994-08-10,10,1,1,0,0,Portugal
+M-2022-16,P-21531,not applicable,Alisson,1992-10-02,1,0,0,0,1,Brazil
+M-2022-16,P-37860,not applicable,Antony,2000-02-24,19,1,0,0,0,Brazil
+M-2022-16,P-02305,not applicable,Casemiro,1992-02-23,5,0,1,0,0,Brazil
+M-2022-16,P-40137,not applicable,Danilo,1991-07-15,2,0,0,1,0,Brazil
+M-2022-16,P-74941,not applicable,Fred,1993-03-05,8,0,1,0,0,Brazil
+M-2022-16,P-92004,Gabriel,Jesus,1997-04-03,18,1,0,0,0,Brazil
+M-2022-16,P-92812,Vinícius,Júnior,2000-07-12,20,1,0,0,0,Brazil
+M-2022-16,P-76060,not applicable,Marquinhos,1994-05-14,4,0,0,1,0,Brazil
+M-2022-16,P-70483,Gabriel,Martinelli,2001-06-18,26,1,0,0,0,Brazil
+M-2022-16,P-87008,not applicable,Neymar,1992-02-05,10,1,0,0,0,Brazil
+M-2022-16,P-05164,Lucas,Paquetá,1997-08-27,7,0,1,0,0,Brazil
+M-2022-16,P-83169,not applicable,Raphinha,1996-12-14,11,1,0,0,0,Brazil
+M-2022-16,P-68016,not applicable,Richarlison,1997-05-10,9,1,0,0,0,Brazil
+M-2022-16,P-06446,not applicable,Rodrygo,2001-01-09,21,1,0,0,0,Brazil
+M-2022-16,P-97698,Alex,Sandro,1991-01-26,6,0,0,1,0,Brazil
+M-2022-16,P-32798,Thiago,Silva,1984-09-22,3,0,0,1,0,Brazil
+M-2022-16,P-24610,Nemanja,Gudelj,1991-11-16,8,0,1,0,0,Serbia
+M-2022-16,P-67641,Ivan,Ilic,2001-03-17,24,0,1,0,0,Serbia
+M-2022-16,P-54211,Darko,Lazovic,1990-09-15,22,0,1,0,0,Serbia
+M-2022-16,P-78056,Saša,Lukic,1996-08-13,16,0,1,0,0,Serbia
+M-2022-16,P-89598,Nemanja,Maksimovic,1995-01-26,6,0,1,0,0,Serbia
+M-2022-16,P-57535,Nikola,Milenkovic,1997-10-12,4,0,0,1,0,Serbia
+M-2022-16,P-27744,Sergej,Milinkovic-Savic,1995-02-27,20,0,1,0,0,Serbia
+M-2022-16,P-24245,Vanja,Milinkovic-Savic,1997-02-20,23,0,0,0,1,Serbia
+M-2022-16,P-85696,Aleksandar,Mitrovic,1994-09-16,9,1,0,0,0,Serbia
+M-2022-16,P-82143,Filip,Mladenovic,1991-08-15,25,0,0,1,0,Serbia
+M-2022-16,P-98435,Strahinja,Pavlovic,2001-05-24,2,0,0,1,0,Serbia
+M-2022-16,P-79900,Nemanja,Radonjic,1996-02-15,7,1,0,0,0,Serbia
+M-2022-16,P-33390,Dušan,Tadic,1988-11-20,10,1,1,0,0,Serbia
+M-2022-16,P-30283,Miloš,Veljkovic,1995-09-26,5,0,0,1,0,Serbia
+M-2022-16,P-63293,Dušan,Vlahovic,2000-01-28,18,1,0,0,0,Serbia
+M-2022-16,P-58363,Andrija,Živkovic,1996-07-11,14,0,1,0,0,Serbia
+M-2022-17,P-53957,Karim,Ansarifard,1990-04-03,10,1,0,0,0,Iran
+M-2022-17,P-09113,Sardar,Azmoun,1995-01-01,20,1,0,0,0,Iran
+M-2022-17,P-98747,Rouzbeh,Cheshmi,1993-07-24,15,0,0,1,0,Iran
+M-2022-17,P-95374,Saeid,Ezatolahi,1996-10-01,6,0,1,0,0,Iran
+M-2022-17,P-45653,Ali,Gholizadeh,1996-03-10,17,0,1,0,0,Iran
+M-2022-17,P-75785,Ehsan,Hajsafi,1990-02-25,3,0,1,1,0,Iran
+M-2022-17,P-28492,Hossein,Hosseini,1992-06-30,24,0,0,0,1,Iran
+M-2022-17,P-15905,Majid,Hosseini,1996-06-20,19,0,0,1,0,Iran
+M-2022-17,P-98775,Alireza,Jahanbakhsh,1993-08-11,7,1,1,0,0,Iran
+M-2022-17,P-68842,Ali,Karimi,1994-02-11,18,0,1,0,0,Iran
+M-2022-17,P-74098,Milad,Mohammadi,1993-09-29,5,0,0,1,0,Iran
+M-2022-17,P-42215,Ahmad,Nourollahi,1993-02-01,21,0,1,0,0,Iran
+M-2022-17,P-29864,Morteza,Pouraliganji,1992-04-19,8,0,0,1,0,Iran
+M-2022-17,P-47137,Ramin,Rezaeian,1990-03-21,23,0,0,1,0,Iran
+M-2022-17,P-85860,Mehdi,Taremi,1992-07-18,9,1,0,0,0,Iran
+M-2022-17,P-04541,Mehdi,Torabi,1994-09-10,16,0,1,0,0,Iran
+M-2022-17,P-92761,Joe,Allen,1990-03-14,7,0,1,0,0,Wales
+M-2022-17,P-50398,Ethan,Ampadu,2000-09-14,15,0,0,1,0,Wales
+M-2022-17,P-63927,Gareth,Bale,1989-07-16,11,1,0,0,0,Wales
+M-2022-17,P-41198,Ben,Davies,1993-04-24,4,0,0,1,0,Wales
+M-2022-17,P-46457,Wayne,Hennessey,1987-01-24,1,0,0,0,1,Wales
+M-2022-17,P-74707,Daniel,James,1997-11-10,20,1,0,0,0,Wales
+M-2022-17,P-57098,Brennan,Johnson,2001-05-23,9,1,0,0,0,Wales
+M-2022-17,P-74888,Chris,Mepham,1997-11-05,5,0,0,1,0,Wales
+M-2022-17,P-10657,Kieffer,Moore,1992-08-08,13,1,0,0,0,Wales
+M-2022-17,P-86951,Aaron,Ramsey,1990-12-26,10,0,1,0,0,Wales
+M-2022-17,P-56503,Connor,Roberts,1995-09-23,14,0,0,1,0,Wales
+M-2022-17,P-38105,Joe,Rodon,1997-10-22,6,0,0,1,0,Wales
+M-2022-17,P-31718,Danny,Ward,1993-06-22,12,0,0,0,1,Wales
+M-2022-17,P-87190,Neco,Williams,2001-04-13,3,0,0,1,0,Wales
+M-2022-17,P-94779,Harry,Wilson,1997-03-22,8,0,1,0,0,Wales
+M-2022-18,P-47319,Akram,Afif,1996-11-18,11,1,0,0,0,Qatar
+M-2022-18,P-33804,Homam,Ahmed,1999-08-25,14,0,0,1,0,Qatar
+M-2022-18,P-38732,Hassan,Al-Haydos,1990-12-11,10,0,1,0,0,Qatar
+M-2022-18,P-01930,Almoez,Ali,1996-08-19,19,1,0,0,0,Qatar
+M-2022-18,P-28811,Meshaal,Barsham,1998-02-14,22,0,0,0,1,Qatar
+M-2022-18,P-95754,Karim,Boudiaf,1990-09-16,12,0,1,0,0,Qatar
+M-2022-18,P-01258,Abdelkarim,Hassan,1993-08-28,3,0,1,0,0,Qatar
+M-2022-18,P-97800,Abdulaziz,Hatem,1990-01-01,6,0,1,0,0,Qatar
+M-2022-18,P-12810,Boualem,Khoukhi,1990-07-09,16,0,0,1,0,Qatar
+M-2022-18,P-63532,Assim,Madibo,1996-10-22,23,0,1,0,0,Qatar
+M-2022-18,P-01077,Ismaeel,Mohammad,1990-04-05,17,0,0,1,0,Qatar
+M-2022-18,P-17048,Mohammed,Muntari,1993-12-20,9,1,0,0,0,Qatar
+M-2022-18,P-00052,not applicable,Ró-Ró,1990-08-06,2,0,0,1,0,Qatar
+M-2022-18,P-42663,Tarek,Salman,1997-12-05,5,0,0,1,0,Qatar
+M-2022-18,P-90689,Mohammed,Waad,1999-09-18,4,0,0,1,0,Qatar
+M-2022-18,P-61416,Pathé,Ciss,1994-03-16,11,0,1,0,0,Senegal
+M-2022-18,P-90626,Pape Abou,Cissé,1995-09-14,4,0,0,1,0,Senegal
+M-2022-18,P-33622,Boulaye,Dia,1996-11-16,9,1,0,0,0,Senegal
+M-2022-18,P-77769,Abdou,Diallo,1996-05-04,22,0,0,1,0,Senegal
+M-2022-18,P-09292,Krépin,Diatta,1999-02-25,15,0,1,0,0,Senegal
+M-2022-18,P-88928,Bamba,Dieng,2000-03-23,20,1,0,0,0,Senegal
+M-2022-18,P-27280,Famara,Diédhiou,1992-12-15,19,1,0,0,0,Senegal
+M-2022-18,P-40621,Idrissa,Gueye,1989-09-26,5,0,1,0,0,Senegal
+M-2022-18,P-54506,Ismail,Jakobs,1999-08-17,14,0,0,1,0,Senegal
+M-2022-18,P-47321,Kalidou,Koulibaly,1991-06-20,3,0,0,1,0,Senegal
+M-2022-18,P-96697,Nampalys,Mendy,1992-06-23,6,0,1,0,0,Senegal
+M-2022-18,P-45399,Édouard,Mendy,1992-03-01,16,0,0,0,1,Senegal
+M-2022-18,P-33958,Iliman,Ndiaye,2000-03-06,13,1,0,0,0,Senegal
+M-2022-18,P-55298,Youssouf,Sabaly,1993-03-05,21,0,0,1,0,Senegal
+M-2022-18,P-37935,Ismaïla,Sarr,1998-02-25,18,1,0,0,0,Senegal
+M-2022-18,P-76835,Pape Matar,Sarr,2002-09-14,17,0,1,0,0,Senegal
+M-2022-19,P-82216,Moisés,Caicedo,2001-11-02,23,0,1,0,0,Ecuador
+M-2022-19,P-44851,Michael,Estrada,1996-04-07,11,1,0,0,0,Ecuador
+M-2022-19,P-52697,Pervis,Estupiñán,1998-01-21,7,0,0,1,0,Ecuador
+M-2022-19,P-56347,Hernán,Galíndez,1987-03-30,1,0,0,0,1,Ecuador
+M-2022-19,P-29713,Piero,Hincapié,2002-01-09,3,0,0,1,0,Ecuador
+M-2022-19,P-34543,Romario,Ibarra,1994-09-24,10,0,1,0,0,Ecuador
+M-2022-19,P-56839,Sebas,Méndez,1997-04-26,20,0,1,0,0,Ecuador
+M-2022-19,P-13973,Gonzalo,Plata,2000-11-01,19,0,1,0,0,Ecuador
+M-2022-19,P-73694,Jackson,Porozo,2000-08-04,25,0,0,1,0,Ecuador
+M-2022-19,P-62543,Ángelo,Preciado,1998-02-18,17,0,0,1,0,Ecuador
+M-2022-19,P-02839,Kevin,Rodríguez,2000-03-04,26,1,0,0,0,Ecuador
+M-2022-19,P-78091,Jeremy,Sarmiento,2002-06-16,16,0,1,0,0,Ecuador
+M-2022-19,P-96347,Félix,Torres,1997-01-11,2,0,0,1,0,Ecuador
+M-2022-19,P-75912,Enner,Valencia,1989-11-04,13,1,0,0,0,Ecuador
+M-2022-19,P-64438,Nathan,Aké,1995-02-18,5,0,0,1,0,Netherlands
+M-2022-19,P-10326,Steven,Berghuis,1991-12-19,11,0,1,0,0,Netherlands
+M-2022-19,P-44799,Steven,Bergwijn,1997-10-08,7,1,0,0,0,Netherlands
+M-2022-19,P-39861,Daley,Blind,1990-03-09,17,0,0,1,0,Netherlands
+M-2022-19,P-27540,Memphis,Depay,1994-02-13,10,1,0,0,0,Netherlands
+M-2022-19,P-97615,Denzel,Dumfries,1996-04-18,22,0,0,1,0,Netherlands
+M-2022-19,P-28911,Cody,Gakpo,1999-05-07,8,1,0,0,0,Netherlands
+M-2022-19,P-42078,Davy,Klaassen,1993-02-21,14,0,1,0,0,Netherlands
+M-2022-19,P-35705,Teun,Koopmeiners,1998-02-28,20,0,1,0,0,Netherlands
+M-2022-19,P-82000,Andries,Noppert,1994-04-07,23,0,0,0,1,Netherlands
+M-2022-19,P-74111,Jurriën,Timber,2001-06-17,2,0,0,1,0,Netherlands
+M-2022-19,P-95036,Wout,Weghorst,1992-08-07,19,1,0,0,0,Netherlands
+M-2022-19,P-17688,Frenkie,de Jong,1997-05-12,21,0,1,0,0,Netherlands
+M-2022-19,P-55965,Marten,de Roon,1991-03-29,15,0,1,0,0,Netherlands
+M-2022-19,P-56029,Virgil,van Dijk,1991-07-08,4,0,0,1,0,Netherlands
+M-2022-20,P-15674,Jude,Bellingham,2003-06-29,22,0,1,0,0,England
+M-2022-20,P-21153,Jack,Grealish,1995-09-10,7,1,0,0,0,England
+M-2022-20,P-08169,Jordan,Henderson,1990-06-17,8,0,1,0,0,England
+M-2022-20,P-58924,Harry,Kane,1993-07-28,9,1,0,0,0,England
+M-2022-20,P-02465,Harry,Maguire,1993-03-05,6,0,0,1,0,England
+M-2022-20,P-90012,Mason,Mount,1999-01-10,19,0,1,0,0,England
+M-2022-20,P-70618,Jordan,Pickford,1994-03-07,1,0,0,0,1,England
+M-2022-20,P-59837,Marcus,Rashford,1997-10-31,11,1,0,0,0,England
+M-2022-20,P-84787,Declan,Rice,1999-01-14,4,0,1,0,0,England
+M-2022-20,P-76842,Bukayo,Saka,2001-09-05,17,1,0,0,0,England
+M-2022-20,P-36400,Luke,Shaw,1995-07-12,3,0,0,1,0,England
+M-2022-20,P-21553,Raheem,Sterling,1994-12-08,10,1,1,0,0,England
+M-2022-20,P-92628,John,Stones,1994-05-28,5,0,0,1,0,England
+M-2022-20,P-25937,Kieran,Trippier,1990-09-19,12,0,0,1,0,England
+M-2022-20,P-03484,Brenden,Aaronson,2000-10-22,11,1,0,0,0,United States
+M-2022-20,P-14151,Tyler,Adams,1999-02-14,4,0,1,0,0,United States
+M-2022-20,P-89452,Sergiño,Dest,2000-11-03,2,0,0,1,0,United States
+M-2022-20,P-68952,Weston,McKennie,1998-08-28,8,0,1,0,0,United States
+M-2022-20,P-48265,Shaq,Moore,1996-11-02,18,0,0,1,0,United States
+M-2022-20,P-59571,Yunus,Musah,2002-11-29,6,0,1,0,0,United States
+M-2022-20,P-11737,Christian,Pulisic,1998-09-18,10,1,0,0,0,United States
+M-2022-20,P-26367,Tim,Ream,1987-10-05,13,0,0,1,0,United States
+M-2022-20,P-85878,Giovanni,Reyna,2002-11-13,7,1,0,0,0,United States
+M-2022-20,P-70867,Antonee,Robinson,1997-08-08,5,0,0,1,0,United States
+M-2022-20,P-94647,Josh,Sargent,2000-02-20,24,1,0,0,0,United States
+M-2022-20,P-48903,Matt,Turner,1994-06-24,1,0,0,0,1,United States
+M-2022-20,P-30252,Timothy,Weah,2000-02-22,21,1,0,0,0,United States
+M-2022-20,P-68131,Haji,Wright,1998-03-27,19,1,0,0,0,United States
+M-2022-20,P-57029,Walker,Zimmerman,1993-05-19,3,0,0,1,0,United States
+M-2022-21,P-27035,Keanu,Baccus,1998-06-07,26,0,1,0,0,Australia
+M-2022-21,P-51118,Aziz,Behich,1990-12-16,16,0,0,1,0,Australia
+M-2022-21,P-59727,Miloš,Degenek,1994-04-28,2,0,0,1,0,Australia
+M-2022-21,P-91029,Mitchell,Duke,1991-01-18,15,1,0,0,0,Australia
+M-2022-21,P-82010,Craig,Goodwin,1991-12-16,23,1,0,0,0,Australia
+M-2022-21,P-82945,Ajdin,Hrustic,1996-07-05,10,0,1,0,0,Australia
+M-2022-21,P-34822,Jackson,Irvine,1993-03-07,22,0,1,0,0,Australia
+M-2022-21,P-24134,Fran,Karacic,1996-05-12,5,0,0,1,0,Australia
+M-2022-21,P-35837,Mathew,Leckie,1991-02-04,7,1,0,0,0,Australia
+M-2022-21,P-61979,Awer,Mabil,1995-09-15,11,1,0,0,0,Australia
+M-2022-21,P-20087,Jamie,Maclaren,1993-07-29,9,1,0,0,0,Australia
+M-2022-21,P-51406,Riley,McGree,1998-11-02,14,0,1,0,0,Australia
+M-2022-21,P-95847,Aaron,Mooy,1990-09-15,13,0,1,0,0,Australia
+M-2022-21,P-88273,Kye,Rowles,1998-06-24,4,0,0,1,0,Australia
+M-2022-21,P-10244,Mathew,Ryan,1992-04-08,1,0,0,0,1,Australia
+M-2022-21,P-89217,Harry,Souttar,1998-10-22,19,0,0,1,0,Australia
+M-2022-21,P-64924,Ali,Abdi,1993-12-20,24,0,0,1,0,Tunisia
+M-2022-21,P-11879,Dylan,Bronn,1995-06-19,6,0,0,1,0,Tunisia
+M-2022-21,P-32803,Aymen,Dahmen,1997-01-28,16,0,0,0,1,Tunisia
+M-2022-21,P-49094,Mohamed,Dräger,1996-06-25,20,0,0,1,0,Tunisia
+M-2022-21,P-11346,Issam,Jebali,1991-12-25,9,1,0,0,0,Tunisia
+M-2022-21,P-27079,Wajdi,Kechrida,1995-11-05,21,0,0,1,0,Tunisia
+M-2022-21,P-42223,Wahbi,Khazri,1991-02-08,10,1,0,0,0,Tunisia
+M-2022-21,P-21865,Taha Yassine,Khenissi,1992-01-06,11,1,0,0,0,Tunisia
+M-2022-21,P-29063,Aïssa,Laïdouni,1996-12-13,14,0,1,0,0,Tunisia
+M-2022-21,P-81706,Yassine,Meriah,1993-07-02,4,0,0,1,0,Tunisia
+M-2022-21,P-25741,Youssef,Msakni,1990-10-28,7,1,0,0,0,Tunisia
+M-2022-21,P-90867,Ferjani,Sassi,1992-03-18,13,0,1,0,0,Tunisia
+M-2022-21,P-47815,Ellyes,Skhiri,1995-05-10,17,0,1,0,0,Tunisia
+M-2022-21,P-69793,Naïm,Sliti,1992-07-27,23,1,0,0,0,Tunisia
+M-2022-21,P-73455,Montassar,Talbi,1998-05-26,3,0,0,1,0,Tunisia
+M-2022-22,P-42160,Bartosz,Bereszynski,1992-07-12,18,0,0,1,0,Poland
+M-2022-22,P-14593,Krystian,Bielik,1998-01-04,6,0,1,0,0,Poland
+M-2022-22,P-17099,Matty,Cash,1997-08-07,2,0,0,1,0,Poland
+M-2022-22,P-23437,Przemyslaw,Frankowski,1995-04-12,24,0,1,0,0,Poland
+M-2022-22,P-29046,Kamil,Glik,1988-02-03,15,0,0,1,0,Poland
+M-2022-22,P-83610,Jakub,Kaminski,2002-06-05,13,0,1,0,0,Poland
+M-2022-22,P-44780,Jakub,Kiwior,2000-02-15,14,0,0,1,0,Poland
+M-2022-22,P-45449,Grzegorz,Krychowiak,1990-01-29,10,0,1,0,0,Poland
+M-2022-22,P-00549,Robert,Lewandowski,1988-08-21,9,1,0,0,0,Poland
+M-2022-22,P-12381,Arkadiusz,Milik,1994-02-28,7,1,0,0,0,Poland
+M-2022-22,P-11013,Krzysztof,Piatek,1995-07-01,23,1,0,0,0,Poland
+M-2022-22,P-31606,Wojciech,Szczesny,1990-04-18,1,0,0,0,1,Poland
+M-2022-22,P-32165,Piotr,Zielinski,1994-05-20,20,0,1,0,0,Poland
+M-2022-22,P-08125,Saud,Abdulhamid,1999-07-18,12,0,0,1,0,Saudi Arabia
+M-2022-22,P-76864,Nawaf,Al-Abed,1990-01-26,18,0,1,0,0,Saudi Arabia
+M-2022-22,P-45581,Abdulrahman,Al-Aboud,1995-06-01,20,1,0,0,0,Saudi Arabia
+M-2022-22,P-12335,Abdulelah,Al-Amri,1997-01-15,4,0,0,1,0,Saudi Arabia
+M-2022-22,P-94422,Mohammed,Al-Breik,1992-09-15,6,0,0,1,0,Saudi Arabia
+M-2022-22,P-87284,Ali,Al-Bulaihi,1989-11-21,5,0,0,1,0,Saudi Arabia
+M-2022-22,P-89845,Firas,Al-Buraikan,2000-05-14,9,1,0,0,0,Saudi Arabia
+M-2022-22,P-10907,Nasser,Al-Dawsari,1998-12-19,24,0,1,0,0,Saudi Arabia
+M-2022-22,P-70583,Salem,Al-Dawsari,1991-08-19,10,1,1,0,0,Saudi Arabia
+M-2022-22,P-06789,Sultan,Al-Ghannam,1994-05-06,2,0,0,1,0,Saudi Arabia
+M-2022-22,P-20216,Abdulellah,Al-Malki,1994-10-11,8,0,1,0,0,Saudi Arabia
+M-2022-22,P-87569,Sami,Al-Najei,1997-02-07,16,0,1,0,0,Saudi Arabia
+M-2022-22,P-85438,Mohammed,Al-Owais,1991-10-10,21,0,0,0,1,Saudi Arabia
+M-2022-22,P-37308,Saleh,Al-Shehri,1993-11-01,11,1,0,0,0,Saudi Arabia
+M-2022-22,P-84563,Hattan,Bahebri,1992-07-16,19,1,1,0,0,Saudi Arabia
+M-2022-22,P-91268,Mohamed,Kanno,1994-09-22,23,0,1,0,0,Saudi Arabia
+M-2022-23,P-43705,Joachim,Andersen,1996-05-31,2,0,0,1,0,Denmark
+M-2022-23,P-92135,Alexander,Bah,1997-12-09,26,0,0,1,0,Denmark
+M-2022-23,P-85579,Martin,Braithwaite,1991-06-05,9,1,0,0,0,Denmark
+M-2022-23,P-18923,Andreas,Christensen,1996-04-10,6,0,0,1,0,Denmark
+M-2022-23,P-29053,Andreas,Cornelius,1993-03-16,21,1,0,0,0,Denmark
+M-2022-23,P-57782,Mikkel,Damsgaard,2000-07-03,14,0,1,0,0,Denmark
+M-2022-23,P-72592,Kasper,Dolberg,1997-10-06,12,1,0,0,0,Denmark
+M-2022-23,P-50104,Christian,Eriksen,1992-02-14,10,0,1,0,0,Denmark
+M-2022-23,P-98199,Pierre-Emile,Højbjerg,1995-08-05,23,0,1,0,0,Denmark
+M-2022-23,P-82877,Rasmus,Kristensen,1997-07-11,13,0,0,1,0,Denmark
+M-2022-23,P-70516,Jesper,Lindstrøm,2000-02-29,25,0,1,0,0,Denmark
+M-2022-23,P-39995,Joakim,Mæhle,1997-05-20,5,0,0,1,0,Denmark
+M-2022-23,P-49454,Victor,Nelsson,1998-10-14,3,0,0,1,0,Denmark
+M-2022-23,P-56182,Christian,Nørgaard,1994-03-10,15,0,1,0,0,Denmark
+M-2022-23,P-58755,Kasper,Schmeichel,1986-11-05,1,0,0,0,1,Denmark
+M-2022-23,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-23,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-23,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-23,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-23,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-23,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-23,P-86920,Ibrahima,Konaté,1999-05-25,24,0,0,1,0,France
+M-2022-23,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-23,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-23,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-23,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-23,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-23,P-13613,Marcus,Thuram,1997-08-06,26,1,0,0,0,France
+M-2022-23,P-03945,Dayot,Upamecano,1998-10-27,18,0,0,1,0,France
+M-2022-23,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
+M-2022-24,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-24,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-24,P-42113,Ángel,Di María,1988-02-14,11,1,1,0,0,Argentina
+M-2022-24,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-24,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-24,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-24,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-24,P-23070,Lisandro,Martínez,1998-01-18,25,0,0,1,0,Argentina
+M-2022-24,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-24,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-24,P-91431,Gonzalo,Montiel,1997-01-01,4,0,0,1,0,Argentina
+M-2022-24,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-24,P-40147,Exequiel,Palacios,1998-10-05,14,0,1,0,0,Argentina
+M-2022-24,P-03265,Guido,Rodríguez,1994-04-12,18,0,1,0,0,Argentina
+M-2022-24,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-24,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-24,P-73491,Roberto,Alvarado,1998-09-07,25,1,0,0,0,Mexico
+M-2022-24,P-81433,Uriel,Antuna,1997-08-21,21,1,0,0,0,Mexico
+M-2022-24,P-38529,Néstor,Araujo,1991-08-29,2,0,0,1,0,Mexico
+M-2022-24,P-49806,Luis,Chávez,1996-01-15,24,0,1,0,0,Mexico
+M-2022-24,P-80088,Jesús,Gallardo,1994-08-15,23,0,1,1,0,Mexico
+M-2022-24,P-40312,Andrés,Guardado,1986-09-28,18,0,1,0,0,Mexico
+M-2022-24,P-64299,Érick,Gutiérrez,1995-06-15,14,0,1,0,0,Mexico
+M-2022-24,P-42911,Héctor,Herrera,1990-04-19,16,0,1,1,0,Mexico
+M-2022-24,P-57865,Raúl,Jiménez,1991-05-05,9,1,0,0,0,Mexico
+M-2022-24,P-24705,Hirving,Lozano,1995-07-30,22,1,0,0,0,Mexico
+M-2022-24,P-36212,César,Montes,1997-02-24,3,0,0,1,0,Mexico
+M-2022-24,P-21208,Héctor,Moreno,1988-01-17,15,0,0,1,0,Mexico
+M-2022-24,P-80826,Guillermo,Ochoa,1985-07-13,13,0,0,0,1,Mexico
+M-2022-24,P-64182,Alexis,Vega,1997-11-25,10,1,0,0,0,Mexico
+M-2022-24,P-09058,Kevin,Álvarez,1999-01-15,26,0,0,1,0,Mexico
+M-2022-25,P-44957,Brandon,Aguilera,2003-06-28,20,0,1,0,0,Costa Rica
+M-2022-25,P-09889,Jewison,Bennette,2004-06-15,9,0,1,0,0,Costa Rica
+M-2022-25,P-11767,Celso,Borges,1988-05-27,5,0,1,0,0,Costa Rica
+M-2022-25,P-71100,Francisco,Calvo,1992-07-08,15,0,0,1,0,Costa Rica
+M-2022-25,P-70812,Joel,Campbell,1992-06-26,12,1,0,0,0,Costa Rica
+M-2022-25,P-57150,Daniel,Chacón,2001-04-11,2,0,1,0,0,Costa Rica
+M-2022-25,P-02556,Anthony,Contreras,2000-01-29,7,1,0,0,0,Costa Rica
+M-2022-25,P-97912,Óscar,Duarte,1989-06-03,6,0,0,1,0,Costa Rica
+M-2022-25,P-80986,Keysher,Fuller,1994-07-12,4,0,0,1,0,Costa Rica
+M-2022-25,P-81392,Keylor,Navas,1986-12-15,1,0,0,0,1,Costa Rica
+M-2022-25,P-10740,Bryan,Oviedo,1990-02-18,8,0,0,1,0,Costa Rica
+M-2022-25,P-32622,Youstin,Salas,1996-06-17,14,0,1,0,0,Costa Rica
+M-2022-25,P-24978,Yeltsin,Tejeda,1992-03-17,17,0,1,0,0,Costa Rica
+M-2022-25,P-12179,Gerson,Torres,1997-08-28,13,0,1,0,0,Costa Rica
+M-2022-25,P-37984,Kendall,Waston,1988-01-01,19,0,0,1,0,Costa Rica
+M-2022-25,P-46913,Takuma,Asano,1994-11-10,18,1,0,0,0,Japan
+M-2022-25,P-58907,Ritsu,Doan,1998-06-16,8,0,1,0,0,Japan
+M-2022-25,P-53282,Wataru,Endo,1993-02-09,6,0,1,1,0,Japan
+M-2022-25,P-66906,Shuichi,Gonda,1989-03-03,12,0,0,0,1,Japan
+M-2022-25,P-35225,Ko,Itakura,1997-01-27,4,0,0,1,0,Japan
+M-2022-25,P-41902,Hiroki,Ito,1999-05-12,26,0,0,1,0,Japan
+M-2022-25,P-86909,Junya,Ito,1993-03-09,14,0,1,0,0,Japan
+M-2022-25,P-62952,Daichi,Kamada,1996-08-05,15,0,1,0,0,Japan
+M-2022-25,P-05559,Takumi,Minamino,1995-01-16,10,0,1,0,0,Japan
+M-2022-25,P-22633,Kaoru,Mitoma,1997-05-20,9,0,1,0,0,Japan
+M-2022-25,P-75751,Hidemasa,Morita,1995-05-10,13,0,1,0,0,Japan
+M-2022-25,P-26303,Yuto,Nagatomo,1986-09-12,5,0,0,1,0,Japan
+M-2022-25,P-64056,Yuki,Soma,1997-02-25,24,0,1,0,0,Japan
+M-2022-25,P-57586,Ayase,Ueda,1998-08-28,21,1,0,0,0,Japan
+M-2022-25,P-45981,Miki,Yamane,1993-12-22,2,0,0,1,0,Japan
+M-2022-25,P-89321,Maya,Yoshida,1988-08-24,22,0,0,1,0,Japan
+M-2022-26,P-70547,Toby,Alderweireld,1989-03-02,2,0,0,1,0,Belgium
+M-2022-26,P-13975,Michy,Batshuayi,1993-10-02,23,1,0,0,0,Belgium
+M-2022-26,P-56069,Timothy,Castagne,1995-12-05,21,0,1,0,0,Belgium
+M-2022-26,P-09658,Thibaut,Courtois,1992-05-11,1,0,0,0,1,Belgium
+M-2022-26,P-48955,Kevin,De Bruyne,1991-06-28,7,0,1,0,0,Belgium
+M-2022-26,P-61810,Charles,De Ketelaere,2001-03-10,22,1,0,0,0,Belgium
+M-2022-26,P-72011,Eden,Hazard,1991-01-07,10,1,1,0,0,Belgium
+M-2022-26,P-74337,Thorgan,Hazard,1993-03-29,16,0,1,0,0,Belgium
+M-2022-26,P-72637,Romelu,Lukaku,1993-05-13,9,1,0,0,0,Belgium
+M-2022-26,P-84852,Dries,Mertens,1987-05-06,14,1,0,0,0,Belgium
+M-2022-26,P-22930,Thomas,Meunier,1991-09-12,15,0,1,1,0,Belgium
+M-2022-26,P-21652,Amadou,Onana,2001-08-16,18,0,1,0,0,Belgium
+M-2022-26,P-47906,Youri,Tielemans,1997-05-07,8,0,1,0,0,Belgium
+M-2022-26,P-95312,Leandro,Trossard,1994-12-04,17,1,0,0,0,Belgium
+M-2022-26,P-64049,Jan,Vertonghen,1987-04-24,5,0,0,1,0,Belgium
+M-2022-26,P-53048,Axel,Witsel,1989-01-12,6,0,1,0,0,Belgium
+M-2022-26,P-48295,Zakaria,Aboukhlal,2000-02-18,14,0,1,0,0,Morocco
+M-2022-26,P-47490,Nayef,Aguerd,1996-03-30,5,0,0,1,0,Morocco
+M-2022-26,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-26,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-26,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-26,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-26,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-26,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-26,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-26,P-90423,Abderrazak,Hamdallah,1990-12-17,9,1,0,0,0,Morocco
+M-2022-26,P-09614,Noussair,Mazraoui,1997-11-14,3,0,0,1,0,Morocco
+M-2022-26,P-15566,Munir,Mohamedi,1989-05-10,12,0,0,0,1,Morocco
+M-2022-26,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-26,P-05265,Abdelhamid,Sabiri,1996-11-28,11,1,0,0,0,Morocco
+M-2022-26,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-26,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-27,P-55821,Sam,Adekugbe,1995-01-16,3,0,0,1,0,Canada
+M-2022-27,P-46263,Milan,Borjan,1987-10-23,18,0,0,0,1,Canada
+M-2022-27,P-96259,Tajon,Buchanan,1999-02-08,11,1,0,0,0,Canada
+M-2022-27,P-58061,Lucas,Cavallini,1992-12-28,9,1,0,0,0,Canada
+M-2022-27,P-48340,Jonathan,David,2000-01-14,20,1,0,0,0,Canada
+M-2022-27,P-46358,Alphonso,Davies,2000-11-02,19,1,0,0,0,Canada
+M-2022-27,P-28794,Stephen,Eustáquio,1996-12-21,7,0,1,0,0,Canada
+M-2022-27,P-35706,Junior,Hoilett,1990-06-05,10,0,1,0,0,Canada
+M-2022-27,P-03472,Atiba,Hutchinson,1983-02-08,13,0,1,0,0,Canada
+M-2022-27,P-12635,Alistair,Johnston,1998-10-08,2,0,0,1,0,Canada
+M-2022-27,P-85670,Ismaël,Koné,2002-06-16,15,0,1,0,0,Canada
+M-2022-27,P-01925,Cyle,Larin,1995-04-17,17,1,0,0,0,Canada
+M-2022-27,P-42390,Richie,Laryea,1995-01-07,22,0,0,1,0,Canada
+M-2022-27,P-31806,Kamal,Miller,1997-05-16,4,0,0,1,0,Canada
+M-2022-27,P-27541,Jonathan,Osorio,1992-06-12,21,0,1,0,0,Canada
+M-2022-27,P-89710,Steven,Vitória,1987-01-11,5,0,0,1,0,Canada
+M-2022-27,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-27,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-27,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-27,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-27,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-27,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-27,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-27,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-27,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-27,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-27,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-27,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-27,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-27,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-27,P-84190,Borna,Sosa,1998-01-21,19,0,0,1,0,Croatia
+M-2022-27,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-28,P-46246,Niclas,Füllkrug,1993-02-09,9,1,0,0,0,Germany
+M-2022-28,P-75989,Serge,Gnabry,1995-07-14,10,1,0,0,0,Germany
+M-2022-28,P-79409,Leon,Goretzka,1995-02-06,8,0,1,0,0,Germany
+M-2022-28,P-08896,Ilkay,Gündogan,1990-10-24,21,0,1,0,0,Germany
+M-2022-28,P-18188,Jonas,Hofmann,1992-07-14,18,0,1,0,0,Germany
+M-2022-28,P-11933,Thilo,Kehrer,1996-09-21,5,0,0,1,0,Germany
+M-2022-28,P-30316,Joshua,Kimmich,1995-02-08,6,0,1,1,0,Germany
+M-2022-28,P-89863,Lukas,Klostermann,1996-06-03,16,0,0,1,0,Germany
+M-2022-28,P-47182,Jamal,Musiala,2003-02-26,14,0,1,0,0,Germany
+M-2022-28,P-28154,Thomas,Müller,1989-09-13,13,1,1,0,0,Germany
+M-2022-28,P-19408,Manuel,Neuer,1986-03-27,1,0,0,0,1,Germany
+M-2022-28,P-20804,David,Raum,1998-04-22,3,0,0,1,0,Germany
+M-2022-28,P-51201,Antonio,Rüdiger,1993-03-03,2,0,0,1,0,Germany
+M-2022-28,P-39464,Leroy,Sané,1996-01-11,19,0,1,0,0,Germany
+M-2022-28,P-71859,Nico,Schlotterbeck,1999-12-01,23,0,0,1,0,Germany
+M-2022-28,P-48737,Niklas,Süle,1995-09-03,15,0,0,1,0,Germany
+M-2022-28,P-01416,Jordi,Alba,1989-03-21,18,0,0,1,0,Spain
+M-2022-28,P-09400,Marco,Asensio,1996-01-21,10,1,1,0,0,Spain
+M-2022-28,P-49008,Alejandro,Balde,2003-10-18,14,0,0,1,0,Spain
+M-2022-28,P-28010,Sergio,Busquets,1988-07-16,5,0,1,0,0,Spain
+M-2022-28,P-71071,Dani,Carvajal,1992-01-11,20,0,0,1,0,Spain
+M-2022-28,P-88433,not applicable,Gavi,2004-08-05,9,0,1,0,0,Spain
+M-2022-28,P-37294,not applicable,Koke,1992-01-08,8,0,1,0,0,Spain
+M-2022-28,P-99025,Aymeric,Laporte,1994-05-27,24,0,0,1,0,Spain
+M-2022-28,P-29274,Álvaro,Morata,1992-10-23,7,1,0,0,0,Spain
+M-2022-28,P-40007,Dani,Olmo,1998-05-07,21,1,0,0,0,Spain
+M-2022-28,P-24897,not applicable,Pedri,2002-11-25,26,0,1,0,0,Spain
+M-2022-28,P-62341,not applicable,Rodri,1996-06-22,16,0,1,0,0,Spain
+M-2022-28,P-94271,Unai,Simón,1997-06-11,23,0,0,0,1,Spain
+M-2022-28,P-31301,Ferran,Torres,2000-02-29,11,1,0,0,0,Spain
+M-2022-28,P-68218,Nico,Williams,2002-07-12,12,1,0,0,0,Spain
+M-2022-29,P-53452,Vincent,Aboubakar,1992-01-22,10,1,0,0,0,Cameroon
+M-2022-29,P-51549,Christian,Bassogog,1995-10-18,11,1,0,0,0,Cameroon
+M-2022-29,P-59303,Jean-Charles,Castelletto,1995-01-26,21,0,0,1,0,Cameroon
+M-2022-29,P-06117,Eric Maxim,Choupo-Moting,1989-03-23,13,1,0,0,0,Cameroon
+M-2022-29,P-70357,Devis,Epassy,1993-02-02,16,0,0,0,1,Cameroon
+M-2022-29,P-47677,Collins,Fai,1992-08-13,19,0,0,1,0,Cameroon
+M-2022-29,P-63923,Samuel,Gouet,1997-12-14,14,0,1,0,0,Cameroon
+M-2022-29,P-34633,Martin,Hongla,1998-03-16,18,0,1,0,0,Cameroon
+M-2022-29,P-29115,Pierre,Kunde,1995-07-26,15,0,1,0,0,Cameroon
+M-2022-29,P-39394,Bryan,Mbeumo,1999-08-07,20,1,0,0,0,Cameroon
+M-2022-29,P-68058,Georges-Kévin,Nkoudou,1995-02-13,7,0,1,0,0,Cameroon
+M-2022-29,P-93209,Nicolas,Nkoulou,1990-03-27,3,0,0,1,0,Cameroon
+M-2022-29,P-36707,Gaël,Ondoua,1995-11-04,5,0,1,0,0,Cameroon
+M-2022-29,P-20259,Karl,Toko Ekambi,1992-09-14,12,1,0,0,0,Cameroon
+M-2022-29,P-55367,Nouhou,Tolo,1997-06-23,25,0,0,1,0,Cameroon
+M-2022-29,P-38355,André-Frank,Zambo Anguissa,1995-11-16,8,0,1,0,0,Cameroon
+M-2022-29,P-70515,Srdan,Babic,1996-04-22,15,0,0,1,0,Serbia
+M-2022-29,P-89573,Marko,Grujic,1996-04-13,26,0,1,0,0,Serbia
+M-2022-29,P-80738,Filip,Kostic,1992-11-01,17,0,1,0,0,Serbia
+M-2022-29,P-78056,Saša,Lukic,1996-08-13,16,0,1,0,0,Serbia
+M-2022-29,P-89598,Nemanja,Maksimovic,1995-01-26,6,0,1,0,0,Serbia
+M-2022-29,P-57535,Nikola,Milenkovic,1997-10-12,4,0,0,1,0,Serbia
+M-2022-29,P-27744,Sergej,Milinkovic-Savic,1995-02-27,20,0,1,0,0,Serbia
+M-2022-29,P-24245,Vanja,Milinkovic-Savic,1997-02-20,23,0,0,0,1,Serbia
+M-2022-29,P-85696,Aleksandar,Mitrovic,1994-09-16,9,1,0,0,0,Serbia
+M-2022-29,P-19069,Stefan,Mitrovic,1990-05-22,13,0,0,1,0,Serbia
+M-2022-29,P-98435,Strahinja,Pavlovic,2001-05-24,2,0,0,1,0,Serbia
+M-2022-29,P-79900,Nemanja,Radonjic,1996-02-15,7,1,0,0,0,Serbia
+M-2022-29,P-33390,Dušan,Tadic,1988-11-20,10,1,1,0,0,Serbia
+M-2022-29,P-30283,Miloš,Veljkovic,1995-09-26,5,0,0,1,0,Serbia
+M-2022-29,P-79754,Filip,Ðuricic,1992-01-30,21,1,0,0,0,Serbia
+M-2022-29,P-58363,Andrija,Živkovic,1996-07-11,14,0,1,0,0,Serbia
+M-2022-30,P-21820,Salis,Abdul Samed,2000-03-26,21,0,1,0,0,Ghana
+M-2022-30,P-82956,Daniel,Amartey,1994-12-21,18,0,0,1,0,Ghana
+M-2022-30,P-51990,Lawrence,Ati-Zigi,1996-11-29,1,0,0,0,1,Ghana
+M-2022-30,P-01945,André,Ayew,1989-12-17,10,1,1,0,0,Ghana
+M-2022-30,P-31765,Jordan,Ayew,1991-09-11,9,1,0,0,0,Ghana
+M-2022-30,P-59808,Alexander,Djiku,1994-08-09,23,0,0,1,0,Ghana
+M-2022-30,P-23821,Mohammed,Kudus,2000-08-02,20,0,1,0,0,Ghana
+M-2022-30,P-92252,Daniel-Kofi,Kyereh,1996-03-08,8,0,1,0,0,Ghana
+M-2022-30,P-12913,Tariq,Lamptey,2000-09-30,2,0,0,1,0,Ghana
+M-2022-30,P-28517,Gideon,Mensah,1998-07-18,14,0,0,1,0,Ghana
+M-2022-30,P-08359,Denis,Odoi,1988-05-27,3,0,0,1,0,Ghana
+M-2022-30,P-07875,Thomas,Partey,1993-06-13,5,0,1,0,0,Ghana
+M-2022-30,P-94579,Baba,Rahman,1994-07-02,17,0,0,1,0,Ghana
+M-2022-30,P-50142,Mohammed,Salisu,1999-04-17,4,0,0,1,0,Ghana
+M-2022-30,P-33325,Kamaldeen,Sulemana,2002-02-15,22,0,1,0,0,Ghana
+M-2022-30,P-53967,Iñaki,Williams,1994-06-15,19,1,0,0,0,Ghana
+M-2022-30,P-88360,Kwon,Chang-hoon,1994-06-30,22,0,1,0,0,South Korea
+M-2022-30,P-87169,Cho,Gue-sung,1998-01-25,9,1,0,0,0,South Korea
+M-2022-30,P-67516,Hwang,In-beom,1996-09-20,6,0,1,0,0,South Korea
+M-2022-30,P-82889,Kim,Jin-su,1992-06-13,3,0,0,1,0,South Korea
+M-2022-30,P-64292,Woo-young,Jung,1989-12-14,5,0,1,0,0,South Korea
+M-2022-30,P-87514,Lee,Kang-in,2001-02-19,18,0,1,0,0,South Korea
+M-2022-30,P-42523,Seung-gyu,Kim,1990-09-30,1,0,0,0,1,South Korea
+M-2022-30,P-07259,Young-gwon,Kim,1990-02-27,19,0,0,1,0,South Korea
+M-2022-30,P-57511,Kwon,Kyung-won,1992-01-31,20,0,0,1,0,South Korea
+M-2022-30,P-14360,Kim,Min-jae,1996-11-15,4,0,0,1,0,South Korea
+M-2022-30,P-07233,Kim,Moon-hwan,1995-08-01,15,0,0,1,0,South Korea
+M-2022-30,P-10357,Na,Sang-ho,1996-08-12,17,0,1,0,0,South Korea
+M-2022-30,P-77335,Heung-min,Son,1992-07-08,7,1,1,0,0,South Korea
+M-2022-30,P-92710,Hwang,Ui-jo,1992-08-28,16,1,0,0,0,South Korea
+M-2022-30,P-94500,Jeong,Woo-yeong,1999-09-20,25,0,1,0,0,South Korea
+M-2022-31,P-21531,not applicable,Alisson,1992-10-02,1,0,0,0,1,Brazil
+M-2022-31,P-37860,not applicable,Antony,2000-02-24,19,1,0,0,0,Brazil
+M-2022-31,P-02305,not applicable,Casemiro,1992-02-23,5,0,1,0,0,Brazil
+M-2022-31,P-74941,not applicable,Fred,1993-03-05,8,0,1,0,0,Brazil
+M-2022-31,P-74688,Bruno,Guimarães,1997-11-16,17,0,1,0,0,Brazil
+M-2022-31,P-92004,Gabriel,Jesus,1997-04-03,18,1,0,0,0,Brazil
+M-2022-31,P-92812,Vinícius,Júnior,2000-07-12,20,1,0,0,0,Brazil
+M-2022-31,P-76060,not applicable,Marquinhos,1994-05-14,4,0,0,1,0,Brazil
+M-2022-31,P-55590,Éder,Militão,1998-01-18,14,0,0,1,0,Brazil
+M-2022-31,P-05164,Lucas,Paquetá,1997-08-27,7,0,1,0,0,Brazil
+M-2022-31,P-83169,not applicable,Raphinha,1996-12-14,11,1,0,0,0,Brazil
+M-2022-31,P-68016,not applicable,Richarlison,1997-05-10,9,1,0,0,0,Brazil
+M-2022-31,P-06446,not applicable,Rodrygo,2001-01-09,21,1,0,0,0,Brazil
+M-2022-31,P-97698,Alex,Sandro,1991-01-26,6,0,0,1,0,Brazil
+M-2022-31,P-32798,Thiago,Silva,1984-09-22,3,0,0,1,0,Brazil
+M-2022-31,P-26953,Alex,Telles,1992-12-15,16,0,0,1,0,Brazil
+M-2022-31,P-32222,Michel,Aebischer,1997-01-06,14,0,1,0,0,Switzerland
+M-2022-31,P-23925,Manuel,Akanji,1995-07-19,5,0,0,1,0,Switzerland
+M-2022-31,P-19193,Nico,Elvedi,1996-09-30,4,0,0,1,0,Switzerland
+M-2022-31,P-19075,Breel,Embolo,1997-02-14,7,1,0,0,0,Switzerland
+M-2022-31,P-29932,Edimilson,Fernandes,1996-04-15,2,0,0,1,0,Switzerland
+M-2022-31,P-00244,Fabian,Frei,1989-01-08,20,0,1,0,0,Switzerland
+M-2022-31,P-68060,Remo,Freuler,1992-04-15,8,0,1,0,0,Switzerland
+M-2022-31,P-25593,Fabian,Rieder,2002-02-16,25,0,1,0,0,Switzerland
+M-2022-31,P-43367,Ricardo,Rodríguez,1992-08-25,13,0,0,1,0,Switzerland
+M-2022-31,P-07180,Haris,Seferovic,1992-02-22,9,1,0,0,0,Switzerland
+M-2022-31,P-63312,Yann,Sommer,1988-12-17,1,0,0,0,1,Switzerland
+M-2022-31,P-11878,Djibril,Sow,1997-02-06,15,0,1,0,0,Switzerland
+M-2022-31,P-20482,Renato,Steffen,1991-11-03,11,0,0,1,0,Switzerland
+M-2022-31,P-85823,Ruben,Vargas,1998-08-05,17,1,0,0,0,Switzerland
+M-2022-31,P-38927,Silvan,Widmer,1993-03-05,3,0,0,1,0,Switzerland
+M-2022-31,P-77224,Granit,Xhaka,1992-09-27,10,0,1,0,0,Switzerland
+M-2022-32,P-16736,João,Cancelo,1994-05-27,20,0,0,1,0,Portugal
+M-2022-32,P-44689,William,Carvalho,1992-04-07,14,0,1,0,0,Portugal
+M-2022-32,P-54827,Diogo,Costa,1999-09-19,22,0,0,0,1,Portugal
+M-2022-32,P-10712,Rúben,Dias,1997-05-14,4,0,0,1,0,Portugal
+M-2022-32,P-39584,Bruno,Fernandes,1994-09-08,8,0,1,0,0,Portugal
+M-2022-32,P-17931,João,Félix,1999-11-10,11,1,0,0,0,Portugal
+M-2022-32,P-67578,Raphaël,Guerreiro,1993-12-22,5,0,0,1,0,Portugal
+M-2022-32,P-27349,Rafael,Leão,1999-06-10,15,1,0,0,0,Portugal
+M-2022-32,P-87003,Nuno,Mendes,2002-06-19,19,0,0,1,0,Portugal
+M-2022-32,P-22983,Rúben,Neves,1997-03-13,18,0,1,0,0,Portugal
+M-2022-32,P-57759,Matheus,Nunes,1998-08-27,23,0,1,0,0,Portugal
+M-2022-32,P-46583,João,Palhinha,1995-07-09,6,0,1,0,0,Portugal
+M-2022-32,P-81972,not applicable,Pepe,1983-02-26,3,0,0,1,0,Portugal
+M-2022-32,P-41647,Gonçalo,Ramos,2001-06-20,26,1,0,0,0,Portugal
+M-2022-32,P-70442,Cristiano,Ronaldo,1985-02-05,7,1,0,0,0,Portugal
+M-2022-32,P-34205,Bernardo,Silva,1994-08-10,10,1,1,0,0,Portugal
+M-2022-32,P-58791,Rodrigo,Bentancur,1997-06-25,6,0,1,0,0,Uruguay
+M-2022-32,P-59138,Edinson,Cavani,1987-02-14,21,1,0,0,0,Uruguay
+M-2022-32,P-20051,Sebastián,Coates,1990-10-07,19,0,0,1,0,Uruguay
+M-2022-32,P-62594,Giorgian,De Arrascaeta,1994-06-01,10,1,1,0,0,Uruguay
+M-2022-32,P-65659,José,Giménez,1995-01-20,2,0,0,1,0,Uruguay
+M-2022-32,P-78440,Diego,Godín,1986-02-16,3,0,0,1,0,Uruguay
+M-2022-32,P-70671,Maxi,Gómez,1996-08-14,18,1,0,0,0,Uruguay
+M-2022-32,P-18885,Darwin,Núñez,1999-06-24,11,1,0,0,0,Uruguay
+M-2022-32,P-90796,Mathías,Olivera,1997-10-31,16,0,0,1,0,Uruguay
+M-2022-32,P-95062,Facundo,Pellistri,2001-12-20,8,1,0,0,0,Uruguay
+M-2022-32,P-00232,Sergio,Rochet,1993-03-23,23,0,0,0,1,Uruguay
+M-2022-32,P-30486,Luis,Suárez,1987-01-24,9,1,0,0,0,Uruguay
+M-2022-32,P-05174,Federico,Valverde,1998-07-22,15,0,1,0,0,Uruguay
+M-2022-32,P-78932,Guillermo,Varela,1993-03-24,13,0,0,1,0,Uruguay
+M-2022-32,P-46785,Matías,Vecino,1991-08-24,5,0,1,0,0,Uruguay
+M-2022-32,P-18564,Matías,Viña,1997-11-09,17,0,0,1,0,Uruguay
+M-2022-33,P-82216,Moisés,Caicedo,2001-11-02,23,0,1,0,0,Ecuador
+M-2022-33,P-75628,José,Cifuentes,1999-03-12,5,0,1,0,0,Ecuador
+M-2022-33,P-44851,Michael,Estrada,1996-04-07,11,1,0,0,0,Ecuador
+M-2022-33,P-52697,Pervis,Estupiñán,1998-01-21,7,0,0,1,0,Ecuador
+M-2022-33,P-28364,Alan,Franco,1998-08-21,21,0,1,0,0,Ecuador
+M-2022-33,P-56347,Hernán,Galíndez,1987-03-30,1,0,0,0,1,Ecuador
+M-2022-33,P-13321,Carlos,Gruezo,1995-04-19,8,0,1,0,0,Ecuador
+M-2022-33,P-29713,Piero,Hincapié,2002-01-09,3,0,0,1,0,Ecuador
+M-2022-33,P-13973,Gonzalo,Plata,2000-11-01,19,0,1,0,0,Ecuador
+M-2022-33,P-73694,Jackson,Porozo,2000-08-04,25,0,0,1,0,Ecuador
+M-2022-33,P-62543,Ángelo,Preciado,1998-02-18,17,0,0,1,0,Ecuador
+M-2022-33,P-69217,Djorkaeff,Reasco,1999-01-18,24,1,0,0,0,Ecuador
+M-2022-33,P-78091,Jeremy,Sarmiento,2002-06-16,16,0,1,0,0,Ecuador
+M-2022-33,P-96347,Félix,Torres,1997-01-11,2,0,0,1,0,Ecuador
+M-2022-33,P-75912,Enner,Valencia,1989-11-04,13,1,0,0,0,Ecuador
+M-2022-33,P-61416,Pathé,Ciss,1994-03-16,11,0,1,0,0,Senegal
+M-2022-33,P-90626,Pape Abou,Cissé,1995-09-14,4,0,0,1,0,Senegal
+M-2022-33,P-33622,Boulaye,Dia,1996-11-16,9,1,0,0,0,Senegal
+M-2022-33,P-77769,Abdou,Diallo,1996-05-04,22,0,0,1,0,Senegal
+M-2022-33,P-88928,Bamba,Dieng,2000-03-23,20,1,0,0,0,Senegal
+M-2022-33,P-40621,Idrissa,Gueye,1989-09-26,5,0,1,0,0,Senegal
+M-2022-33,P-45280,Pape,Gueye,1999-01-24,26,0,1,0,0,Senegal
+M-2022-33,P-54506,Ismail,Jakobs,1999-08-17,14,0,0,1,0,Senegal
+M-2022-33,P-47321,Kalidou,Koulibaly,1991-06-20,3,0,0,1,0,Senegal
+M-2022-33,P-96697,Nampalys,Mendy,1992-06-23,6,0,1,0,0,Senegal
+M-2022-33,P-45399,Édouard,Mendy,1992-03-01,16,0,0,0,1,Senegal
+M-2022-33,P-33958,Iliman,Ndiaye,2000-03-06,13,1,0,0,0,Senegal
+M-2022-33,P-55298,Youssouf,Sabaly,1993-03-05,21,0,0,1,0,Senegal
+M-2022-33,P-37935,Ismaïla,Sarr,1998-02-25,18,1,0,0,0,Senegal
+M-2022-34,P-64438,Nathan,Aké,1995-02-18,5,0,0,1,0,Netherlands
+M-2022-34,P-10326,Steven,Berghuis,1991-12-19,11,0,1,0,0,Netherlands
+M-2022-34,P-39861,Daley,Blind,1990-03-09,17,0,0,1,0,Netherlands
+M-2022-34,P-27540,Memphis,Depay,1994-02-13,10,1,0,0,0,Netherlands
+M-2022-34,P-97615,Denzel,Dumfries,1996-04-18,22,0,0,1,0,Netherlands
+M-2022-34,P-28911,Cody,Gakpo,1999-05-07,8,1,0,0,0,Netherlands
+M-2022-34,P-57087,Vincent,Janssen,1994-06-15,18,1,0,0,0,Netherlands
+M-2022-34,P-42078,Davy,Klaassen,1993-02-21,14,0,1,0,0,Netherlands
+M-2022-34,P-35705,Teun,Koopmeiners,1998-02-28,20,0,1,0,0,Netherlands
+M-2022-34,P-82000,Andries,Noppert,1994-04-07,23,0,0,0,1,Netherlands
+M-2022-34,P-95763,Kenneth,Taylor,2002-05-16,24,0,1,0,0,Netherlands
+M-2022-34,P-74111,Jurriën,Timber,2001-06-17,2,0,0,1,0,Netherlands
+M-2022-34,P-95036,Wout,Weghorst,1992-08-07,19,1,0,0,0,Netherlands
+M-2022-34,P-17688,Frenkie,de Jong,1997-05-12,21,0,1,0,0,Netherlands
+M-2022-34,P-55965,Marten,de Roon,1991-03-29,15,0,1,0,0,Netherlands
+M-2022-34,P-56029,Virgil,van Dijk,1991-07-08,4,0,0,1,0,Netherlands
+M-2022-34,P-47319,Akram,Afif,1996-11-18,11,1,0,0,0,Qatar
+M-2022-34,P-33804,Homam,Ahmed,1999-08-25,14,0,0,1,0,Qatar
+M-2022-34,P-38732,Hassan,Al-Haydos,1990-12-11,10,0,1,0,0,Qatar
+M-2022-34,P-57100,Ahmed,Alaaeldin,1993-01-31,7,1,0,0,0,Qatar
+M-2022-34,P-01930,Almoez,Ali,1996-08-19,19,1,0,0,0,Qatar
+M-2022-34,P-51678,Ali,Assadalla,1993-01-19,8,0,1,0,0,Qatar
+M-2022-34,P-28811,Meshaal,Barsham,1998-02-14,22,0,0,0,1,Qatar
+M-2022-34,P-95754,Karim,Boudiaf,1990-09-16,12,0,1,0,0,Qatar
+M-2022-34,P-01258,Abdelkarim,Hassan,1993-08-28,3,0,1,0,0,Qatar
+M-2022-34,P-97800,Abdulaziz,Hatem,1990-01-01,6,0,1,0,0,Qatar
+M-2022-34,P-32949,Musab,Kheder,1993-01-01,13,0,0,1,0,Qatar
+M-2022-34,P-12810,Boualem,Khoukhi,1990-07-09,16,0,0,1,0,Qatar
+M-2022-34,P-63532,Assim,Madibo,1996-10-22,23,0,1,0,0,Qatar
+M-2022-34,P-01077,Ismaeel,Mohammad,1990-04-05,17,0,0,1,0,Qatar
+M-2022-34,P-17048,Mohammed,Muntari,1993-12-20,9,1,0,0,0,Qatar
+M-2022-34,P-00052,not applicable,Ró-Ró,1990-08-06,2,0,0,1,0,Qatar
+M-2022-35,P-53957,Karim,Ansarifard,1990-04-03,10,1,0,0,0,Iran
+M-2022-35,P-09113,Sardar,Azmoun,1995-01-01,20,1,0,0,0,Iran
+M-2022-35,P-20998,Alireza,Beiranvand,1992-09-21,1,0,0,0,1,Iran
+M-2022-35,P-95374,Saeid,Ezatolahi,1996-10-01,6,0,1,0,0,Iran
+M-2022-35,P-87786,Saman,Ghoddos,1993-09-06,14,1,1,0,0,Iran
+M-2022-35,P-45653,Ali,Gholizadeh,1996-03-10,17,0,1,0,0,Iran
+M-2022-35,P-75785,Ehsan,Hajsafi,1990-02-25,3,0,1,1,0,Iran
+M-2022-35,P-15905,Majid,Hosseini,1996-06-20,19,0,0,1,0,Iran
+M-2022-35,P-62858,Abolfazl,Jalali,1998-06-26,25,0,0,1,0,Iran
+M-2022-35,P-68842,Ali,Karimi,1994-02-11,18,0,1,0,0,Iran
+M-2022-35,P-74098,Milad,Mohammadi,1993-09-29,5,0,0,1,0,Iran
+M-2022-35,P-42215,Ahmad,Nourollahi,1993-02-01,21,0,1,0,0,Iran
+M-2022-35,P-29864,Morteza,Pouraliganji,1992-04-19,8,0,0,1,0,Iran
+M-2022-35,P-47137,Ramin,Rezaeian,1990-03-21,23,0,0,1,0,Iran
+M-2022-35,P-85860,Mehdi,Taremi,1992-07-18,9,1,0,0,0,Iran
+M-2022-35,P-04541,Mehdi,Torabi,1994-09-10,16,0,1,0,0,Iran
+M-2022-35,P-03484,Brenden,Aaronson,2000-10-22,11,1,0,0,0,United States
+M-2022-35,P-86410,Kellyn,Acosta,1995-07-24,23,0,1,0,0,United States
+M-2022-35,P-14151,Tyler,Adams,1999-02-14,4,0,1,0,0,United States
+M-2022-35,P-25925,Cameron,Carter-Vickers,1997-12-31,20,0,0,1,0,United States
+M-2022-35,P-89452,Sergiño,Dest,2000-11-03,2,0,0,1,0,United States
+M-2022-35,P-68952,Weston,McKennie,1998-08-28,8,0,1,0,0,United States
+M-2022-35,P-48265,Shaq,Moore,1996-11-02,18,0,0,1,0,United States
+M-2022-35,P-59571,Yunus,Musah,2002-11-29,6,0,1,0,0,United States
+M-2022-35,P-11737,Christian,Pulisic,1998-09-18,10,1,0,0,0,United States
+M-2022-35,P-26367,Tim,Ream,1987-10-05,13,0,0,1,0,United States
+M-2022-35,P-70867,Antonee,Robinson,1997-08-08,5,0,0,1,0,United States
+M-2022-35,P-94647,Josh,Sargent,2000-02-20,24,1,0,0,0,United States
+M-2022-35,P-48903,Matt,Turner,1994-06-24,1,0,0,0,1,United States
+M-2022-35,P-30252,Timothy,Weah,2000-02-22,21,1,0,0,0,United States
+M-2022-35,P-68131,Haji,Wright,1998-03-27,19,1,0,0,0,United States
+M-2022-35,P-57029,Walker,Zimmerman,1993-05-19,3,0,0,1,0,United States
+M-2022-36,P-05318,Trent,Alexander-Arnold,1998-10-07,18,0,0,1,0,England
+M-2022-36,P-15674,Jude,Bellingham,2003-06-29,22,0,1,0,0,England
+M-2022-36,P-10501,Phil,Foden,2000-05-28,20,0,1,0,0,England
+M-2022-36,P-21153,Jack,Grealish,1995-09-10,7,1,0,0,0,England
+M-2022-36,P-08169,Jordan,Henderson,1990-06-17,8,0,1,0,0,England
+M-2022-36,P-58924,Harry,Kane,1993-07-28,9,1,0,0,0,England
+M-2022-36,P-02465,Harry,Maguire,1993-03-05,6,0,0,1,0,England
+M-2022-36,P-43567,Kalvin,Phillips,1995-12-02,14,0,1,0,0,England
+M-2022-36,P-70618,Jordan,Pickford,1994-03-07,1,0,0,0,1,England
+M-2022-36,P-59837,Marcus,Rashford,1997-10-31,11,1,0,0,0,England
+M-2022-36,P-84787,Declan,Rice,1999-01-14,4,0,1,0,0,England
+M-2022-36,P-36400,Luke,Shaw,1995-07-12,3,0,0,1,0,England
+M-2022-36,P-92628,John,Stones,1994-05-28,5,0,0,1,0,England
+M-2022-36,P-25937,Kieran,Trippier,1990-09-19,12,0,0,1,0,England
+M-2022-36,P-74071,Kyle,Walker,1990-05-28,2,0,0,1,0,England
+M-2022-36,P-22844,Callum,Wilson,1992-02-27,24,1,0,0,0,England
+M-2022-36,P-92761,Joe,Allen,1990-03-14,7,0,1,0,0,Wales
+M-2022-36,P-50398,Ethan,Ampadu,2000-09-14,15,0,0,1,0,Wales
+M-2022-36,P-63927,Gareth,Bale,1989-07-16,11,1,0,0,0,Wales
+M-2022-36,P-07137,Rubin,Colwill,2002-04-27,25,0,1,0,0,Wales
+M-2022-36,P-41198,Ben,Davies,1993-04-24,4,0,0,1,0,Wales
+M-2022-36,P-74707,Daniel,James,1997-11-10,20,1,0,0,0,Wales
+M-2022-36,P-57098,Brennan,Johnson,2001-05-23,9,1,0,0,0,Wales
+M-2022-36,P-74888,Chris,Mepham,1997-11-05,5,0,0,1,0,Wales
+M-2022-36,P-10657,Kieffer,Moore,1992-08-08,13,1,0,0,0,Wales
+M-2022-36,P-69082,Joe,Morrell,1997-01-03,16,0,1,0,0,Wales
+M-2022-36,P-86951,Aaron,Ramsey,1990-12-26,10,0,1,0,0,Wales
+M-2022-36,P-56503,Connor,Roberts,1995-09-23,14,0,0,1,0,Wales
+M-2022-36,P-38105,Joe,Rodon,1997-10-22,6,0,0,1,0,Wales
+M-2022-36,P-31718,Danny,Ward,1993-06-22,12,0,0,0,1,Wales
+M-2022-36,P-87190,Neco,Williams,2001-04-13,3,0,0,1,0,Wales
+M-2022-36,P-94779,Harry,Wilson,1997-03-22,8,0,1,0,0,Wales
+M-2022-37,P-27035,Keanu,Baccus,1998-06-07,26,0,1,0,0,Australia
+M-2022-37,P-51118,Aziz,Behich,1990-12-16,16,0,0,1,0,Australia
+M-2022-37,P-59727,Miloš,Degenek,1994-04-28,2,0,0,1,0,Australia
+M-2022-37,P-91029,Mitchell,Duke,1991-01-18,15,1,0,0,0,Australia
+M-2022-37,P-82010,Craig,Goodwin,1991-12-16,23,1,0,0,0,Australia
+M-2022-37,P-82945,Ajdin,Hrustic,1996-07-05,10,0,1,0,0,Australia
+M-2022-37,P-34822,Jackson,Irvine,1993-03-07,22,0,1,0,0,Australia
+M-2022-37,P-35837,Mathew,Leckie,1991-02-04,7,1,0,0,0,Australia
+M-2022-37,P-20087,Jamie,Maclaren,1993-07-29,9,1,0,0,0,Australia
+M-2022-37,P-51406,Riley,McGree,1998-11-02,14,0,1,0,0,Australia
+M-2022-37,P-95847,Aaron,Mooy,1990-09-15,13,0,1,0,0,Australia
+M-2022-37,P-88273,Kye,Rowles,1998-06-24,4,0,0,1,0,Australia
+M-2022-37,P-10244,Mathew,Ryan,1992-04-08,1,0,0,0,1,Australia
+M-2022-37,P-89217,Harry,Souttar,1998-10-22,19,0,0,1,0,Australia
+M-2022-37,P-97422,Bailey,Wright,1992-07-28,8,0,0,1,0,Australia
+M-2022-37,P-43705,Joachim,Andersen,1996-05-31,2,0,0,1,0,Denmark
+M-2022-37,P-92135,Alexander,Bah,1997-12-09,26,0,0,1,0,Denmark
+M-2022-37,P-85579,Martin,Braithwaite,1991-06-05,9,1,0,0,0,Denmark
+M-2022-37,P-18923,Andreas,Christensen,1996-04-10,6,0,0,1,0,Denmark
+M-2022-37,P-29053,Andreas,Cornelius,1993-03-16,21,1,0,0,0,Denmark
+M-2022-37,P-57782,Mikkel,Damsgaard,2000-07-03,14,0,1,0,0,Denmark
+M-2022-37,P-72592,Kasper,Dolberg,1997-10-06,12,1,0,0,0,Denmark
+M-2022-37,P-50104,Christian,Eriksen,1992-02-14,10,0,1,0,0,Denmark
+M-2022-37,P-98199,Pierre-Emile,Højbjerg,1995-08-05,23,0,1,0,0,Denmark
+M-2022-37,P-26593,Mathias,Jensen,1996-01-01,7,0,1,0,0,Denmark
+M-2022-37,P-82877,Rasmus,Kristensen,1997-07-11,13,0,0,1,0,Denmark
+M-2022-37,P-70516,Jesper,Lindstrøm,2000-02-29,25,0,1,0,0,Denmark
+M-2022-37,P-39995,Joakim,Mæhle,1997-05-20,5,0,0,1,0,Denmark
+M-2022-37,P-82313,Andreas Skov,Olsen,1999-12-29,11,0,1,0,0,Denmark
+M-2022-37,P-58755,Kasper,Schmeichel,1986-11-05,1,0,0,0,1,Denmark
+M-2022-37,P-76468,Robert,Skov,1996-05-20,24,0,1,0,0,Denmark
+M-2022-38,P-80996,Eduardo,Camavinga,2002-11-10,25,0,1,0,0,France
+M-2022-38,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-38,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-38,P-91324,Axel,Disasi,1998-03-11,3,0,0,1,0,France
+M-2022-38,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-38,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-38,P-32431,Matteo,Guendouzi,1999-04-14,6,0,1,0,0,France
+M-2022-38,P-92987,Randal,Kolo Muani,1998-12-05,12,1,0,0,0,France
+M-2022-38,P-86920,Ibrahima,Konaté,1999-05-25,24,0,0,1,0,France
+M-2022-38,P-69594,Steve,Mandanda,1985-03-28,16,0,0,0,1,France
+M-2022-38,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-38,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-38,P-07089,William,Saliba,2001-03-24,17,0,0,1,0,France
+M-2022-38,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-38,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
+M-2022-38,P-00465,Jordan,Veretout,1993-03-01,15,0,1,0,0,France
+M-2022-38,P-64924,Ali,Abdi,1993-12-20,24,0,0,1,0,Tunisia
+M-2022-38,P-42575,Mohamed Ali,Ben Romdhane,1999-09-06,15,0,1,0,0,Tunisia
+M-2022-38,P-45680,Anis,Ben Slimane,2001-03-16,25,1,0,0,0,Tunisia
+M-2022-38,P-09569,Ghailene,Chaalali,1994-02-28,18,1,1,0,0,Tunisia
+M-2022-38,P-32803,Aymen,Dahmen,1997-01-28,16,0,0,0,1,Tunisia
+M-2022-38,P-68161,Nader,Ghandri,1995-02-18,5,0,1,0,0,Tunisia
+M-2022-38,P-11346,Issam,Jebali,1991-12-25,9,1,0,0,0,Tunisia
+M-2022-38,P-27079,Wajdi,Kechrida,1995-11-05,21,0,0,1,0,Tunisia
+M-2022-38,P-42223,Wahbi,Khazri,1991-02-08,10,1,0,0,0,Tunisia
+M-2022-38,P-29063,Aïssa,Laïdouni,1996-12-13,14,0,1,0,0,Tunisia
+M-2022-38,P-38981,Ali,Maâloul,1990-01-01,12,0,0,1,0,Tunisia
+M-2022-38,P-81706,Yassine,Meriah,1993-07-02,4,0,0,1,0,Tunisia
+M-2022-38,P-47815,Ellyes,Skhiri,1995-05-10,17,0,1,0,0,Tunisia
+M-2022-38,P-73455,Montassar,Talbi,1998-05-26,3,0,0,1,0,Tunisia
+M-2022-39,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-39,P-56659,Thiago,Almada,2001-04-26,16,0,1,0,0,Argentina
+M-2022-39,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-39,P-42113,Ángel,Di María,1988-02-14,11,1,1,0,0,Argentina
+M-2022-39,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-39,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-39,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-39,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-39,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-39,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-39,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-39,P-27582,Leandro,Paredes,1994-06-29,5,0,1,0,0,Argentina
+M-2022-39,P-29298,Germán,Pezzella,1991-06-27,6,0,0,1,0,Argentina
+M-2022-39,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-39,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-39,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-39,P-42160,Bartosz,Bereszynski,1992-07-12,18,0,0,1,0,Poland
+M-2022-39,P-14593,Krystian,Bielik,1998-01-04,6,0,1,0,0,Poland
+M-2022-39,P-17099,Matty,Cash,1997-08-07,2,0,0,1,0,Poland
+M-2022-39,P-23437,Przemyslaw,Frankowski,1995-04-12,24,0,1,0,0,Poland
+M-2022-39,P-29046,Kamil,Glik,1988-02-03,15,0,0,1,0,Poland
+M-2022-39,P-61813,Artur,Jedrzejczyk,1987-11-04,3,0,0,1,0,Poland
+M-2022-39,P-83610,Jakub,Kaminski,2002-06-05,13,0,1,0,0,Poland
+M-2022-39,P-44780,Jakub,Kiwior,2000-02-15,14,0,0,1,0,Poland
+M-2022-39,P-45449,Grzegorz,Krychowiak,1990-01-29,10,0,1,0,0,Poland
+M-2022-39,P-00549,Robert,Lewandowski,1988-08-21,9,1,0,0,0,Poland
+M-2022-39,P-11013,Krzysztof,Piatek,1995-07-01,23,1,0,0,0,Poland
+M-2022-39,P-02071,Michal,Skóras,2000-02-15,26,0,1,0,0,Poland
+M-2022-39,P-31606,Wojciech,Szczesny,1990-04-18,1,0,0,0,1,Poland
+M-2022-39,P-44699,Damian,Szymanski,1995-06-16,8,0,1,0,0,Poland
+M-2022-39,P-32165,Piotr,Zielinski,1994-05-20,20,0,1,0,0,Poland
+M-2022-39,P-85630,Karol,Swiderski,1997-01-23,16,1,0,0,0,Poland
+M-2022-40,P-81433,Uriel,Antuna,1997-08-21,21,1,0,0,0,Mexico
+M-2022-40,P-49806,Luis,Chávez,1996-01-15,24,0,1,0,0,Mexico
+M-2022-40,P-51689,Rogelio,Funes Mori,1991-03-05,11,1,0,0,0,Mexico
+M-2022-40,P-80088,Jesús,Gallardo,1994-08-15,23,0,1,1,0,Mexico
+M-2022-40,P-57865,Raúl,Jiménez,1991-05-05,9,1,0,0,0,Mexico
+M-2022-40,P-24705,Hirving,Lozano,1995-07-30,22,1,0,0,0,Mexico
+M-2022-40,P-49482,Henry,Martín,1992-11-18,20,1,0,0,0,Mexico
+M-2022-40,P-36212,César,Montes,1997-02-24,3,0,0,1,0,Mexico
+M-2022-40,P-21208,Héctor,Moreno,1988-01-17,15,0,0,1,0,Mexico
+M-2022-40,P-80826,Guillermo,Ochoa,1985-07-13,13,0,0,0,1,Mexico
+M-2022-40,P-95198,Orbelín,Pineda,1996-03-24,17,1,0,0,0,Mexico
+M-2022-40,P-19618,Carlos,Rodríguez,1997-01-03,8,0,1,0,0,Mexico
+M-2022-40,P-24062,Jorge,Sánchez,1997-12-10,19,0,0,1,0,Mexico
+M-2022-40,P-64182,Alexis,Vega,1997-11-25,10,1,0,0,0,Mexico
+M-2022-40,P-26546,Edson,Álvarez,1997-10-24,4,0,0,1,0,Mexico
+M-2022-40,P-09058,Kevin,Álvarez,1999-01-15,26,0,0,1,0,Mexico
+M-2022-40,P-08125,Saud,Abdulhamid,1999-07-18,12,0,0,1,0,Saudi Arabia
+M-2022-40,P-45581,Abdulrahman,Al-Aboud,1995-06-01,20,1,0,0,0,Saudi Arabia
+M-2022-40,P-12335,Abdulelah,Al-Amri,1997-01-15,4,0,0,1,0,Saudi Arabia
+M-2022-40,P-87284,Ali,Al-Bulaihi,1989-11-21,5,0,0,1,0,Saudi Arabia
+M-2022-40,P-89845,Firas,Al-Buraikan,2000-05-14,9,1,0,0,0,Saudi Arabia
+M-2022-40,P-70583,Salem,Al-Dawsari,1991-08-19,10,1,1,0,0,Saudi Arabia
+M-2022-40,P-06789,Sultan,Al-Ghannam,1994-05-06,2,0,0,1,0,Saudi Arabia
+M-2022-40,P-45413,Ali,Al-Hassan,1997-03-04,15,0,1,0,0,Saudi Arabia
+M-2022-40,P-85438,Mohammed,Al-Owais,1991-10-10,21,0,0,0,1,Saudi Arabia
+M-2022-40,P-37308,Saleh,Al-Shehri,1993-11-01,11,1,0,0,0,Saudi Arabia
+M-2022-40,P-93173,Hassan,Al-Tambakti,1999-02-09,17,0,0,1,0,Saudi Arabia
+M-2022-40,P-84563,Hattan,Bahebri,1992-07-16,19,1,1,0,0,Saudi Arabia
+M-2022-40,P-91268,Mohamed,Kanno,1994-09-22,23,0,1,0,0,Saudi Arabia
+M-2022-40,P-20388,Abdullah,Madu,1993-07-15,3,0,0,1,0,Saudi Arabia
+M-2022-40,P-06750,Riyadh,Sharahili,1993-04-28,26,0,1,0,0,Saudi Arabia
+M-2022-41,P-55821,Sam,Adekugbe,1995-01-16,3,0,0,1,0,Canada
+M-2022-41,P-46263,Milan,Borjan,1987-10-23,18,0,0,0,1,Canada
+M-2022-41,P-96259,Tajon,Buchanan,1999-02-08,11,1,0,0,0,Canada
+M-2022-41,P-48340,Jonathan,David,2000-01-14,20,1,0,0,0,Canada
+M-2022-41,P-46358,Alphonso,Davies,2000-11-02,19,1,0,0,0,Canada
+M-2022-41,P-35706,Junior,Hoilett,1990-06-05,10,0,1,0,0,Canada
+M-2022-41,P-03472,Atiba,Hutchinson,1983-02-08,13,0,1,0,0,Canada
+M-2022-41,P-12635,Alistair,Johnston,1998-10-08,2,0,0,1,0,Canada
+M-2022-41,P-72399,Mark-Anthony,Kaye,1994-12-02,14,0,1,0,0,Canada
+M-2022-41,P-85670,Ismaël,Koné,2002-06-16,15,0,1,0,0,Canada
+M-2022-41,P-01925,Cyle,Larin,1995-04-17,17,1,0,0,0,Canada
+M-2022-41,P-42390,Richie,Laryea,1995-01-07,22,0,0,1,0,Canada
+M-2022-41,P-31806,Kamal,Miller,1997-05-16,4,0,0,1,0,Canada
+M-2022-41,P-27541,Jonathan,Osorio,1992-06-12,21,0,1,0,0,Canada
+M-2022-41,P-89710,Steven,Vitória,1987-01-11,5,0,0,1,0,Canada
+M-2022-41,P-49915,David,Wotherspoon,1990-01-16,24,0,1,0,0,Canada
+M-2022-41,P-48295,Zakaria,Aboukhlal,2000-02-18,14,0,1,0,0,Morocco
+M-2022-41,P-47490,Nayef,Aguerd,1996-03-30,5,0,0,1,0,Morocco
+M-2022-41,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-41,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-41,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-41,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-41,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-41,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-41,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-41,P-90423,Abderrazak,Hamdallah,1990-12-17,9,1,0,0,0,Morocco
+M-2022-41,P-86644,Yahya,Jabrane,1991-06-18,26,0,1,0,0,Morocco
+M-2022-41,P-09614,Noussair,Mazraoui,1997-11-14,3,0,0,1,0,Morocco
+M-2022-41,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-41,P-05265,Abdelhamid,Sabiri,1996-11-28,11,1,0,0,0,Morocco
+M-2022-41,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-41,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-42,P-70547,Toby,Alderweireld,1989-03-02,2,0,0,1,0,Belgium
+M-2022-42,P-06338,Yannick,Carrasco,1993-09-04,11,1,1,0,0,Belgium
+M-2022-42,P-56069,Timothy,Castagne,1995-12-05,21,0,1,0,0,Belgium
+M-2022-42,P-09658,Thibaut,Courtois,1992-05-11,1,0,0,0,1,Belgium
+M-2022-42,P-48955,Kevin,De Bruyne,1991-06-28,7,0,1,0,0,Belgium
+M-2022-42,P-73834,Leander,Dendoncker,1995-04-15,19,0,0,1,0,Belgium
+M-2022-42,P-29578,Jérémy,Doku,2002-05-27,25,1,0,0,0,Belgium
+M-2022-42,P-72011,Eden,Hazard,1991-01-07,10,1,1,0,0,Belgium
+M-2022-42,P-74337,Thorgan,Hazard,1993-03-29,16,0,1,0,0,Belgium
+M-2022-42,P-72637,Romelu,Lukaku,1993-05-13,9,1,0,0,0,Belgium
+M-2022-42,P-84852,Dries,Mertens,1987-05-06,14,1,0,0,0,Belgium
+M-2022-42,P-22930,Thomas,Meunier,1991-09-12,15,0,1,1,0,Belgium
+M-2022-42,P-47906,Youri,Tielemans,1997-05-07,8,0,1,0,0,Belgium
+M-2022-42,P-95312,Leandro,Trossard,1994-12-04,17,1,0,0,0,Belgium
+M-2022-42,P-64049,Jan,Vertonghen,1987-04-24,5,0,0,1,0,Belgium
+M-2022-42,P-53048,Axel,Witsel,1989-01-12,6,0,1,0,0,Belgium
+M-2022-42,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-42,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-42,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-42,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-42,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-42,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-42,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-42,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-42,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-42,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-42,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-42,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-42,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-42,P-84190,Borna,Sosa,1998-01-21,19,0,0,1,0,Croatia
+M-2022-43,P-44957,Brandon,Aguilera,2003-06-28,20,0,1,0,0,Costa Rica
+M-2022-43,P-09889,Jewison,Bennette,2004-06-15,9,0,1,0,0,Costa Rica
+M-2022-43,P-11767,Celso,Borges,1988-05-27,5,0,1,0,0,Costa Rica
+M-2022-43,P-70812,Joel,Campbell,1992-06-26,12,1,0,0,0,Costa Rica
+M-2022-43,P-02556,Anthony,Contreras,2000-01-29,7,1,0,0,0,Costa Rica
+M-2022-43,P-97912,Óscar,Duarte,1989-06-03,6,0,0,1,0,Costa Rica
+M-2022-43,P-80986,Keysher,Fuller,1994-07-12,4,0,0,1,0,Costa Rica
+M-2022-43,P-37189,Rónald,Matarrita,1994-07-09,22,0,0,1,0,Costa Rica
+M-2022-43,P-81392,Keylor,Navas,1986-12-15,1,0,0,0,1,Costa Rica
+M-2022-43,P-10740,Bryan,Oviedo,1990-02-18,8,0,0,1,0,Costa Rica
+M-2022-43,P-32622,Youstin,Salas,1996-06-17,14,0,1,0,0,Costa Rica
+M-2022-43,P-24978,Yeltsin,Tejeda,1992-03-17,17,0,1,0,0,Costa Rica
+M-2022-43,P-65777,Juan Pablo,Vargas,1995-06-06,3,0,0,1,0,Costa Rica
+M-2022-43,P-58669,Johan,Venegas,1988-11-27,11,1,0,0,0,Costa Rica
+M-2022-43,P-37984,Kendall,Waston,1988-01-01,19,0,0,1,0,Costa Rica
+M-2022-43,P-23993,Roan,Wilson,2002-05-01,24,0,1,0,0,Costa Rica
+M-2022-43,P-46246,Niclas,Füllkrug,1993-02-09,9,1,0,0,0,Germany
+M-2022-43,P-36126,Matthias,Ginter,1994-01-19,4,0,0,1,0,Germany
+M-2022-43,P-75989,Serge,Gnabry,1995-07-14,10,1,0,0,0,Germany
+M-2022-43,P-79409,Leon,Goretzka,1995-02-06,8,0,1,0,0,Germany
+M-2022-43,P-63673,Mario,Götze,1992-06-03,11,0,1,0,0,Germany
+M-2022-43,P-08896,Ilkay,Gündogan,1990-10-24,21,0,1,0,0,Germany
+M-2022-43,P-77743,Kai,Havertz,1999-06-11,7,1,0,0,0,Germany
+M-2022-43,P-30316,Joshua,Kimmich,1995-02-08,6,0,1,1,0,Germany
+M-2022-43,P-89863,Lukas,Klostermann,1996-06-03,16,0,0,1,0,Germany
+M-2022-43,P-47182,Jamal,Musiala,2003-02-26,14,0,1,0,0,Germany
+M-2022-43,P-28154,Thomas,Müller,1989-09-13,13,1,1,0,0,Germany
+M-2022-43,P-19408,Manuel,Neuer,1986-03-27,1,0,0,0,1,Germany
+M-2022-43,P-20804,David,Raum,1998-04-22,3,0,0,1,0,Germany
+M-2022-43,P-51201,Antonio,Rüdiger,1993-03-03,2,0,0,1,0,Germany
+M-2022-43,P-39464,Leroy,Sané,1996-01-11,19,0,1,0,0,Germany
+M-2022-43,P-48737,Niklas,Süle,1995-09-03,15,0,0,1,0,Germany
+M-2022-44,P-46913,Takuma,Asano,1994-11-10,18,1,0,0,0,Japan
+M-2022-44,P-58907,Ritsu,Doan,1998-06-16,8,0,1,0,0,Japan
+M-2022-44,P-53282,Wataru,Endo,1993-02-09,6,0,1,1,0,Japan
+M-2022-44,P-66906,Shuichi,Gonda,1989-03-03,12,0,0,0,1,Japan
+M-2022-44,P-35225,Ko,Itakura,1997-01-27,4,0,0,1,0,Japan
+M-2022-44,P-86909,Junya,Ito,1993-03-09,14,0,1,0,0,Japan
+M-2022-44,P-62952,Daichi,Kamada,1996-08-05,15,0,1,0,0,Japan
+M-2022-44,P-39942,Takefusa,Kubo,2001-06-04,11,0,1,0,0,Japan
+M-2022-44,P-30206,Daizen,Maeda,1997-10-20,25,1,0,0,0,Japan
+M-2022-44,P-22633,Kaoru,Mitoma,1997-05-20,9,0,1,0,0,Japan
+M-2022-44,P-75751,Hidemasa,Morita,1995-05-10,13,0,1,0,0,Japan
+M-2022-44,P-26303,Yuto,Nagatomo,1986-09-12,5,0,0,1,0,Japan
+M-2022-44,P-82447,Ao,Tanaka,1998-09-10,17,0,1,0,0,Japan
+M-2022-44,P-77382,Shogo,Taniguchi,1991-07-15,3,0,0,1,0,Japan
+M-2022-44,P-68429,Takehiro,Tomiyasu,1998-11-05,16,0,0,1,0,Japan
+M-2022-44,P-89321,Maya,Yoshida,1988-08-24,22,0,0,1,0,Japan
+M-2022-44,P-01416,Jordi,Alba,1989-03-21,18,0,0,1,0,Spain
+M-2022-44,P-09400,Marco,Asensio,1996-01-21,10,1,1,0,0,Spain
+M-2022-44,P-60716,César,Azpilicueta,1989-08-28,2,0,0,1,0,Spain
+M-2022-44,P-49008,Alejandro,Balde,2003-10-18,14,0,0,1,0,Spain
+M-2022-44,P-28010,Sergio,Busquets,1988-07-16,5,0,1,0,0,Spain
+M-2022-44,P-71071,Dani,Carvajal,1992-01-11,20,0,0,1,0,Spain
+M-2022-44,P-33854,Ansu,Fati,2002-10-31,25,1,0,0,0,Spain
+M-2022-44,P-88433,not applicable,Gavi,2004-08-05,9,0,1,0,0,Spain
+M-2022-44,P-29274,Álvaro,Morata,1992-10-23,7,1,0,0,0,Spain
+M-2022-44,P-40007,Dani,Olmo,1998-05-07,21,1,0,0,0,Spain
+M-2022-44,P-24897,not applicable,Pedri,2002-11-25,26,0,1,0,0,Spain
+M-2022-44,P-62341,not applicable,Rodri,1996-06-22,16,0,1,0,0,Spain
+M-2022-44,P-94271,Unai,Simón,1997-06-11,23,0,0,0,1,Spain
+M-2022-44,P-31301,Ferran,Torres,2000-02-29,11,1,0,0,0,Spain
+M-2022-44,P-16333,Pau,Torres,1997-01-16,4,0,0,1,0,Spain
+M-2022-44,P-68218,Nico,Williams,2002-07-12,12,1,0,0,0,Spain
+M-2022-45,P-21820,Salis,Abdul Samed,2000-03-26,21,0,1,0,0,Ghana
+M-2022-45,P-82956,Daniel,Amartey,1994-12-21,18,0,0,1,0,Ghana
+M-2022-45,P-51990,Lawrence,Ati-Zigi,1996-11-29,1,0,0,0,1,Ghana
+M-2022-45,P-01945,André,Ayew,1989-12-17,10,1,1,0,0,Ghana
+M-2022-45,P-31765,Jordan,Ayew,1991-09-11,9,1,0,0,0,Ghana
+M-2022-45,P-72363,Osman,Bukari,1998-12-13,11,0,1,0,0,Ghana
+M-2022-45,P-62854,Abdul Fatawu,Issahaku,2004-03-08,7,0,1,0,0,Ghana
+M-2022-45,P-23821,Mohammed,Kudus,2000-08-02,20,0,1,0,0,Ghana
+M-2022-45,P-92252,Daniel-Kofi,Kyereh,1996-03-08,8,0,1,0,0,Ghana
+M-2022-45,P-07875,Thomas,Partey,1993-06-13,5,0,1,0,0,Ghana
+M-2022-45,P-94579,Baba,Rahman,1994-07-02,17,0,0,1,0,Ghana
+M-2022-45,P-50142,Mohammed,Salisu,1999-04-17,4,0,0,1,0,Ghana
+M-2022-45,P-36105,Alidu,Seidu,2000-06-04,26,0,0,1,0,Ghana
+M-2022-45,P-14179,Antoine,Semenyo,2000-01-07,25,1,0,0,0,Ghana
+M-2022-45,P-33325,Kamaldeen,Sulemana,2002-02-15,22,0,1,0,0,Ghana
+M-2022-45,P-53967,Iñaki,Williams,1994-06-15,19,1,0,0,0,Ghana
+M-2022-45,P-58791,Rodrigo,Bentancur,1997-06-25,6,0,1,0,0,Uruguay
+M-2022-45,P-24667,Agustín,Canobbio,1998-10-01,24,0,1,0,0,Uruguay
+M-2022-45,P-59138,Edinson,Cavani,1987-02-14,21,1,0,0,0,Uruguay
+M-2022-45,P-20051,Sebastián,Coates,1990-10-07,19,0,0,1,0,Uruguay
+M-2022-45,P-62594,Giorgian,De Arrascaeta,1994-06-01,10,1,1,0,0,Uruguay
+M-2022-45,P-65659,José,Giménez,1995-01-20,2,0,0,1,0,Uruguay
+M-2022-45,P-70671,Maxi,Gómez,1996-08-14,18,1,0,0,0,Uruguay
+M-2022-45,P-18885,Darwin,Núñez,1999-06-24,11,1,0,0,0,Uruguay
+M-2022-45,P-90796,Mathías,Olivera,1997-10-31,16,0,0,1,0,Uruguay
+M-2022-45,P-95062,Facundo,Pellistri,2001-12-20,8,1,0,0,0,Uruguay
+M-2022-45,P-00232,Sergio,Rochet,1993-03-23,23,0,0,0,1,Uruguay
+M-2022-45,P-30486,Luis,Suárez,1987-01-24,9,1,0,0,0,Uruguay
+M-2022-45,P-05174,Federico,Valverde,1998-07-22,15,0,1,0,0,Uruguay
+M-2022-45,P-78932,Guillermo,Varela,1993-03-24,13,0,0,1,0,Uruguay
+M-2022-45,P-46785,Matías,Vecino,1991-08-24,5,0,1,0,0,Uruguay
+M-2022-45,P-86878,Nicolás,de la Cruz,1997-06-01,7,0,1,0,0,Uruguay
+M-2022-46,P-16736,João,Cancelo,1994-05-27,20,0,0,1,0,Portugal
+M-2022-46,P-44689,William,Carvalho,1992-04-07,14,0,1,0,0,Portugal
+M-2022-46,P-54827,Diogo,Costa,1999-09-19,22,0,0,0,1,Portugal
+M-2022-46,P-41603,Diogo,Dalot,1999-03-18,2,0,0,1,0,Portugal
+M-2022-46,P-05304,Ricardo,Horta,1994-09-15,21,1,0,0,0,Portugal
+M-2022-46,P-27349,Rafael,Leão,1999-06-10,15,1,0,0,0,Portugal
+M-2022-46,P-31133,João,Mário,1993-01-19,17,0,1,0,0,Portugal
+M-2022-46,P-22983,Rúben,Neves,1997-03-13,18,0,1,0,0,Portugal
+M-2022-46,P-57759,Matheus,Nunes,1998-08-27,23,0,1,0,0,Portugal
+M-2022-46,P-46583,João,Palhinha,1995-07-09,6,0,1,0,0,Portugal
+M-2022-46,P-81972,not applicable,Pepe,1983-02-26,3,0,0,1,0,Portugal
+M-2022-46,P-70442,Cristiano,Ronaldo,1985-02-05,7,1,0,0,0,Portugal
+M-2022-46,P-33280,André,Silva,1995-11-06,9,1,0,0,0,Portugal
+M-2022-46,P-05289,António,Silva,2003-10-30,24,0,0,1,0,Portugal
+M-2022-46,P-34205,Bernardo,Silva,1994-08-10,10,1,1,0,0,Portugal
+M-2022-46,P-89266,not applicable,Vitinha,2000-02-13,16,0,1,0,0,Portugal
+M-2022-46,P-87169,Cho,Gue-sung,1998-01-25,9,1,0,0,0,South Korea
+M-2022-46,P-58692,Hee-chan,Hwang,1996-01-26,11,1,1,0,0,South Korea
+M-2022-46,P-67516,Hwang,In-beom,1996-09-20,6,0,1,0,0,South Korea
+M-2022-46,P-82889,Kim,Jin-su,1992-06-13,3,0,0,1,0,South Korea
+M-2022-46,P-61172,Son,Jun-ho,1992-05-12,13,0,1,0,0,South Korea
+M-2022-46,P-64292,Woo-young,Jung,1989-12-14,5,0,1,0,0,South Korea
+M-2022-46,P-87514,Lee,Kang-in,2001-02-19,18,0,1,0,0,South Korea
+M-2022-46,P-42523,Seung-gyu,Kim,1990-09-30,1,0,0,0,1,South Korea
+M-2022-46,P-07259,Young-gwon,Kim,1990-02-27,19,0,0,1,0,South Korea
+M-2022-46,P-57511,Kwon,Kyung-won,1992-01-31,20,0,0,1,0,South Korea
+M-2022-46,P-93920,Jae-sung,Lee,1992-08-10,10,0,1,0,0,South Korea
+M-2022-46,P-07233,Kim,Moon-hwan,1995-08-01,15,0,0,1,0,South Korea
+M-2022-46,P-77335,Heung-min,Son,1992-07-08,7,1,1,0,0,South Korea
+M-2022-46,P-92710,Hwang,Ui-jo,1992-08-28,16,1,0,0,0,South Korea
+M-2022-46,P-05917,Cho,Yu-min,1996-11-17,24,0,0,1,0,South Korea
+M-2022-47,P-09441,Dani,Alves,1983-05-06,13,0,0,1,0,Brazil
+M-2022-47,P-37860,not applicable,Antony,2000-02-24,19,1,0,0,0,Brazil
+M-2022-47,P-14060,not applicable,Bremer,1997-03-18,24,0,0,1,0,Brazil
+M-2022-47,P-89248,not applicable,Ederson,1993-08-17,23,0,0,0,1,Brazil
+M-2022-47,P-77071,not applicable,Fabinho,1993-10-23,15,0,1,0,0,Brazil
+M-2022-47,P-74941,not applicable,Fred,1993-03-05,8,0,1,0,0,Brazil
+M-2022-47,P-74688,Bruno,Guimarães,1997-11-16,17,0,1,0,0,Brazil
+M-2022-47,P-92004,Gabriel,Jesus,1997-04-03,18,1,0,0,0,Brazil
+M-2022-47,P-76060,not applicable,Marquinhos,1994-05-14,4,0,0,1,0,Brazil
+M-2022-47,P-70483,Gabriel,Martinelli,2001-06-18,26,1,0,0,0,Brazil
+M-2022-47,P-55590,Éder,Militão,1998-01-18,14,0,0,1,0,Brazil
+M-2022-47,P-15197,not applicable,Pedro,1997-06-20,25,1,0,0,0,Brazil
+M-2022-47,P-83169,not applicable,Raphinha,1996-12-14,11,1,0,0,0,Brazil
+M-2022-47,P-42740,Éverton,Ribeiro,1989-04-10,22,0,1,0,0,Brazil
+M-2022-47,P-06446,not applicable,Rodrygo,2001-01-09,21,1,0,0,0,Brazil
+M-2022-47,P-26953,Alex,Telles,1992-12-15,16,0,0,1,0,Brazil
+M-2022-47,P-53452,Vincent,Aboubakar,1992-01-22,10,1,0,0,0,Cameroon
+M-2022-47,P-06117,Eric Maxim,Choupo-Moting,1989-03-23,13,1,0,0,0,Cameroon
+M-2022-47,P-02759,Enzo,Ebosse,1999-03-11,24,0,0,1,0,Cameroon
+M-2022-47,P-70357,Devis,Epassy,1993-02-02,16,0,0,0,1,Cameroon
+M-2022-47,P-47677,Collins,Fai,1992-08-13,19,0,0,1,0,Cameroon
+M-2022-47,P-29115,Pierre,Kunde,1995-07-26,15,0,1,0,0,Cameroon
+M-2022-47,P-39394,Bryan,Mbeumo,1999-08-07,20,1,0,0,0,Cameroon
+M-2022-47,P-27913,Moumi,Ngamaleu,1994-07-09,6,1,0,0,0,Cameroon
+M-2022-47,P-32773,Jerome,Ngom Mbekeli,1998-09-30,2,0,0,1,0,Cameroon
+M-2022-47,P-62618,Olivier,Ntcham,1996-02-09,22,0,1,0,0,Cameroon
+M-2022-47,P-20259,Karl,Toko Ekambi,1992-09-14,12,1,0,0,0,Cameroon
+M-2022-47,P-55367,Nouhou,Tolo,1997-06-23,25,0,0,1,0,Cameroon
+M-2022-47,P-74894,Christopher,Wooh,2001-09-18,4,0,0,1,0,Cameroon
+M-2022-47,P-38355,André-Frank,Zambo Anguissa,1995-11-16,8,0,1,0,0,Cameroon
+M-2022-48,P-24610,Nemanja,Gudelj,1991-11-16,8,0,1,0,0,Serbia
+M-2022-48,P-62033,Luka,Jovic,1997-12-23,11,1,0,0,0,Serbia
+M-2022-48,P-80738,Filip,Kostic,1992-11-01,17,0,1,0,0,Serbia
+M-2022-48,P-78056,Saša,Lukic,1996-08-13,16,0,1,0,0,Serbia
+M-2022-48,P-89598,Nemanja,Maksimovic,1995-01-26,6,0,1,0,0,Serbia
+M-2022-48,P-57535,Nikola,Milenkovic,1997-10-12,4,0,0,1,0,Serbia
+M-2022-48,P-27744,Sergej,Milinkovic-Savic,1995-02-27,20,0,1,0,0,Serbia
+M-2022-48,P-24245,Vanja,Milinkovic-Savic,1997-02-20,23,0,0,0,1,Serbia
+M-2022-48,P-85696,Aleksandar,Mitrovic,1994-09-16,9,1,0,0,0,Serbia
+M-2022-48,P-98435,Strahinja,Pavlovic,2001-05-24,2,0,0,1,0,Serbia
+M-2022-48,P-79900,Nemanja,Radonjic,1996-02-15,7,1,0,0,0,Serbia
+M-2022-48,P-33390,Dušan,Tadic,1988-11-20,10,1,1,0,0,Serbia
+M-2022-48,P-30283,Miloš,Veljkovic,1995-09-26,5,0,0,1,0,Serbia
+M-2022-48,P-63293,Dušan,Vlahovic,2000-01-28,18,1,0,0,0,Serbia
+M-2022-48,P-79754,Filip,Ðuricic,1992-01-30,21,1,0,0,0,Serbia
+M-2022-48,P-58363,Andrija,Živkovic,1996-07-11,14,0,1,0,0,Serbia
+M-2022-48,P-23925,Manuel,Akanji,1995-07-19,5,0,0,1,0,Switzerland
+M-2022-48,P-19075,Breel,Embolo,1997-02-14,7,1,0,0,0,Switzerland
+M-2022-48,P-71875,Christian,Fassnacht,1993-11-11,16,0,1,0,0,Switzerland
+M-2022-48,P-29932,Edimilson,Fernandes,1996-04-15,2,0,0,1,0,Switzerland
+M-2022-48,P-68060,Remo,Freuler,1992-04-15,8,0,1,0,0,Switzerland
+M-2022-48,P-06076,Gregor,Kobel,1997-12-06,21,0,0,0,1,Switzerland
+M-2022-48,P-85577,Noah,Okafor,2000-05-24,19,1,0,0,0,Switzerland
+M-2022-48,P-43367,Ricardo,Rodríguez,1992-08-25,13,0,0,1,0,Switzerland
+M-2022-48,P-25131,Fabian,Schär,1991-12-20,22,0,0,1,0,Switzerland
+M-2022-48,P-39460,Xherdan,Shaqiri,1991-10-10,23,0,1,0,0,Switzerland
+M-2022-48,P-11878,Djibril,Sow,1997-02-06,15,0,1,0,0,Switzerland
+M-2022-48,P-85823,Ruben,Vargas,1998-08-05,17,1,0,0,0,Switzerland
+M-2022-48,P-38927,Silvan,Widmer,1993-03-05,3,0,0,1,0,Switzerland
+M-2022-48,P-77224,Granit,Xhaka,1992-09-27,10,0,1,0,0,Switzerland
+M-2022-48,P-83560,Denis,Zakaria,1996-11-20,6,0,1,0,0,Switzerland
+M-2022-49,P-64438,Nathan,Aké,1995-02-18,5,0,0,1,0,Netherlands
+M-2022-49,P-44799,Steven,Bergwijn,1997-10-08,7,1,0,0,0,Netherlands
+M-2022-49,P-39861,Daley,Blind,1990-03-09,17,0,0,1,0,Netherlands
+M-2022-49,P-27540,Memphis,Depay,1994-02-13,10,1,0,0,0,Netherlands
+M-2022-49,P-97615,Denzel,Dumfries,1996-04-18,22,0,0,1,0,Netherlands
+M-2022-49,P-28911,Cody,Gakpo,1999-05-07,8,1,0,0,0,Netherlands
+M-2022-49,P-42078,Davy,Klaassen,1993-02-21,14,0,1,0,0,Netherlands
+M-2022-49,P-35705,Teun,Koopmeiners,1998-02-28,20,0,1,0,0,Netherlands
+M-2022-49,P-82000,Andries,Noppert,1994-04-07,23,0,0,0,1,Netherlands
+M-2022-49,P-34458,Xavi,Simons,2003-04-21,25,0,1,0,0,Netherlands
+M-2022-49,P-74111,Jurriën,Timber,2001-06-17,2,0,0,1,0,Netherlands
+M-2022-49,P-95036,Wout,Weghorst,1992-08-07,19,1,0,0,0,Netherlands
+M-2022-49,P-17688,Frenkie,de Jong,1997-05-12,21,0,1,0,0,Netherlands
+M-2022-49,P-73572,Matthijs,de Ligt,1999-08-12,3,0,0,1,0,Netherlands
+M-2022-49,P-55965,Marten,de Roon,1991-03-29,15,0,1,0,0,Netherlands
+M-2022-49,P-56029,Virgil,van Dijk,1991-07-08,4,0,0,1,0,Netherlands
+M-2022-49,P-03484,Brenden,Aaronson,2000-10-22,11,1,0,0,0,United States
+M-2022-49,P-14151,Tyler,Adams,1999-02-14,4,0,1,0,0,United States
+M-2022-49,P-89452,Sergiño,Dest,2000-11-03,2,0,0,1,0,United States
+M-2022-49,P-34132,Jesús,Ferreira,2000-12-24,9,1,0,0,0,United States
+M-2022-49,P-68952,Weston,McKennie,1998-08-28,8,0,1,0,0,United States
+M-2022-49,P-77402,Jordan,Morris,1994-10-26,16,1,0,0,0,United States
+M-2022-49,P-59571,Yunus,Musah,2002-11-29,6,0,1,0,0,United States
+M-2022-49,P-11737,Christian,Pulisic,1998-09-18,10,1,0,0,0,United States
+M-2022-49,P-26367,Tim,Ream,1987-10-05,13,0,0,1,0,United States
+M-2022-49,P-85878,Giovanni,Reyna,2002-11-13,7,1,0,0,0,United States
+M-2022-49,P-70867,Antonee,Robinson,1997-08-08,5,0,0,1,0,United States
+M-2022-49,P-48903,Matt,Turner,1994-06-24,1,0,0,0,1,United States
+M-2022-49,P-30252,Timothy,Weah,2000-02-22,21,1,0,0,0,United States
+M-2022-49,P-68131,Haji,Wright,1998-03-27,19,1,0,0,0,United States
+M-2022-49,P-95273,DeAndre,Yedlin,1993-07-09,22,0,0,1,0,United States
+M-2022-49,P-57029,Walker,Zimmerman,1993-05-19,3,0,0,1,0,United States
+M-2022-50,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-50,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-50,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-50,P-10231,Papu,Gómez,1988-02-15,17,0,1,0,0,Argentina
+M-2022-50,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-50,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-50,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-50,P-23070,Lisandro,Martínez,1998-01-18,25,0,0,1,0,Argentina
+M-2022-50,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-50,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-50,P-91431,Gonzalo,Montiel,1997-01-01,4,0,0,1,0,Argentina
+M-2022-50,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-50,P-40147,Exequiel,Palacios,1998-10-05,14,0,1,0,0,Argentina
+M-2022-50,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-50,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-50,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-50,P-27035,Keanu,Baccus,1998-06-07,26,0,1,0,0,Australia
+M-2022-50,P-51118,Aziz,Behich,1990-12-16,16,0,0,1,0,Australia
+M-2022-50,P-59727,Miloš,Degenek,1994-04-28,2,0,0,1,0,Australia
+M-2022-50,P-91029,Mitchell,Duke,1991-01-18,15,1,0,0,0,Australia
+M-2022-50,P-82010,Craig,Goodwin,1991-12-16,23,1,0,0,0,Australia
+M-2022-50,P-82945,Ajdin,Hrustic,1996-07-05,10,0,1,0,0,Australia
+M-2022-50,P-34822,Jackson,Irvine,1993-03-07,22,0,1,0,0,Australia
+M-2022-50,P-24134,Fran,Karacic,1996-05-12,5,0,0,1,0,Australia
+M-2022-50,P-05864,Garang,Kuol,2004-09-15,21,1,0,0,0,Australia
+M-2022-50,P-35837,Mathew,Leckie,1991-02-04,7,1,0,0,0,Australia
+M-2022-50,P-20087,Jamie,Maclaren,1993-07-29,9,1,0,0,0,Australia
+M-2022-50,P-51406,Riley,McGree,1998-11-02,14,0,1,0,0,Australia
+M-2022-50,P-95847,Aaron,Mooy,1990-09-15,13,0,1,0,0,Australia
+M-2022-50,P-88273,Kye,Rowles,1998-06-24,4,0,0,1,0,Australia
+M-2022-50,P-10244,Mathew,Ryan,1992-04-08,1,0,0,0,1,Australia
+M-2022-50,P-89217,Harry,Souttar,1998-10-22,19,0,0,1,0,Australia
+M-2022-51,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-51,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-51,P-91324,Axel,Disasi,1998-03-11,3,0,0,1,0,France
+M-2022-51,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-51,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-51,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-51,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-51,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-51,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-51,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-51,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-51,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-51,P-13613,Marcus,Thuram,1997-08-06,26,1,0,0,0,France
+M-2022-51,P-03945,Dayot,Upamecano,1998-10-27,18,0,0,1,0,France
+M-2022-51,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
+M-2022-51,P-10172,Jan,Bednarek,1996-04-12,5,0,0,1,0,Poland
+M-2022-51,P-42160,Bartosz,Bereszynski,1992-07-12,18,0,0,1,0,Poland
+M-2022-51,P-14593,Krystian,Bielik,1998-01-04,6,0,1,0,0,Poland
+M-2022-51,P-17099,Matty,Cash,1997-08-07,2,0,0,1,0,Poland
+M-2022-51,P-23437,Przemyslaw,Frankowski,1995-04-12,24,0,1,0,0,Poland
+M-2022-51,P-29046,Kamil,Glik,1988-02-03,15,0,0,1,0,Poland
+M-2022-51,P-64261,Kamil,Grosicki,1988-06-08,11,0,1,0,0,Poland
+M-2022-51,P-83610,Jakub,Kaminski,2002-06-05,13,0,1,0,0,Poland
+M-2022-51,P-44780,Jakub,Kiwior,2000-02-15,14,0,0,1,0,Poland
+M-2022-51,P-45449,Grzegorz,Krychowiak,1990-01-29,10,0,1,0,0,Poland
+M-2022-51,P-00549,Robert,Lewandowski,1988-08-21,9,1,0,0,0,Poland
+M-2022-51,P-12381,Arkadiusz,Milik,1994-02-28,7,1,0,0,0,Poland
+M-2022-51,P-31606,Wojciech,Szczesny,1990-04-18,1,0,0,0,1,Poland
+M-2022-51,P-65512,Sebastian,Szymanski,1999-05-10,19,0,1,0,0,Poland
+M-2022-51,P-40498,Nicola,Zalewski,2002-01-23,21,0,1,0,0,Poland
+M-2022-51,P-32165,Piotr,Zielinski,1994-05-20,20,0,1,0,0,Poland
+M-2022-52,P-15674,Jude,Bellingham,2003-06-29,22,0,1,0,0,England
+M-2022-52,P-31219,Eric,Dier,1994-01-15,15,0,1,1,0,England
+M-2022-52,P-10501,Phil,Foden,2000-05-28,20,0,1,0,0,England
+M-2022-52,P-21153,Jack,Grealish,1995-09-10,7,1,0,0,0,England
+M-2022-52,P-08169,Jordan,Henderson,1990-06-17,8,0,1,0,0,England
+M-2022-52,P-58924,Harry,Kane,1993-07-28,9,1,0,0,0,England
+M-2022-52,P-02465,Harry,Maguire,1993-03-05,6,0,0,1,0,England
+M-2022-52,P-90012,Mason,Mount,1999-01-10,19,0,1,0,0,England
+M-2022-52,P-43567,Kalvin,Phillips,1995-12-02,14,0,1,0,0,England
+M-2022-52,P-70618,Jordan,Pickford,1994-03-07,1,0,0,0,1,England
+M-2022-52,P-59837,Marcus,Rashford,1997-10-31,11,1,0,0,0,England
+M-2022-52,P-84787,Declan,Rice,1999-01-14,4,0,1,0,0,England
+M-2022-52,P-76842,Bukayo,Saka,2001-09-05,17,1,0,0,0,England
+M-2022-52,P-36400,Luke,Shaw,1995-07-12,3,0,0,1,0,England
+M-2022-52,P-92628,John,Stones,1994-05-28,5,0,0,1,0,England
+M-2022-52,P-74071,Kyle,Walker,1990-05-28,2,0,0,1,0,England
+M-2022-52,P-86095,Fodé,Ballo-Touré,1997-01-03,12,0,0,1,0,Senegal
+M-2022-52,P-61416,Pathé,Ciss,1994-03-16,11,0,1,0,0,Senegal
+M-2022-52,P-33622,Boulaye,Dia,1996-11-16,9,1,0,0,0,Senegal
+M-2022-52,P-77769,Abdou,Diallo,1996-05-04,22,0,0,1,0,Senegal
+M-2022-52,P-09292,Krépin,Diatta,1999-02-25,15,0,1,0,0,Senegal
+M-2022-52,P-88928,Bamba,Dieng,2000-03-23,20,1,0,0,0,Senegal
+M-2022-52,P-27280,Famara,Diédhiou,1992-12-15,19,1,0,0,0,Senegal
+M-2022-52,P-45280,Pape,Gueye,1999-01-24,26,0,1,0,0,Senegal
+M-2022-52,P-54506,Ismail,Jakobs,1999-08-17,14,0,0,1,0,Senegal
+M-2022-52,P-47321,Kalidou,Koulibaly,1991-06-20,3,0,0,1,0,Senegal
+M-2022-52,P-96697,Nampalys,Mendy,1992-06-23,6,0,1,0,0,Senegal
+M-2022-52,P-45399,Édouard,Mendy,1992-03-01,16,0,0,0,1,Senegal
+M-2022-52,P-33958,Iliman,Ndiaye,2000-03-06,13,1,0,0,0,Senegal
+M-2022-52,P-55298,Youssouf,Sabaly,1993-03-05,21,0,0,1,0,Senegal
+M-2022-52,P-37935,Ismaïla,Sarr,1998-02-25,18,1,0,0,0,Senegal
+M-2022-52,P-76835,Pape Matar,Sarr,2002-09-14,17,0,1,0,0,Senegal
+M-2022-53,P-95766,Borna,Barišic,1992-11-10,3,0,0,1,0,Croatia
+M-2022-53,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-53,P-99461,Ante,Budimir,1991-07-22,17,1,0,0,0,Croatia
+M-2022-53,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-53,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-53,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-53,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-53,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-53,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-53,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-53,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-53,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-53,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-53,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-53,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-53,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-53,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-53,P-46913,Takuma,Asano,1994-11-10,18,1,0,0,0,Japan
+M-2022-53,P-58907,Ritsu,Doan,1998-06-16,8,0,1,0,0,Japan
+M-2022-53,P-53282,Wataru,Endo,1993-02-09,6,0,1,1,0,Japan
+M-2022-53,P-66906,Shuichi,Gonda,1989-03-03,12,0,0,0,1,Japan
+M-2022-53,P-86909,Junya,Ito,1993-03-09,14,0,1,0,0,Japan
+M-2022-53,P-62952,Daichi,Kamada,1996-08-05,15,0,1,0,0,Japan
+M-2022-53,P-30206,Daizen,Maeda,1997-10-20,25,1,0,0,0,Japan
+M-2022-53,P-05559,Takumi,Minamino,1995-01-16,10,0,1,0,0,Japan
+M-2022-53,P-22633,Kaoru,Mitoma,1997-05-20,9,0,1,0,0,Japan
+M-2022-53,P-75751,Hidemasa,Morita,1995-05-10,13,0,1,0,0,Japan
+M-2022-53,P-26303,Yuto,Nagatomo,1986-09-12,5,0,0,1,0,Japan
+M-2022-53,P-56398,Hiroki,Sakai,1990-04-12,19,0,0,1,0,Japan
+M-2022-53,P-82447,Ao,Tanaka,1998-09-10,17,0,1,0,0,Japan
+M-2022-53,P-77382,Shogo,Taniguchi,1991-07-15,3,0,0,1,0,Japan
+M-2022-53,P-68429,Takehiro,Tomiyasu,1998-11-05,16,0,0,1,0,Japan
+M-2022-53,P-89321,Maya,Yoshida,1988-08-24,22,0,0,1,0,Japan
+M-2022-54,P-21531,not applicable,Alisson,1992-10-02,1,0,0,0,1,Brazil
+M-2022-54,P-09441,Dani,Alves,1983-05-06,13,0,0,1,0,Brazil
+M-2022-54,P-14060,not applicable,Bremer,1997-03-18,24,0,0,1,0,Brazil
+M-2022-54,P-02305,not applicable,Casemiro,1992-02-23,5,0,1,0,0,Brazil
+M-2022-54,P-40137,not applicable,Danilo,1991-07-15,2,0,0,1,0,Brazil
+M-2022-54,P-92812,Vinícius,Júnior,2000-07-12,20,1,0,0,0,Brazil
+M-2022-54,P-76060,not applicable,Marquinhos,1994-05-14,4,0,0,1,0,Brazil
+M-2022-54,P-70483,Gabriel,Martinelli,2001-06-18,26,1,0,0,0,Brazil
+M-2022-54,P-55590,Éder,Militão,1998-01-18,14,0,0,1,0,Brazil
+M-2022-54,P-87008,not applicable,Neymar,1992-02-05,10,1,0,0,0,Brazil
+M-2022-54,P-05164,Lucas,Paquetá,1997-08-27,7,0,1,0,0,Brazil
+M-2022-54,P-83169,not applicable,Raphinha,1996-12-14,11,1,0,0,0,Brazil
+M-2022-54,P-68016,not applicable,Richarlison,1997-05-10,9,1,0,0,0,Brazil
+M-2022-54,P-06446,not applicable,Rodrygo,2001-01-09,21,1,0,0,0,Brazil
+M-2022-54,P-32798,Thiago,Silva,1984-09-22,3,0,0,1,0,Brazil
+M-2022-54,P-66020,not applicable,Weverton,1987-12-13,12,0,0,0,1,Brazil
+M-2022-54,P-87169,Cho,Gue-sung,1998-01-25,9,1,0,0,0,South Korea
+M-2022-54,P-91889,Chul,Hong,1990-09-17,14,0,0,1,0,South Korea
+M-2022-54,P-58692,Hee-chan,Hwang,1996-01-26,11,1,1,0,0,South Korea
+M-2022-54,P-67516,Hwang,In-beom,1996-09-20,6,0,1,0,0,South Korea
+M-2022-54,P-82889,Kim,Jin-su,1992-06-13,3,0,0,1,0,South Korea
+M-2022-54,P-61172,Son,Jun-ho,1992-05-12,13,0,1,0,0,South Korea
+M-2022-54,P-64292,Woo-young,Jung,1989-12-14,5,0,1,0,0,South Korea
+M-2022-54,P-87514,Lee,Kang-in,2001-02-19,18,0,1,0,0,South Korea
+M-2022-54,P-42523,Seung-gyu,Kim,1990-09-30,1,0,0,0,1,South Korea
+M-2022-54,P-07259,Young-gwon,Kim,1990-02-27,19,0,0,1,0,South Korea
+M-2022-54,P-93920,Jae-sung,Lee,1992-08-10,10,0,1,0,0,South Korea
+M-2022-54,P-14360,Kim,Min-jae,1996-11-15,4,0,0,1,0,South Korea
+M-2022-54,P-07233,Kim,Moon-hwan,1995-08-01,15,0,0,1,0,South Korea
+M-2022-54,P-32599,Paik,Seung-ho,1997-03-17,8,0,1,0,0,South Korea
+M-2022-54,P-77335,Heung-min,Son,1992-07-08,7,1,1,0,0,South Korea
+M-2022-54,P-92710,Hwang,Ui-jo,1992-08-28,16,1,0,0,0,South Korea
+M-2022-55,P-47490,Nayef,Aguerd,1996-03-30,5,0,0,1,0,Morocco
+M-2022-55,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-55,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-55,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-55,P-00597,Badr,Benoun,1993-09-30,24,0,0,1,0,Morocco
+M-2022-55,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-55,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-55,P-05216,Walid,Cheddira,1998-01-22,21,1,0,0,0,Morocco
+M-2022-55,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-55,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-55,P-21052,Abde,Ezzalzouli,2001-12-17,16,1,0,0,0,Morocco
+M-2022-55,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-55,P-09614,Noussair,Mazraoui,1997-11-14,3,0,0,1,0,Morocco
+M-2022-55,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-55,P-05265,Abdelhamid,Sabiri,1996-11-28,11,1,0,0,0,Morocco
+M-2022-55,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-55,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-55,P-01416,Jordi,Alba,1989-03-21,18,0,0,1,0,Spain
+M-2022-55,P-09400,Marco,Asensio,1996-01-21,10,1,1,0,0,Spain
+M-2022-55,P-49008,Alejandro,Balde,2003-10-18,14,0,0,1,0,Spain
+M-2022-55,P-28010,Sergio,Busquets,1988-07-16,5,0,1,0,0,Spain
+M-2022-55,P-33854,Ansu,Fati,2002-10-31,25,1,0,0,0,Spain
+M-2022-55,P-88433,not applicable,Gavi,2004-08-05,9,0,1,0,0,Spain
+M-2022-55,P-99025,Aymeric,Laporte,1994-05-27,24,0,0,1,0,Spain
+M-2022-55,P-86871,Marcos,Llorente,1995-01-30,6,0,1,0,0,Spain
+M-2022-55,P-29274,Álvaro,Morata,1992-10-23,7,1,0,0,0,Spain
+M-2022-55,P-40007,Dani,Olmo,1998-05-07,21,1,0,0,0,Spain
+M-2022-55,P-24897,not applicable,Pedri,2002-11-25,26,0,1,0,0,Spain
+M-2022-55,P-62341,not applicable,Rodri,1996-06-22,16,0,1,0,0,Spain
+M-2022-55,P-81427,Pablo,Sarabia,1992-05-11,22,1,0,0,0,Spain
+M-2022-55,P-94271,Unai,Simón,1997-06-11,23,0,0,0,1,Spain
+M-2022-55,P-30405,Carlos,Soler,1997-01-02,19,0,1,0,0,Spain
+M-2022-55,P-31301,Ferran,Torres,2000-02-29,11,1,0,0,0,Spain
+M-2022-55,P-68218,Nico,Williams,2002-07-12,12,1,0,0,0,Spain
+M-2022-56,P-44689,William,Carvalho,1992-04-07,14,0,1,0,0,Portugal
+M-2022-56,P-54827,Diogo,Costa,1999-09-19,22,0,0,0,1,Portugal
+M-2022-56,P-41603,Diogo,Dalot,1999-03-18,2,0,0,1,0,Portugal
+M-2022-56,P-10712,Rúben,Dias,1997-05-14,4,0,0,1,0,Portugal
+M-2022-56,P-39584,Bruno,Fernandes,1994-09-08,8,0,1,0,0,Portugal
+M-2022-56,P-17931,João,Félix,1999-11-10,11,1,0,0,0,Portugal
+M-2022-56,P-67578,Raphaël,Guerreiro,1993-12-22,5,0,0,1,0,Portugal
+M-2022-56,P-05304,Ricardo,Horta,1994-09-15,21,1,0,0,0,Portugal
+M-2022-56,P-27349,Rafael,Leão,1999-06-10,15,1,0,0,0,Portugal
+M-2022-56,P-22983,Rúben,Neves,1997-03-13,18,0,1,0,0,Portugal
+M-2022-56,P-78787,not applicable,Otávio,1995-02-09,25,0,1,0,0,Portugal
+M-2022-56,P-81972,not applicable,Pepe,1983-02-26,3,0,0,1,0,Portugal
+M-2022-56,P-41647,Gonçalo,Ramos,2001-06-20,26,1,0,0,0,Portugal
+M-2022-56,P-70442,Cristiano,Ronaldo,1985-02-05,7,1,0,0,0,Portugal
+M-2022-56,P-34205,Bernardo,Silva,1994-08-10,10,1,1,0,0,Portugal
+M-2022-56,P-89266,not applicable,Vitinha,2000-02-13,16,0,1,0,0,Portugal
+M-2022-56,P-23925,Manuel,Akanji,1995-07-19,5,0,0,1,0,Switzerland
+M-2022-56,P-56868,Eray,Cömert,1998-02-04,18,0,0,1,0,Switzerland
+M-2022-56,P-19075,Breel,Embolo,1997-02-14,7,1,0,0,0,Switzerland
+M-2022-56,P-29932,Edimilson,Fernandes,1996-04-15,2,0,0,1,0,Switzerland
+M-2022-56,P-68060,Remo,Freuler,1992-04-15,8,0,1,0,0,Switzerland
+M-2022-56,P-17496,Ardon,Jashari,2002-07-30,26,0,1,0,0,Switzerland
+M-2022-56,P-85577,Noah,Okafor,2000-05-24,19,1,0,0,0,Switzerland
+M-2022-56,P-43367,Ricardo,Rodríguez,1992-08-25,13,0,0,1,0,Switzerland
+M-2022-56,P-25131,Fabian,Schär,1991-12-20,22,0,0,1,0,Switzerland
+M-2022-56,P-07180,Haris,Seferovic,1992-02-22,9,1,0,0,0,Switzerland
+M-2022-56,P-39460,Xherdan,Shaqiri,1991-10-10,23,0,1,0,0,Switzerland
+M-2022-56,P-63312,Yann,Sommer,1988-12-17,1,0,0,0,1,Switzerland
+M-2022-56,P-11878,Djibril,Sow,1997-02-06,15,0,1,0,0,Switzerland
+M-2022-56,P-85823,Ruben,Vargas,1998-08-05,17,1,0,0,0,Switzerland
+M-2022-56,P-77224,Granit,Xhaka,1992-09-27,10,0,1,0,0,Switzerland
+M-2022-56,P-83560,Denis,Zakaria,1996-11-20,6,0,1,0,0,Switzerland
+M-2022-57,P-21531,not applicable,Alisson,1992-10-02,1,0,0,0,1,Brazil
+M-2022-57,P-37860,not applicable,Antony,2000-02-24,19,1,0,0,0,Brazil
+M-2022-57,P-02305,not applicable,Casemiro,1992-02-23,5,0,1,0,0,Brazil
+M-2022-57,P-40137,not applicable,Danilo,1991-07-15,2,0,0,1,0,Brazil
+M-2022-57,P-74941,not applicable,Fred,1993-03-05,8,0,1,0,0,Brazil
+M-2022-57,P-92812,Vinícius,Júnior,2000-07-12,20,1,0,0,0,Brazil
+M-2022-57,P-76060,not applicable,Marquinhos,1994-05-14,4,0,0,1,0,Brazil
+M-2022-57,P-55590,Éder,Militão,1998-01-18,14,0,0,1,0,Brazil
+M-2022-57,P-87008,not applicable,Neymar,1992-02-05,10,1,0,0,0,Brazil
+M-2022-57,P-05164,Lucas,Paquetá,1997-08-27,7,0,1,0,0,Brazil
+M-2022-57,P-15197,not applicable,Pedro,1997-06-20,25,1,0,0,0,Brazil
+M-2022-57,P-83169,not applicable,Raphinha,1996-12-14,11,1,0,0,0,Brazil
+M-2022-57,P-68016,not applicable,Richarlison,1997-05-10,9,1,0,0,0,Brazil
+M-2022-57,P-06446,not applicable,Rodrygo,2001-01-09,21,1,0,0,0,Brazil
+M-2022-57,P-97698,Alex,Sandro,1991-01-26,6,0,0,1,0,Brazil
+M-2022-57,P-32798,Thiago,Silva,1984-09-22,3,0,0,1,0,Brazil
+M-2022-57,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-57,P-99461,Ante,Budimir,1991-07-22,17,1,0,0,0,Croatia
+M-2022-57,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-57,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-57,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-57,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-57,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-57,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-57,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-57,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-57,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-57,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-57,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-57,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-57,P-84190,Borna,Sosa,1998-01-21,19,0,0,1,0,Croatia
+M-2022-57,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-58,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-58,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-58,P-42113,Ángel,Di María,1988-02-14,11,1,1,0,0,Argentina
+M-2022-58,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-58,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-58,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-58,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-58,P-23070,Lisandro,Martínez,1998-01-18,25,0,0,1,0,Argentina
+M-2022-58,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-58,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-58,P-91431,Gonzalo,Montiel,1997-01-01,4,0,0,1,0,Argentina
+M-2022-58,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-58,P-27582,Leandro,Paredes,1994-06-29,5,0,1,0,0,Argentina
+M-2022-58,P-29298,Germán,Pezzella,1991-06-27,6,0,0,1,0,Argentina
+M-2022-58,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-58,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-58,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-58,P-64438,Nathan,Aké,1995-02-18,5,0,0,1,0,Netherlands
+M-2022-58,P-10326,Steven,Berghuis,1991-12-19,11,0,1,0,0,Netherlands
+M-2022-58,P-44799,Steven,Bergwijn,1997-10-08,7,1,0,0,0,Netherlands
+M-2022-58,P-39861,Daley,Blind,1990-03-09,17,0,0,1,0,Netherlands
+M-2022-58,P-27540,Memphis,Depay,1994-02-13,10,1,0,0,0,Netherlands
+M-2022-58,P-97615,Denzel,Dumfries,1996-04-18,22,0,0,1,0,Netherlands
+M-2022-58,P-28911,Cody,Gakpo,1999-05-07,8,1,0,0,0,Netherlands
+M-2022-58,P-35705,Teun,Koopmeiners,1998-02-28,20,0,1,0,0,Netherlands
+M-2022-58,P-57903,Noa,Lang,1999-06-17,12,1,0,0,0,Netherlands
+M-2022-58,P-82000,Andries,Noppert,1994-04-07,23,0,0,0,1,Netherlands
+M-2022-58,P-74111,Jurriën,Timber,2001-06-17,2,0,0,1,0,Netherlands
+M-2022-58,P-95036,Wout,Weghorst,1992-08-07,19,1,0,0,0,Netherlands
+M-2022-58,P-17688,Frenkie,de Jong,1997-05-12,21,0,1,0,0,Netherlands
+M-2022-58,P-64551,Luuk,de Jong,1990-08-27,9,1,0,0,0,Netherlands
+M-2022-58,P-55965,Marten,de Roon,1991-03-29,15,0,1,0,0,Netherlands
+M-2022-58,P-56029,Virgil,van Dijk,1991-07-08,4,0,0,1,0,Netherlands
+M-2022-59,P-48295,Zakaria,Aboukhlal,2000-02-18,14,0,1,0,0,Morocco
+M-2022-59,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-59,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-59,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-59,P-00597,Badr,Benoun,1993-09-30,24,0,0,1,0,Morocco
+M-2022-59,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-59,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-59,P-05216,Walid,Cheddira,1998-01-22,21,1,0,0,0,Morocco
+M-2022-59,P-52013,Achraf,Dari,1999-05-06,20,0,0,1,0,Morocco
+M-2022-59,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-59,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-59,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-59,P-86644,Yahya,Jabrane,1991-06-18,26,0,1,0,0,Morocco
+M-2022-59,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-59,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-59,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-59,P-16736,João,Cancelo,1994-05-27,20,0,0,1,0,Portugal
+M-2022-59,P-54827,Diogo,Costa,1999-09-19,22,0,0,0,1,Portugal
+M-2022-59,P-41603,Diogo,Dalot,1999-03-18,2,0,0,1,0,Portugal
+M-2022-59,P-10712,Rúben,Dias,1997-05-14,4,0,0,1,0,Portugal
+M-2022-59,P-39584,Bruno,Fernandes,1994-09-08,8,0,1,0,0,Portugal
+M-2022-59,P-17931,João,Félix,1999-11-10,11,1,0,0,0,Portugal
+M-2022-59,P-67578,Raphaël,Guerreiro,1993-12-22,5,0,0,1,0,Portugal
+M-2022-59,P-05304,Ricardo,Horta,1994-09-15,21,1,0,0,0,Portugal
+M-2022-59,P-27349,Rafael,Leão,1999-06-10,15,1,0,0,0,Portugal
+M-2022-59,P-22983,Rúben,Neves,1997-03-13,18,0,1,0,0,Portugal
+M-2022-59,P-78787,not applicable,Otávio,1995-02-09,25,0,1,0,0,Portugal
+M-2022-59,P-81972,not applicable,Pepe,1983-02-26,3,0,0,1,0,Portugal
+M-2022-59,P-41647,Gonçalo,Ramos,2001-06-20,26,1,0,0,0,Portugal
+M-2022-59,P-70442,Cristiano,Ronaldo,1985-02-05,7,1,0,0,0,Portugal
+M-2022-59,P-34205,Bernardo,Silva,1994-08-10,10,1,1,0,0,Portugal
+M-2022-59,P-89266,not applicable,Vitinha,2000-02-13,16,0,1,0,0,Portugal
+M-2022-60,P-15674,Jude,Bellingham,2003-06-29,22,0,1,0,0,England
+M-2022-60,P-10501,Phil,Foden,2000-05-28,20,0,1,0,0,England
+M-2022-60,P-21153,Jack,Grealish,1995-09-10,7,1,0,0,0,England
+M-2022-60,P-08169,Jordan,Henderson,1990-06-17,8,0,1,0,0,England
+M-2022-60,P-58924,Harry,Kane,1993-07-28,9,1,0,0,0,England
+M-2022-60,P-02465,Harry,Maguire,1993-03-05,6,0,0,1,0,England
+M-2022-60,P-90012,Mason,Mount,1999-01-10,19,0,1,0,0,England
+M-2022-60,P-70618,Jordan,Pickford,1994-03-07,1,0,0,0,1,England
+M-2022-60,P-59837,Marcus,Rashford,1997-10-31,11,1,0,0,0,England
+M-2022-60,P-84787,Declan,Rice,1999-01-14,4,0,1,0,0,England
+M-2022-60,P-76842,Bukayo,Saka,2001-09-05,17,1,0,0,0,England
+M-2022-60,P-36400,Luke,Shaw,1995-07-12,3,0,0,1,0,England
+M-2022-60,P-21553,Raheem,Sterling,1994-12-08,10,1,1,0,0,England
+M-2022-60,P-92628,John,Stones,1994-05-28,5,0,0,1,0,England
+M-2022-60,P-74071,Kyle,Walker,1990-05-28,2,0,0,1,0,England
+M-2022-60,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-60,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-60,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-60,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-60,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-60,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-60,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-60,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-60,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-60,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-60,P-03945,Dayot,Upamecano,1998-10-27,18,0,0,1,0,France
+M-2022-60,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
+M-2022-61,P-92353,Ángel,Correa,1995-03-09,15,1,0,0,0,Argentina
+M-2022-61,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-61,P-28151,Paulo,Dybala,1993-11-15,21,1,0,0,0,Argentina
+M-2022-61,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-61,P-00652,Juan,Foyth,1998-01-12,2,0,0,1,0,Argentina
+M-2022-61,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-61,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-61,P-23070,Lisandro,Martínez,1998-01-18,25,0,0,1,0,Argentina
+M-2022-61,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-61,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-61,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-61,P-40147,Exequiel,Palacios,1998-10-05,14,0,1,0,0,Argentina
+M-2022-61,P-27582,Leandro,Paredes,1994-06-29,5,0,1,0,0,Argentina
+M-2022-61,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-61,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-61,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-61,P-79215,Marcelo,Brozovic,1992-11-16,11,0,1,0,0,Croatia
+M-2022-61,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-61,P-16484,Josip,Juranovic,1995-08-16,22,0,0,1,0,Croatia
+M-2022-61,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-61,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-61,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-61,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-61,P-56297,Dejan,Lovren,1989-07-05,6,0,0,1,0,Croatia
+M-2022-61,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-61,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-61,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-61,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-61,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-61,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-61,P-84190,Borna,Sosa,1998-01-21,19,0,0,1,0,Croatia
+M-2022-61,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-62,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-62,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-62,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-62,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-62,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-62,P-92987,Randal,Kolo Muani,1998-12-05,12,1,0,0,0,France
+M-2022-62,P-86920,Ibrahima,Konaté,1999-05-25,24,0,0,1,0,France
+M-2022-62,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-62,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-62,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-62,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-62,P-13613,Marcus,Thuram,1997-08-06,26,1,0,0,0,France
+M-2022-62,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
+M-2022-62,P-48295,Zakaria,Aboukhlal,2000-02-18,14,0,1,0,0,Morocco
+M-2022-62,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-62,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-62,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-62,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-62,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-62,P-52013,Achraf,Dari,1999-05-06,20,0,0,1,0,Morocco
+M-2022-62,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-62,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-62,P-21052,Abde,Ezzalzouli,2001-12-17,16,1,0,0,0,Morocco
+M-2022-62,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-62,P-90423,Abderrazak,Hamdallah,1990-12-17,9,1,0,0,0,Morocco
+M-2022-62,P-09614,Noussair,Mazraoui,1997-11-14,3,0,0,1,0,Morocco
+M-2022-62,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-62,P-26068,Romain,Saïss,1990-03-26,6,0,0,1,0,Morocco
+M-2022-62,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-63,P-58420,Joško,Gvardiol,2002-01-23,20,0,0,1,0,Croatia
+M-2022-63,P-86466,Kristijan,Jakic,1997-05-14,26,0,1,0,0,Croatia
+M-2022-63,P-07670,Mateo,Kovacic,1994-05-06,8,0,1,0,0,Croatia
+M-2022-63,P-65182,Andrej,Kramaric,1991-06-19,9,1,0,0,0,Croatia
+M-2022-63,P-31643,Marko,Livaja,1993-08-26,14,1,0,0,0,Croatia
+M-2022-63,P-99988,Dominik,Livakovic,1995-01-09,1,0,0,0,1,Croatia
+M-2022-63,P-64353,Lovro,Majer,1998-01-17,7,0,1,0,0,Croatia
+M-2022-63,P-29491,Luka,Modric,1985-09-09,10,0,1,0,0,Croatia
+M-2022-63,P-26942,Mislav,Oršic,1992-12-29,18,1,0,0,0,Croatia
+M-2022-63,P-89948,Mario,Pašalic,1995-02-09,15,0,1,0,0,Croatia
+M-2022-63,P-93884,Ivan,Perišic,1989-02-02,4,1,1,0,0,Croatia
+M-2022-63,P-46461,Bruno,Petkovic,1994-09-16,16,1,0,0,0,Croatia
+M-2022-63,P-91350,Josip,Stanišic,2000-04-02,2,0,0,1,0,Croatia
+M-2022-63,P-22160,Nikola,Vlašic,1997-10-04,13,0,1,0,0,Croatia
+M-2022-63,P-57417,Josip,Šutalo,2000-02-28,24,0,0,1,0,Croatia
+M-2022-63,P-23330,Selim,Amallah,1996-11-15,15,0,1,0,0,Morocco
+M-2022-63,P-71023,Sofyan,Amrabat,1996-08-21,4,0,1,0,0,Morocco
+M-2022-63,P-91543,Yahia,Attiyat Allah,1995-03-02,25,0,0,1,0,Morocco
+M-2022-63,P-00597,Badr,Benoun,1993-09-30,24,0,0,1,0,Morocco
+M-2022-63,P-59033,Sofiane,Boufal,1993-09-17,17,0,1,0,0,Morocco
+M-2022-63,P-50688,Yassine,Bounou,1991-04-05,1,0,0,0,1,Morocco
+M-2022-63,P-87409,Ilias,Chair,1997-10-30,13,0,1,0,0,Morocco
+M-2022-63,P-52013,Achraf,Dari,1999-05-06,20,0,0,1,0,Morocco
+M-2022-63,P-80656,Bilal,El Khannous,2004-05-10,23,0,1,0,0,Morocco
+M-2022-63,P-14026,Jawad,El Yamiq,1992-02-29,18,0,0,1,0,Morocco
+M-2022-63,P-42517,Youssef,En-Nesyri,1997-06-01,19,1,0,0,0,Morocco
+M-2022-63,P-45288,Achraf,Hakimi,1998-11-04,2,0,0,1,0,Morocco
+M-2022-63,P-40619,Azzedine,Ounahi,2000-04-19,8,0,1,0,0,Morocco
+M-2022-63,P-05265,Abdelhamid,Sabiri,1996-11-28,11,1,0,0,0,Morocco
+M-2022-63,P-94093,Anass,Zaroury,2000-11-07,10,0,1,0,0,Morocco
+M-2022-63,P-70715,Hakim,Ziyech,1993-03-19,7,0,1,0,0,Morocco
+M-2022-64,P-73712,Marcos,Acuña,1991-10-28,8,0,1,1,0,Argentina
+M-2022-64,P-37314,Rodrigo,De Paul,1994-05-24,7,0,1,0,0,Argentina
+M-2022-64,P-42113,Ángel,Di María,1988-02-14,11,1,1,0,0,Argentina
+M-2022-64,P-28151,Paulo,Dybala,1993-11-15,21,1,0,0,0,Argentina
+M-2022-64,P-10739,Enzo,Fernández,2001-01-17,24,0,1,0,0,Argentina
+M-2022-64,P-71343,Alexis,Mac Allister,1998-12-24,20,0,1,0,0,Argentina
+M-2022-64,P-13162,Emiliano,Martínez,1992-09-02,23,0,0,0,1,Argentina
+M-2022-64,P-81505,Lautaro,Martínez,1997-08-22,22,1,0,0,0,Argentina
+M-2022-64,P-14758,Lionel,Messi,1987-06-24,10,1,0,0,0,Argentina
+M-2022-64,P-84430,Nahuel,Molina,1998-04-06,26,0,0,1,0,Argentina
+M-2022-64,P-91431,Gonzalo,Montiel,1997-01-01,4,0,0,1,0,Argentina
+M-2022-64,P-49114,Nicolás,Otamendi,1988-02-12,19,0,0,1,0,Argentina
+M-2022-64,P-27582,Leandro,Paredes,1994-06-29,5,0,1,0,0,Argentina
+M-2022-64,P-29298,Germán,Pezzella,1991-06-27,6,0,0,1,0,Argentina
+M-2022-64,P-79650,Cristian,Romero,1998-04-27,13,0,0,1,0,Argentina
+M-2022-64,P-35173,Nicolás,Tagliafico,1992-08-31,3,0,0,1,0,Argentina
+M-2022-64,P-19776,Julián,Álvarez,2000-01-31,9,1,0,0,0,Argentina
+M-2022-64,P-80996,Eduardo,Camavinga,2002-11-10,25,0,1,0,0,France
+M-2022-64,P-06614,Kingsley,Coman,1996-06-13,20,1,0,0,0,France
+M-2022-64,P-97778,Ousmane,Dembélé,1997-05-15,11,1,0,0,0,France
+M-2022-64,P-91324,Axel,Disasi,1998-03-11,3,0,0,1,0,France
+M-2022-64,P-23304,Youssouf,Fofana,1999-01-10,13,0,1,0,0,France
+M-2022-64,P-89750,Olivier,Giroud,1986-09-30,9,1,0,0,0,France
+M-2022-64,P-90908,Antoine,Griezmann,1991-03-21,7,1,0,0,0,France
+M-2022-64,P-09867,Théo,Hernandez,1997-10-06,22,0,0,1,0,France
+M-2022-64,P-92987,Randal,Kolo Muani,1998-12-05,12,1,0,0,0,France
+M-2022-64,P-86920,Ibrahima,Konaté,1999-05-25,24,0,0,1,0,France
+M-2022-64,P-78484,Jules,Koundé,1998-11-12,5,0,0,1,0,France
+M-2022-64,P-30711,Hugo,Lloris,1986-12-26,1,0,0,0,1,France
+M-2022-64,P-64077,Kylian,Mbappé,1998-12-20,10,1,0,0,0,France
+M-2022-64,P-57401,Adrien,Rabiot,1995-04-03,14,0,1,0,0,France
+M-2022-64,P-54517,Aurélien,Tchouaméni,2000-01-27,8,0,1,0,0,France
+M-2022-64,P-13613,Marcus,Thuram,1997-08-06,26,1,0,0,0,France
+M-2022-64,P-03945,Dayot,Upamecano,1998-10-27,18,0,0,1,0,France
+M-2022-64,P-42326,Raphaël,Varane,1993-04-25,4,0,0,1,0,France
