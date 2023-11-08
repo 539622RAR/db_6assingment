@@ -1,0 +1,167 @@
+1.
+SELECT First_name, Last_name
+FROM Player
+WHERE first_name LIKE '%[part_of_name]%';
+
+
+2.
+SELECT First_name, Last_name,Team,age
+FROM Player
+WHERE first_name LIKE '%[part_of_name]%';
+
+3.
+Select player_id,First_name , Last_name,position from Player
+Where position = 'defender';
+
+
+
+5.
+
+SELECT Matches.match_id,Matches.stage_name, home_team.country,away_team.country from Matches
+INNER JOIN Team home_team ON Matches.team_id = home_team.team_id
+INNER JOIN Team away_team ON Matches.team2_id = away_team.team_id
+where stage_name = 'group stage - Group A';
+
+6.
+Select Team.country ,GPlaces.place_number from GPlaces
+inner join Team on GPlaces.team_id = Team.team_id
+where place_number < 3 and group_name = 'A'
+order by  place_number asc
+
+7.
+SELECT Matches.match_id, Matches.stage_name, home_team.country AS 'home team', away_team.country AS 'away team', COUNT(Goal.goal_id) AS goals
+FROM Matches
+INNER JOIN Team home_team ON Matches.team_id = home_team.team_id
+INNER JOIN Team away_team ON Matches.team2_id = away_team.team_id
+INNER JOIN Goal ON Matches.match_id = Goal.match_id
+WHERE Matches.stage_name = 'round of 16' or Matches.stage_name ='quarter-finals' or Matches.stage_name ='semi-finals' or  Matches.stage_name ='third-place match' or Matches.stage_name ='final'
+GROUP BY Matches.match_id, Matches.stage_name, home_team.country, away_team.country;
+
+
+8.
+SELECT TOP 10 Player.First_Name, Player.Last_Name, COUNT(Goal.goal_id) as total_goals
+FROM Goal
+INNER JOIN Player ON Goal.player_id = Player.player_id
+GROUP BY Player.First_Name, Player.Last_Name
+HAVING COUNT(Goal.goal_id) > 0
+ORDER BY total_goals DESC;
+
+9.
+SELECT Player.First_Name,Player.Last_Name, Goal.goal_time, Player.Team
+FROM Goal
+JOIN Matches ON Goal.match_id = Matches.match_id
+JOIN Player ON Goal.player_id = Player.player_id
+WHERE Matches.stage_name = 'final'
+ORDER BY Goal.goal_time ;
+
+10.
+SELECT Player.First_Name, Player.Last_Name, COUNT(Goal.goal_id) AS Total_Goals
+FROM Goal
+INNER JOIN Player ON Goal.player_id = Player.player_id
+INNER JOIN Matches ON Goal.match_id = Matches.match_id
+WHERE Matches.stage_name = 'round of 16' or Matches.stage_name = 'quarter-finals' or Matches.stage_name = 'semi-finals' or Matches.stage_name = 'third-place match' or Matches.stage_name = 'final' 
+GROUP BY Player.First_Name, Player.Last_Name
+ORDER BY Total_Goals DESC;
+
+11.
+SELECT Player.First_Name, Player.Last_Name, COUNT(Goal.goal_id) AS Total_Penalty_Goals
+FROM Goal
+INNER JOIN Player ON Goal.player_id = Player.player_id
+WHERE Goal.in_game_goal = 0
+GROUP BY Player.First_Name, Player.Last_Name
+ORDER BY Total_Penalty_Goals DESC;
+
+12.
+SELECT AVG(GoalsPerMatch.AvgGoals) AS AverageGoalsPerMatch
+FROM (
+    SELECT Matches.match_id, COUNT(Goal.goal_id) AS AvgGoals
+    FROM Matches
+    LEFT JOIN Goal ON Matches.match_id = Goal.match_id
+    GROUP BY Matches.match_id
+) AS GoalsPerMatch;
+
+13.
+SELECT Player.First_Name, Player.Last_Name, COUNT(Goal.goal_id) AS Total_Goals
+FROM Goal
+INNER JOIN Player ON Goal.player_id = Player.player_id
+GROUP BY Player.First_Name, Player.Last_Name
+HAVING COUNT(Goal.goal_id) = 2  
+ORDER BY Total_Goals DESC;
+
+
+
+
+15.
+SELECT M.match_id, T1.Country AS home_team, T2.Country AS away_team, M.result
+FROM Matches AS M
+INNER JOIN Team AS T1 ON M.team_id = T1.team_id
+INNER JOIN Team AS T2 ON M.team2_id = T2.team_id;
+
+
+
+
+17.
+SELECT 
+    Player.First_Name, 
+    Player.Last_Name, 
+    Goal.goal_time AS Goal_Time,
+    Team_Home.Country AS Home_Team,
+    Team_Away.Country AS Away_Team
+FROM Goal
+INNER JOIN Player ON Goal.player_id = Player.player_id
+INNER JOIN Matches ON Goal.match_id = Matches.match_id
+INNER JOIN Team AS Team_Home ON Matches.team_id = Team_Home.team_id
+INNER JOIN Team AS Team_Away ON Matches.team2_id = Team_Away.team_id
+WHERE Goal.match_id = 'M-2022-64'  
+
+
+
+
+
+
+20.
+SELECT first_name ,last_name, T.country from managers
+INNER JOIN Team AS T ON managers.manager_id = t.manager_id
+
+OR
+SELECT first_name ,last_name, team from managers
+
+21.
+SELECT first_name ,last_name, team as nationality from managers
+
+
+22.
+SELECT TOP 5
+    first_name AS Referee_FirstName, 
+    last_name AS Referee_LastName,
+    bookings AS TotalBookings
+FROM Referees
+ORDER BY bookings DESC;
+
+23.
+SELECT
+    R.first_name AS Referee_FirstName,
+    R.last_name AS Referee_LastName,
+    M.match_id,
+    M.stage_name
+FROM referees AS R
+INNER JOIN ref_match AS RM ON R.ref_id = RM.ref_id
+INNER JOIN Matches AS M ON RM.match_id = M.match_id
+WHERE M.stage_name = 'quarter-finals';
+
+
+
+
+32.
+SELECT COUNT(*) AS TotalMatches
+FROM Matches
+WHERE team_id = 'T-13' OR team2_id = 'T-13';
+
+33.
+SELECT match_id, t1.country as Home_team, t2.country as Away_team
+FROM Matches
+inner join Team as t1 on Matches.team_id = t1.team_id
+Inner join Team as t2 on Matches.team2_id = t2.team_id
+WHERE (Matches.team_id = 'T-13' OR team2_id = 'T-13') AND result = 'Win';
+
+
