@@ -1,0 +1,9 @@
+stadium_id,country_id,city,station name,capacity
+ST-1,C-3,Al Khor,Al Bayt Stadium,69000
+ST-2,C-3,Al Rayyan,Khalifa International Stadium,46000
+ST-3,C-3,Doha,Al Thumama Stadium,44000
+ST-4,C-3,Al Rayyan,Ahmad bin Ali Stadium,45000
+ST-5,C-3,Lusail,Lusail Stadium,89000
+ST-6,C-3,Al Rayyan,Education City Stadium,45000
+ST-7,C-3,Doha,Stadium 974,44000
+ST-8,C-3,Al Wakrah,Al Janoub Stadium,44000
