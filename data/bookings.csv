@@ -1,0 +1,226 @@
+booking_id,match_id,player_id,minute,yellow card,red card,2nd yellow card,match_period
+B-1,M-2022-01,P-70879,15',1,0,0,first half
+B-2,M-2022-01,P-01930,22',1,0,0,first half
+B-3,M-2022-01,P-82216,29',1,0,0,first half
+B-4,M-2022-01,P-95754,36',1,0,0,first half
+B-5,M-2022-01,P-56839,56',1,0,0,second half
+B-6,M-2022-01,P-47319,78',1,0,0,second half
+B-7,M-2022-02,P-98775,25',1,0,0,first half
+B-8,M-2022-02,P-29864,48',1,0,0,second half
+B-9,M-2022-03,P-73572,56',1,0,0,second half
+B-10,M-2022-03,P-96697,90'+4',1,0,0,"second half, stoppage time"
+B-11,M-2022-03,P-40621,90'+6',1,0,0,"second half, stoppage time"
+B-12,M-2022-04,P-89452,11',1,0,0,first half
+B-13,M-2022-04,P-68952,13',1,0,0,first half
+B-14,M-2022-04,P-63927,40',1,0,0,first half
+B-15,M-2022-04,P-74888,45'+2',1,0,0,"first half, stoppage time"
+B-16,M-2022-04,P-26367,51',1,0,0,second half
+B-17,M-2022-04,P-86410,90'+10',1,0,0,"second half, stoppage time"
+B-18,M-2022-05,P-20216,67',1,0,0,second half
+B-19,M-2022-05,P-87284,75',1,0,0,second half
+B-20,M-2022-05,P-70583,79',1,0,0,second half
+B-21,M-2022-05,P-08125,82',1,0,0,second half
+B-22,M-2022-05,P-76864,88',1,0,0,second half
+B-23,M-2022-05,P-85438,90'+2',1,0,0,"second half, stoppage time"
+B-24,M-2022-06,P-82877,24',1,0,0,first half
+B-25,M-2022-06,P-26593,78',1,0,0,second half
+B-26,M-2022-06,P-21865,86',1,0,0,second half
+B-27,M-2022-07,P-24062,29',1,0,0,first half
+B-28,M-2022-07,P-21208,56',1,0,0,second half
+B-29,M-2022-07,P-23437,76',1,0,0,second half
+B-30,M-2022-08,P-91029,55',1,0,0,second half
+B-31,M-2022-08,P-34822,80',1,0,0,second half
+B-32,M-2022-08,P-95847,90'+5',1,0,0,"second half, stoppage time"
+B-33,M-2022-09,P-71023,78',1,0,0,second half
+B-34,M-2022-11,P-71100,68',1,0,0,second half
+B-35,M-2022-11,P-70812,90'+7',1,0,0,"second half, stoppage time"
+B-36,M-2022-12,P-22930,54',1,0,0,second half
+B-37,M-2022-12,P-21652,56',1,0,0,second half
+B-38,M-2022-12,P-46358,81',1,0,0,second half
+B-39,M-2022-12,P-12635,83',1,0,0,second half
+B-40,M-2022-12,P-06338,9',1,0,0,first half
+B-41,M-2022-13,P-47677,36',1,0,0,first half
+B-42,M-2022-13,P-19193,64',1,0,0,second half
+B-43,M-2022-13,P-23925,83',1,0,0,second half
+B-44,M-2022-14,P-74058,57',1,0,0,second half
+B-45,M-2022-14,P-87169,88',1,0,0,second half
+B-46,M-2022-15,P-23821,45'+1',1,0,0,"first half, stoppage time"
+B-47,M-2022-15,P-01945,49',1,0,0,second half
+B-48,M-2022-15,P-36105,57',1,0,0,second half
+B-49,M-2022-15,P-98929,90'+1',1,0,0,"second half, stoppage time"
+B-50,M-2022-15,P-53967,90'+1',1,0,0,"second half, stoppage time"
+B-51,M-2022-15,P-39584,90'+5',1,0,0,"second half, stoppage time"
+B-52,M-2022-16,P-24610,49',1,0,0,second half
+B-53,M-2022-16,P-78056,64',1,0,0,second half
+B-54,M-2022-16,P-98435,7',1,0,0,first half
+B-55,M-2022-17,P-38105,45'+3',1,0,0,"first half, stoppage time"
+B-56,M-2022-17,P-46457,86',0,1,0,second half
+B-57,M-2022-17,P-47137,90'+5',1,0,0,"second half, stoppage time"
+B-58,M-2022-17,P-98775,90'+5',1,0,0,"second half, stoppage time"
+B-59,M-2022-18,P-01077,20',1,0,0,first half
+B-60,M-2022-18,P-33622,30',1,0,0,first half
+B-61,M-2022-18,P-33804,45'+2',1,0,0,"first half, stoppage time"
+B-62,M-2022-18,P-54506,52',1,0,0,second half
+B-63,M-2022-18,P-61416,87',1,0,0,second half
+B-64,M-2022-18,P-63532,90'+1',1,0,0,"second half, stoppage time"
+B-65,M-2022-19,P-56839,57',1,0,0,second half
+B-66,M-2022-21,P-29063,26',1,0,0,first half
+B-67,M-2022-21,P-64924,64',1,0,0,second half
+B-68,M-2022-21,P-90867,90'+3',1,0,0,"second half, stoppage time"
+B-69,M-2022-22,P-44780,15',1,0,0,first half
+B-70,M-2022-22,P-17099,16',1,0,0,first half
+B-71,M-2022-22,P-12381,19',1,0,0,first half
+B-72,M-2022-22,P-20216,20',1,0,0,first half
+B-73,M-2022-22,P-12335,45'+4',1,0,0,"first half, stoppage time"
+B-74,M-2022-23,P-18923,20',1,0,0,first half
+B-75,M-2022-23,P-29053,23',1,0,0,first half
+B-76,M-2022-23,P-78484,43',1,0,0,first half
+B-77,M-2022-24,P-38529,22',1,0,0,first half
+B-78,M-2022-24,P-91431,43',1,0,0,first half
+B-79,M-2022-24,P-64299,50',1,0,0,second half
+B-80,M-2022-24,P-42911,66',1,0,0,second half
+B-81,M-2022-24,P-73491,89',1,0,0,second half
+B-82,M-2022-25,P-02556,41',1,0,0,first half
+B-83,M-2022-25,P-45981,44',1,0,0,first half
+B-84,M-2022-25,P-11767,61',1,0,0,second half
+B-85,M-2022-25,P-71100,70',1,0,0,second half
+B-86,M-2022-25,P-35225,84',1,0,0,second half
+B-87,M-2022-25,P-53282,90'+3',1,0,0,"second half, stoppage time"
+B-88,M-2022-26,P-21652,29',1,0,0,first half
+B-89,M-2022-26,P-05265,90'+5',1,0,0,"second half, stoppage time"
+B-90,M-2022-27,P-96259,52',1,0,0,second half
+B-91,M-2022-27,P-56297,56',1,0,0,second half
+B-92,M-2022-27,P-29491,85',1,0,0,second half
+B-93,M-2022-27,P-31806,85',1,0,0,second half
+B-94,M-2022-28,P-11933,37',1,0,0,first half
+B-95,M-2022-28,P-28010,44',1,0,0,first half
+B-96,M-2022-28,P-79409,58',1,0,0,second half
+B-97,M-2022-28,P-30316,60',1,0,0,second half
+B-98,M-2022-29,P-93209,24',1,0,0,first half
+B-99,M-2022-29,P-51549,30',1,0,0,first half
+B-100,M-2022-29,P-62033,45'+4',1,0,0,"first half, stoppage time"
+B-101,M-2022-29,P-57535,90'+3',1,0,0,"second half, stoppage time"
+B-102,M-2022-30,P-82956,21',1,0,0,first half
+B-103,M-2022-30,P-64292,27',1,0,0,first half
+B-104,M-2022-30,P-12913,73',1,0,0,second half
+B-105,M-2022-30,P-07259,77',1,0,0,second half
+B-106,M-2022-31,P-25593,50',1,0,0,second half
+B-107,M-2022-31,P-74941,52',1,0,0,second half
+B-108,M-2022-32,P-22983,38',1,0,0,first half
+B-109,M-2022-32,P-90796,44',1,0,0,first half
+B-110,M-2022-32,P-58791,6',1,0,0,first half
+B-111,M-2022-32,P-17931,77',1,0,0,second half
+B-112,M-2022-32,P-10712,89',1,0,0,second half
+B-113,M-2022-33,P-40621,66',1,0,0,second half
+B-114,M-2022-34,P-64438,52',1,0,0,second half
+B-115,M-2022-35,P-14151,43',1,0,0,first half
+B-116,M-2022-35,P-15905,77',1,0,0,second half
+B-117,M-2022-35,P-74612,83',1,0,0,second half
+B-118,M-2022-35,P-62858,90'+6',1,0,0,"second half, stoppage time"
+B-119,M-2022-36,P-74707,29',1,0,0,first half
+B-120,M-2022-36,P-86951,61',1,0,0,second half
+B-121,M-2022-37,P-51118,4',1,0,0,first half
+B-122,M-2022-37,P-59727,57',1,0,0,second half
+B-123,M-2022-37,P-76468,75',1,0,0,second half
+B-124,M-2022-38,P-27079,28',1,0,0,first half
+B-125,M-2022-39,P-73712,49',1,0,0,second half
+B-126,M-2022-39,P-45449,78',1,0,0,second half
+B-127,M-2022-40,P-26546,16',1,0,0,first half
+B-128,M-2022-40,P-37308,28',1,0,0,first half
+B-129,M-2022-40,P-45413,34',1,0,0,first half
+B-130,M-2022-40,P-93173,52',1,0,0,second half
+B-131,M-2022-40,P-20388,81',1,0,0,second half
+B-132,M-2022-40,P-12335,90'+1',1,0,0,"second half, stoppage time"
+B-133,M-2022-40,P-84563,90'+7',1,0,0,"second half, stoppage time"
+B-134,M-2022-41,P-27541,26',1,0,0,first half
+B-135,M-2022-41,P-55821,45'+2',1,0,0,"first half, stoppage time"
+B-136,M-2022-41,P-35706,7',1,0,0,first half
+B-137,M-2022-41,P-89710,84',1,0,0,second half
+B-138,M-2022-42,P-73834,67',1,0,0,second half
+B-139,M-2022-43,P-97912,77',1,0,0,second half
+B-140,M-2022-44,P-35225,39',1,0,0,first half
+B-141,M-2022-44,P-77382,44',1,0,0,first half
+B-142,M-2022-44,P-89321,45',1,0,0,first half
+B-143,M-2022-45,P-18885,20',1,0,0,first half
+B-144,M-2022-45,P-30486,60',1,0,0,second half
+B-145,M-2022-45,P-33325,86',1,0,0,second half
+B-146,M-2022-45,P-20051,87',1,0,0,second half
+B-147,M-2022-45,P-65659,90'+10',1,0,0,"second half, stoppage time"
+B-148,M-2022-45,P-59138,90'+10',1,0,0,"second half, stoppage time"
+B-149,M-2022-45,P-36105,90'+9',1,0,0,"second half, stoppage time"
+B-150,M-2022-46,P-87514,36',1,0,0,first half
+B-151,M-2022-46,P-58692,90'+2',1,0,0,"second half, stoppage time"
+B-152,M-2022-47,P-29115,28',1,0,0,first half
+B-153,M-2022-47,P-47677,32',1,0,0,first half
+B-154,M-2022-47,P-55367,6',1,0,0,first half
+B-155,M-2022-47,P-55590,7',1,0,0,first half
+B-156,M-2022-47,P-53452,81',1,0,1,second half
+B-157,M-2022-47,P-74688,85',1,0,0,second half
+B-158,M-2022-48,P-38927,15',1,0,0,first half
+B-159,M-2022-48,P-85823,34',1,0,0,first half
+B-160,M-2022-48,P-27744,47',1,0,0,second half
+B-161,M-2022-48,P-98435,56',1,0,0,second half
+B-162,M-2022-48,P-35773,66',1,0,0,second half
+B-163,M-2022-48,P-24610,81',1,0,0,second half
+B-164,M-2022-48,P-85696,82',1,0,0,second half
+B-165,M-2022-48,P-78056,90'+10',1,0,0,"second half, stoppage time"
+B-166,M-2022-48,P-57535,90'+5',1,0,0,"second half, stoppage time"
+B-167,M-2022-48,P-77224,90'+5',1,0,0,"second half, stoppage time"
+B-168,M-2022-48,P-25131,90'+9',1,0,0,"second half, stoppage time"
+B-169,M-2022-49,P-35705,60',1,0,0,second half
+B-170,M-2022-49,P-17688,87',1,0,0,second half
+B-171,M-2022-50,P-34822,15',1,0,0,first half
+B-172,M-2022-50,P-59727,38',1,0,0,first half
+B-173,M-2022-51,P-54517,32',1,0,0,first half
+B-174,M-2022-51,P-42160,47',1,0,0,second half
+B-175,M-2022-51,P-17099,88',1,0,0,second half
+B-176,M-2022-52,P-47321,76',1,0,0,second half
+B-177,M-2022-53,P-95766,116',1,0,0,"extra time, second half"
+B-178,M-2022-53,P-07670,90',1,0,0,second half
+B-179,M-2022-54,P-64292,44',1,0,0,first half
+B-180,M-2022-55,P-99025,77',1,0,0,second half
+B-181,M-2022-55,P-26068,90',1,0,0,second half
+B-182,M-2022-56,P-25131,43',1,0,0,first half
+B-183,M-2022-56,P-56868,59',1,0,0,second half
+B-184,M-2022-57,P-46461,117',1,0,0,"extra time, second half"
+B-185,M-2022-57,P-40137,25',1,0,0,first half
+B-186,M-2022-57,P-79215,31',1,0,0,first half
+B-187,M-2022-57,P-02305,68',1,0,0,second half
+B-188,M-2022-57,P-76060,77',1,0,0,second half
+B-189,M-2022-58,P-91431,109',1,0,0,"extra time, second half"
+B-190,M-2022-58,P-29298,112',1,0,0,"extra time, second half"
+B-191,M-2022-58,P-97615,120'+8',1,0,1,"extra time, second half, stoppage time"
+B-192,M-2022-58,P-57903,120'+9',1,0,0,"extra time, second half, stoppage time"
+B-193,M-2022-58,P-74111,43',1,0,0,first half
+B-194,M-2022-58,P-73712,43',1,0,0,first half
+B-195,M-2022-58,P-79650,45',1,0,0,first half
+B-196,M-2022-58,P-95036,45'+2',1,0,0,"first half, stoppage time"
+B-197,M-2022-58,P-27540,76',1,0,0,second half
+B-198,M-2022-58,P-23070,76',1,0,0,second half
+B-199,M-2022-58,P-10326,88',1,0,0,second half
+B-200,M-2022-58,P-27582,89',1,0,0,second half
+B-201,M-2022-58,P-14758,90'+10',1,0,0,"second half, stoppage time"
+B-202,M-2022-58,P-49114,90'+12',1,0,0,"second half, stoppage time"
+B-203,M-2022-58,P-44799,91',1,0,0,"extra time, first half"
+B-204,M-2022-59,P-52013,70',1,0,0,second half
+B-205,M-2022-59,P-89266,87',1,0,0,second half
+B-206,M-2022-59,P-05216,90'+1',1,0,1,"second half, stoppage time"
+B-207,M-2022-60,P-90908,43',1,0,0,first half
+B-208,M-2022-60,P-97778,46',1,0,0,second half
+B-209,M-2022-60,P-09867,82',1,0,0,second half
+B-210,M-2022-60,P-02465,90',1,0,0,second half
+B-211,M-2022-61,P-99988,32',1,0,0,first half
+B-212,M-2022-61,P-07670,32',1,0,0,first half
+B-213,M-2022-61,P-79650,68',1,0,0,second half
+B-214,M-2022-61,P-49114,71',1,0,0,second half
+B-215,M-2022-62,P-59033,27',1,0,0,first half
+B-216,M-2022-63,P-40619,69',1,0,0,second half
+B-217,M-2022-63,P-23330,84',1,0,0,second half
+B-218,M-2022-64,P-27582,114',1,0,0,"extra time, second half"
+B-219,M-2022-64,P-91431,116',1,0,0,"extra time, second half"
+B-220,M-2022-64,P-13162,120'+5',1,0,0,"extra time, second half, stoppage time"
+B-221,M-2022-64,P-10739,45'+7',1,0,0,"first half, stoppage time"
+B-222,M-2022-64,P-57401,55',1,0,0,second half
+B-223,M-2022-64,P-13613,87',1,0,0,second half
+B-224,M-2022-64,P-89750,90'+5',1,0,0,"second half, stoppage time"
+B-225,M-2022-64,P-73712,90'+8',1,0,0,"second half, stoppage time"
